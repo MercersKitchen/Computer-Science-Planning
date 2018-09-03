@@ -11,9 +11,9 @@ Text Documents and Supporting Documents to begin to imagine classroom experience
 - "Thinking Like a Professional Developer": for example: web developer, production software developer for apps, etc.
 - Sections: Theory & Concepts, Algorithm, Data & Data Structures, and Coding (Algorithm Translation)
 - Presumes an Order of Courses; and, which courses to include
-- Illustrates vocabulary and concepts
+- Illustrates vocabulary, concepts, etc.
 - Guides vertical teaming of different courses
-- Note: here, review information given first, then level-appropriate information
+- Note: review information given first, then level-appropriate information
 
 ## Repository Sections (Pathways)
 1. Curriculum-level courses from Alberta Education's Computer Science Education within Career and Technology Studies Program of Studies
@@ -22,6 +22,8 @@ Text Documents and Supporting Documents to begin to imagine classroom experience
    - Assessment Guide for Computer Science Principles
    - Assessment Guide for Computer Science A
 3. First Day: tasks and activities introducing students to technology and tools to experience computer science education
+   - Note: see BYOD Repository for specific information
+   - General Classroom Teacher Activites not included here
 
 **For School-level Courses and Classroom Experience, see**
 1. Computer Science 10: https://github.com/MercersKitchen/CS10
