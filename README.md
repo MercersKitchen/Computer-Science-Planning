@@ -9,7 +9,7 @@ Text Documents and Supporting Documents to begin to imagine classroom experience
 
 **Organization of Outcomes**: to facilitate industry-level project-based learning
 - "Thinking Like a Professional Developer": for example: web developer, production software developer for apps, etc.
-- Sections: Theory & Concepts, Algorithm, Data & Data Structures, Coding (Algorithm Translation)
+- Sections: Theory & Concepts, Algorithm, Data & Data Structures, and Coding (Algorithm Translation)
 - Presumes an Order of Courses; and, which courses to include
 - Illustrates vocabulary and concepts
 - Guides vertical teaming of different courses
