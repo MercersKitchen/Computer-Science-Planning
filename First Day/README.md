@@ -1,6 +1,6 @@
 # First Day
 ---
-Introduction to Tools used in Mercer's Kitchen for Language Agnostic Computer Science Instruction
+## Introduction to Tools used in Mercer's Kitchen for Language Agnostic Computer Science Instruction
 - GMail through Schoolzone (school-based email addresses)
 - Google Classroom
 - GitHub
@@ -9,7 +9,7 @@ Introduction to Tools used in Mercer's Kitchen for Language Agnostic Computer Sc
    - Add Extension First 
 - Semester Calendar: events and general flow
 
-General Tasks
+## General Tasks
 1. Reviewing the course outline and syllabus
 2. Setting up
    - GMail & Password Manager (Last Pass, KeePass)
@@ -19,4 +19,4 @@ General Tasks
 3. Overview of major projects
 4. Reviewing the Semester Calendar for events and general flow
 
-Creating a Community, Thoughts from a Video ... **UNESCO Style**
+## Creating a Community, Thoughts from a Video ... **UNESCO Style**
