@@ -4,6 +4,9 @@ Introduction to Tools used in Mercer's Kitchen for Language Agnostic Computer Sc
 - GMail through Schoolzone (school-based email addresses)
 - Google Classroom
 - GitHub
+- Workona, Chrome Extension: use Chrome Store & Workona Website
+   - Create account on website
+   - Add Extension First 
 - Semester Calendar: events and general flow
 
 General Tasks
