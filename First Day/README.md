@@ -18,3 +18,6 @@ General Tasks
    - GitHub and GitHub Desktop
 3. Overview of major projects
 4. Reviewing the Semester Calendar for events and general flow
+
+Creating a Community, Thoughts from a Video ... **UNESCO Style**
+- 
