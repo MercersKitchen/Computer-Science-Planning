@@ -1,0 +1,86 @@
+CS 10 Courses
+- Courses that continue are noted
+- Prerequistis are also notes
+- List Curriculum Reference abrivations
+- Projects and Rubrics based on flowing (Email Mr. Mercer for more details)
+  "Once an outcome is listed, it's expected to continue as appropriate."
+
+Main Project and Boundaries (Processing-Java)
+Quit Button Design, Template for Other GUI Features
+GUI Ratios - communication with device before rendering
+Chess Board - Basic GUI Design
+Music Player - Main Project, option to Android Side-load
+
+Thoery, Concepts
+- (CP1) Computer Science vs. Computer Engineering (furture vs. present)
+- (CP1) Software development: iterative and incremental
+- (CP1) Software Developement: waterfall
+- (CP1) Tools for Systems Developement Life Cycle Model
+  Data Flowcharts
+  Psuedocode
+  Input-Output-Processing
+- (CP1) Control Strutures
+  Sequential
+  Decision
+  Iterative
+- (CP1) Data Representation
+  Binary
+  Hexadecimal
+  Standard or Primitive
+  Data Storage models (address, value | shelf, item)
+- (CP1) Archetecture of Von Neumann Machine
+  BLock Diagram of flow
+  Typical devices associated with each part
+  Flow of Data
+- (SP1) Introduction to developement environments
+  IDE: editor, interpreter & syntax, command line or console, exectuion
+  
+Algorithm
+- (CP1) Essential
+  Accumuliation (running total)
+  Determinine a Mean (central tendancy, not median, or mode without sorting)
+  Maximums and Minimums
+- (SP1) Use IPO structure, maintain separations
+  Struture maintained through Procedural and Object Methodologies
+- (SP1) Record Output in Appropriate format
+- (SP2) Use More than one IPO Module
+- (SP2) User Input Data (sensor) vs. Computed Data vs. Hard-coded data
+- Enrichemnt: using libraries to simplify coding using prebuilt functions
+  See Music Player
+
+Data and Data Stucutures
+- (SP1) Primitive Data Types and Boundaries of these
+  Integers
+  Real Numbers: floats & doubles
+  Characters
+  Strings
+- (SP1) Variables and Constants (for Security)
+- (SP1) Literals
+- (SP1) Input Command (methods or opperators)
+- (SP2) Use Boolean data for decision and iterative control structures
+  Boundaries of Data, including internal markers for outputs or errors
+- (Enrichment) Introduce Arrays
+  Alpha-numeric numbering
+  Grouping variables and constants
+  Using Index to match boundaries of data expectations
+    (See Music Player Project)
+
+Coding (Algorithm Translation)
+- (SP1) Use documentation and Syntax
+  Internal: comments
+  External: ReadMe.txt, ReadMe.md
+- (SP1) Interpret and Change
+  Syntax Errors: recognize and change
+  Logic Errors: in various places like debugger or console
+  Run-time Errors: in console or Rendering errors
+- (SP2) Use following literals or operators
+  Assignment
+  Arithmetic
+  Relational
+  Boolean
+  Concatentaion
+  Interpolation
+- (SP2) Use Appropriate slection or iteration structures to avoid unconditional
+  branching or exiting
+  I.e. Nested conditional (IF-IF | AND)
+  I.e. Nested Iterative (similar to 2D Array, 2D Plane)

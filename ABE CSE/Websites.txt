@@ -1,0 +1,110 @@
+Github & HTML
+HTML and inline CSS
+CSS Files
+
+PWA
+Chrome Extensions
+
+CSE1210 Client-side Scripting 1 (CCS1)
+CSE1220 Client-side Scripting 2 (CCS2)
+CSE2210 Client-side Scripting 3 (CCS3)
+CSE3210 Server-side Scripting 1 (SSS1) - needs reviewing
+
+Thoery, Concepts
+- (CSS1) Explore architecture of Internet
+  Client-server relationships of Real (MAC) and Logical Addressing
+    - workstations
+    - stub networks
+    - LANs defined by switch
+    - WANs defined by router (edge router)
+    - MANs defined by region or provider
+    - Backbone of Internet defined by "in the wild" routers
+  TCP/IP & OSI Models: IP Socket is main goal
+    - SSH & Putty
+    - TightVNC, Real VNC
+    - Note: review main ports, public & static, public and variable, variable
+  Illustrate requests of Internet: "all at once" (Netflix), packets (checked)
+    - DNS
+    - Pathways
+    - Browser
+    - EMail Server
+    - Print Server
+  Command Examples
+    - - /? | ?
+    - ping
+    - traceroute
+    - nslookup
+	(note: https://www.cloudns.net/blog/10-most-used-nslookup-commands/)
+  Web Documents Design: hypertext (HTTP & HTTPS)
+- (CSS2) Locally Hosted Websites
+- (CCS2) Explore static and dynamic webpages, introduce version control GitHub
+  Use Internal (beginning, end, & inline) and External Documentation (.md & .txt)
+  Use Case Study Analysis with Single Page Websites illustrating User Experience
+  Use Case Study Analysis with hypertext to create abstract understanding of 
+    - Parent Page (CSS-based)
+    - Child Pages (CSS-based)
+  Introduce Concept of Information-based parent-child pages with 
+    abstract CSS groupings
+- (CCS2) Use decomposition design and variable naming abstraction to CSS Files
+  Classes
+  IDs
+- (CSS3) GitHub Hosted Websites, Raspberry Pi Hosted Websites
+- (CCS3) Creating personal libraries of HTML5 Scripts for intended purposes
+  Internet Found and Evalauted, note about incorporating into website project
+  Personally written for website project
+- (CCS3) Purposes for personal Libraries
+  Code reuse: procedural and objects
+  Security: data hiding and information protection
+  Readability
+  Prmotion of collaboration
+  Reduction of unwanted side effects
+- (SSS1) Key Features of Server-side Scripting Environments and Scripting
+  Data-bases
+
+Algorithm
+- (CCS2) Introduce Core JavaScript Algorithms, outputing to Browser Console
+  Sequencing
+  Selection
+  Iternation
+  Accumulation
+  Determining maximum or minimum values
+- (CSS3) Paper and Pencil Fail Test (Case Study or Real Website) with "pre" and 
+  "post" conditions, program control mechanisms, and data processing
+- (***) Introduce CSS Variables and algoroithic structure for styling websites
+
+Data and Data Stuctures
+- (CCS2) HTML Forms & Data Flowchart Analysis
+- (CCS2) Primitive Data Structures in JavaScript
+  Varaibles and Constants
+  Assignment, arithmetical, relational, Boolean, concatenation, and string
+    construction operators
+- (CCS3) Arrays and Rest Operator
+- (***) Introduce CSS Variables and other structures for advanced styling effects
+
+Coding (Algorithm Translation)
+- (CCS1) Use Markup Languages
+  GitHub ReadMe.md Markup with HTML
+  HTML within Browser (version control by GitHub)
+- (CCS1) Organization of Markup
+  determine and outline the intent of the document
+  organize the document into appropriate subsections or pages
+  describe the content to be carried on each page
+  illustrate how the content is to be displayed
+  identify the locations of the required anchors and links
+- (CCS1) Document Design to hypertext using tags, attributes, and hyperlinks
+  mark off the various parts of the document
+  display text and visual data in a variety of formats
+  create specialized formats such as lists, tables and frames
+  create both textual and image-based hyperlinks (single images & mapped images)
+- (CCS1) Use style codes inline with HTML
+- (CCS1) Enrichment: java-script writing HTML
+- (CCS2) Use CSS to add style to HTML 
+  Embedded
+  Separate Files
+- (CCS2) Use HTML Forms
+  Explore soliciting information
+  Determine content rendering
+  Determine input managing, subsequent interaction
+- (CSS2) Problem Solve with JavaScript
+  Conditional & Iterative Blocks
+  Processed data properly formatted and rendered to Browser

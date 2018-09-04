@@ -1,0 +1,30 @@
+General Expectations
+- ID Outcomes Needed from 2 Other Courses or Deliverables
+- How these outcomes are connected to performance delieverables
+
+Teacher Expectations:
+- Preparign a plan
+- Clairfying Purposes
+- Defining Delieverables
+- Specifying Timeslines
+- Explainint terminology (tools and processes)
+- Define Assesssment Standards
+- Present Proposal and obtain necessary Approvals
+
+Student Expectations:
+- Complete Project
+
+General Expectations
+- Submit through GitHub
+- Documentation through ReadMe.md (and ReadMe.txt if necessary)
+- Communcicate all problems and solutions to peers or teacher, 
+  recording progress
+- Create To Do List for Project Completion, with dates
+  User Expereince
+  Program Behaviours
+  Coding Details
+- Final Presentation will
+  Describe outcomes completed
+  Describe Items of Project List not completed
+  Processes and Strategies Used
+  Recommendations about project changes, future ideas, improvements
