@@ -19,4 +19,5 @@
 3. Overview of major projects
 4. Reviewing the Semester Calendar for events and general flow
 
-## Creating a Community, Thoughts from a Video ... **UNESCO Style**
+## Additional Ideas to Consider
+Creating a Community, Thoughts from a Video ... **UNESCO Style**
