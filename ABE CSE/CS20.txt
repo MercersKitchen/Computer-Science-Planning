@@ -1,49 +1,49 @@
 CS 20 Courses
 - Courses that continue are noted
-- Prerequistis are also notes
-- List Curriculum Reference abrivations
+- Prerequisites are also notes
+- List Curriculum Reference abbreviations
 - Projects and Rubrics based on flowing (Email Mr. Mercer for more details)
   "Once an outcome is listed, it's expected to continue as appropriate."
 
 Main Project and Boundaries (Processing-Java)
 Main Lesson: String Data vs. ASCII Data
 Weather Map - Using APIs within GUI, Option to Android Side-load
-Smart Meter - Using API to deleiver information for user-choices
+Smart Meter - Using API to deliver information for user-choices
 - Leads to using sensors (i.e. GPS Locator) for Cause-Effect
 - I.e. if cell phones leaves house, turn off lights (option to manually turn on,
-  with notification sent that light manually turned on, psuedo-security)
+  with notification sent that light manually turned on, pseudo-security)
 
-Thoery, Concepts
-- (SP1) Introduction to developement environments
-  IDE: editor, interpreter & syntax, command line or console, exectuion
+Theory, Concepts
+- (SP1) Introduction to development environments
+  IDE: editor, interpreter & syntax, command line or console, execution
 - (CP2) Explain Qualitative Changes
   Cell Phone and Device Apps
   Progressive Web Apps
-  From traditional computation, information warehousing (databases), and 
-    automation and cybernetics 
+  From traditional computation, information warehousing (databases), and
+    automation and cybernetics
   To focusing on communication, social and commercial networking, entertainment
-    and artificial intelligence, and bionics and cyborganization and artificial
-    inteligence (and life?), i.e. 2018 Google is AI
+    and artificial intelligence, and bionics and cyber-organization and artificial
+    intelligence (and life?), i.e. 2018 Google is AI
   Projected expansion into personal expert systems, implanted systems and
     artificial life
 - (CP2) Explore areas of ethical and moral concern
-  Privacy Issues; e.g., data mining and database consolidation, tracking of 
-	          financial transactions, e-mail and other communications 
+  Privacy Issues; e.g., data mining and database consolidation, tracking of
+	          financial transactions, e-mail and other communications
 		  monitoring
   Security Issues; e.g., identity and information theft
-  Equality Issues; e.g., emergence of the “digital divide”
-  Freedom Issues; e.g., privatization of information and control of 
+  Equality Issues; e.g., emergence of the digital divide
+  Freedom Issues; e.g., privatization of information and control of
 		  information flow
-- (CP1) Tools for Systems Developement Life Cycle Model
+- (CP1) Tools for Systems Development Life Cycle Model
   Data Flowcharts
-  Psuedocode
+  Pseudocode
   Input-Output-Processing
-- (CP2) Systems Developement Life Cycle Model Modular Approaches
+- (CP2) Systems Development Life Cycle Model Modular Approaches
   problem parsing and decomposition
   identification of subtasks
   data structuring
   operation identification
-- (CP2) Systems Developement Life Cycle Model Design Steps
+- (CP2) Systems Development Life Cycle Model Design Steps
   "Processes and Strategies"
   top-down design
   stepwise refinement
@@ -54,23 +54,23 @@ Thoery, Concepts
   reusable modules and submodules
   data dictionaries, where required
   bottom-up coding, where appropriate
-- (CP2) Tools for Systems Developement Life Cycle Model
+- (CP2) Tools for Systems Development Life Cycle Model
   Hierarchy plus input/process/output (HIPO) charting
   Structure diagrams
   Warnier/Orr diagrams
-- (CP2) Methods for Systems Developement Life Cycle Model
+- (CP2) Methods for Systems Development Life Cycle Model
   "Code Flat, single purpose, Program based on Multi-Module Algorithm"
   "Test and Debug single module"
   "Integrate module into project using Procedures"
 - (CP2) Procedure: no return
   (CP2) Function: single return
-- (CP1) Archetecture of Von Neumann Machine
-  BLock Diagram of flow
+- (CP1) Architecture of Von Neumann Machine
+  Block Diagram of flow
   Typical devices associated with each part
   Flow of Data
-- (CP2) Architecure of Von Neumann Machine
-  "What happens 
-  Basic components of 
+- (CP2) Architecture of Von Neumann Machine
+  "What happens
+  Basic components of
     Central Processing Unit (CPU)
     Arithmetic Logic Unit (ALU)
     control unit
@@ -94,69 +94,70 @@ Thoery, Concepts
     Information managers
     Schedulers
     Utilities
-- (DS1) Explore Fundamental Data Structures or Derrived Data Structures
+- (DS1) Explore Fundamental Data Structures or Derived Data Structures
   Stored in memory
-  Compare and constrast with primitive data structures (advantages,disadvantages)
+  Compare and contrast with primitive data structures (advantages, disadvantages)
   Advantages & Disadvantages of using this type of memory
 - (DS1) Describe and Represent of Static Array, Record, and Dynamic Array
   Use of cells to store data
   Data homogeneity
   Set of an index (or indices) to identify the location of data elements
   Use of field names to identify the location of data elements
-  Types: for example, single dimensional arrays, (lists), double dimensional 
+  Types: for example, single dimensional arrays, (lists), double dimensional
 	 arrays (tables) and parallel arrays (look-up or associative tables)
 - (F&FS1) Text Files: client-server relationship
   Simple: creating Text File after Program Closes (write all at once)
-  Intermdiate: creating text file during operation (read and write)
+  Intermediate: creating text file during operation (read and write)
   Advanced: Read and Write Text files as program starts, operates, and closes
   How programming environments access secondary storage devices
   How operating systems handle process of manipulating data in secondary memory
-  How programming environments request file handling services from the 
+  How programming environments request file handling services from the
     operating system
   Use of a file buffer, data stream and file descriptor table
 
 Algorithm
 - (CP1) Essential
-  Accumuliation (running total)
-  Determinine a Mean (central tendancy, not median, or mode without sorting)
+  Accumulation (running total)
+  Determining a Mean (central tendency, not median, or mode without sorting)
   Maximums and Minimums
 - (SP1) Use IPO structure, maintain separations
-  Struture maintained through Procedural and Object Methodologies
+  Structure maintained through Procedural and Object Methodologies
 - (SP1) Record Output in Appropriate Format
 - (SP2) Use More than one IPO Modules
 - (SP2) User Input Data (sensor) vs. Computed Data vs. Hard-coded data
-- (CP2) Key Algorithms with Derrived Data (i.e. arrays)
+- (CP2) Key Algorithms with Derived Data (i.e. arrays)
   "Making Memories"
   Traversing
   Searching
   Sorting
   Merging
-- (CP2) Systems Developement Life Cycle Procdural Algorithm translation to 
+- (CP2) Systems Development Life Cycle Procedural Algorithm translation to
   Coding approaches (Processes and Strategies)
   Subprograms
   Procedures/functions
   Stub programming
   Prototyping
   Libraries (and APIs documentation and API used here)
-    using libraries to simplify coding using prebuilt functions introduced in 
+    using libraries to simplify coding using prebuilt functions introduced in
     CS10, see Music Player
+- Determining central tendency: mean, median, and mode with derived data algorithms (see above)
 - (PP1) Procedural Programming Goals in Algorithm
-  Reduction of Dupilcate code (when program flat)
+  Reduction of Duplicate code (when program flat)
   Reuse code
     - Simple: reuse duplicate code in same module (simple parameter passing)
     - Advanced: design module to use (abstract parameter passing & return)
-  Modules accessible for Maintainability adn Extendability
+  Modules accessible for Maintainability and Extendibility
     - includes documentation, location ("finding modules"), and organization
-  Procedures introduce security: hiding by 'obsecurity'
+  Procedures introduce security: hiding by 'obscurity'
   "Making code read like a novel"
-- (PP1) Analyse and Refine modules into more manageable pieces
-  I.e. Flat Testing Developement incorporated into more complex program
+- (PP1) Analyze and Refine modules into more manageable pieces
+  I.e. Flat Testing Development incorporated into more complex program
   "Refinement might be more with translating algorithm into code"
 - (PP1) Data Flowchart: explicit pre & post data conditions
 - (PP1) "Fail on Paper" Tests of Algorithms using charts and Data Flowcharts
-- (DS1) Create algorithms using of fundamental data structures (derrived data)
+- (DS1) Create algorithms using of fundamental data structures (derived data)
 
-Data and Data Stucutures
+Data and Data Structures
 - (SP1) Primitive Data Types and Boundaries of these
   Integers
   Real Numbers: floats & doubles
@@ -164,10 +165,10 @@ Data and Data Stucutures
   Strings
 - (SP1) Variables and Constants (for Security)
 - (SP1) Literals
-- (SP1) Input Command (methods or opperators)
+- (SP1) Input Command (methods or operators)
 - (SP2) Use Boolean data for decision and iterative control structures
   Boundaries of Data, including internal markers for outputs or errors
-- (CP2) Examples of Derrived Data (language specific)
+- (CP2) Examples of Derived Data (language specific)
   Arrays
   Vectors
   Matrices
@@ -196,10 +197,10 @@ Data and Data Stucutures
   Determining the size of the structure
   Copying the structure
   Comparing two structures of the same type
-- (PP1) Using subprograms for derrived data security (hiding) and duplication
+- (PP1) Using subprograms for derived data security (hiding) and duplication
   for unintended changes (undo calculations if error checking provides and error
-  Use Search Methods and Linear Functions (etc) for Error Checking
-- (DS1) Fundamental Data Structures (Derrived Data) Operations
+  Use Search Methods and Linear Functions (etc.) for Error Checking
+- (DS1) Fundamental Data Structures (Derived Data) Operations
   Creating the structure
   Inserting, deleting and replacing data in the structure
   Searching, finding and retrieving data from the structure
@@ -208,10 +209,10 @@ Data and Data Stucutures
   Comparing two structures of the same type
 - (F&FS1) Text Files
   Type of data: text (Strings, ASCII code), binary
-  Type of Orgagnzation:
-    - Deliniated: space, tab
+  Type of Organization:
+    - Delineated: space, tab
     - Table Format
-    - Single Line Formated
+    - Single Line Formatted
     - Combinations of Above
   Access speed
   Storage space requirement
@@ -231,9 +232,9 @@ Coding (Algorithm Translation)
   Arithmetic
   Relational
   Boolean
-  Concatentaion
+  Concatenation
   Interpolation
-- (SP2) Use Appropriate slection or iteration structures to avoid unconditional
+- (SP2) Use Appropriate selection or iteration structures to avoid unconditional
   branching or exiting
   I.e. Nested conditional (IF-IF | AND)
   I.e. Nested Iterative (similar to 2D Array, 2D Plane)
@@ -270,9 +271,9 @@ Coding (Algorithm Translation)
 - (F&FS1) Text File Evaluations
   Storage space required
   Number and speed of required operations
-  Programmer efficiency  
+  Programmer efficiency
   Implementation in Main Program, subprograms, or both
 - (F&FS1) Text File Security
-  Abstracting Behviours of Text File Scripts
+  Abstracting Behaviors of Text File Scripts
   Hiding information and calculations using text files
   Use error trapping techniques to debug text files

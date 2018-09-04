@@ -1,7 +1,7 @@
 CS 10 Courses
 - Courses that continue are noted
-- Prerequistis are also notes
-- List Curriculum Reference abrivations
+- Prerequisites are also notes
+- List Curriculum Reference abbreviations
 - Projects and Rubrics based on flowing (Email Mr. Mercer for more details)
   "Once an outcome is listed, it's expected to continue as appropriate."
 
@@ -11,15 +11,15 @@ GUI Ratios - communication with device before rendering
 Chess Board - Basic GUI Design
 Music Player - Main Project, option to Android Side-load
 
-Thoery, Concepts
-- (CP1) Computer Science vs. Computer Engineering (furture vs. present)
+Theory, Concepts
+- (CP1) Computer Science vs. Computer Engineering (future vs. present)
 - (CP1) Software development: iterative and incremental
-- (CP1) Software Developement: waterfall
-- (CP1) Tools for Systems Developement Life Cycle Model
+- (CP1) Software Development: waterfall
+- (CP1) Tools for Systems Development Life Cycle Model
   Data Flowcharts
-  Psuedocode
+  Pseudocode
   Input-Output-Processing
-- (CP1) Control Strutures
+- (CP1) Control Structures
   Sequential
   Decision
   Iterative
@@ -28,27 +28,27 @@ Thoery, Concepts
   Hexadecimal
   Standard or Primitive
   Data Storage models (address, value | shelf, item)
-- (CP1) Archetecture of Von Neumann Machine
-  BLock Diagram of flow
+- (CP1) Architecture of Von Neumann Machine
+  Block Diagram of flow
   Typical devices associated with each part
   Flow of Data
-- (SP1) Introduction to developement environments
-  IDE: editor, interpreter & syntax, command line or console, exectuion
-  
+- (SP1) Introduction to development environments
+  IDE: editor, interpreter & syntax, command line or console, execution
+
 Algorithm
 - (CP1) Essential
-  Accumuliation (running total)
-  Determinine a Mean (central tendancy, not median, or mode without sorting)
+  Accumulation (running total)
+  Determining a Mean (central tendency, not median, or mode without sorting)
   Maximums and Minimums
 - (SP1) Use IPO structure, maintain separations
-  Struture maintained through Procedural and Object Methodologies
+  Structure maintained through Procedural and Object Methodologies
 - (SP1) Record Output in Appropriate format
 - (SP2) Use More than one IPO Module
 - (SP2) User Input Data (sensor) vs. Computed Data vs. Hard-coded data
-- Enrichemnt: using libraries to simplify coding using prebuilt functions
+- Enrichment: using libraries to simplify coding using prebuilt functions
   See Music Player
 
-Data and Data Stucutures
+Data and Data Structures
 - (SP1) Primitive Data Types and Boundaries of these
   Integers
   Real Numbers: floats & doubles
@@ -56,7 +56,7 @@ Data and Data Stucutures
   Strings
 - (SP1) Variables and Constants (for Security)
 - (SP1) Literals
-- (SP1) Input Command (methods or opperators)
+- (SP1) Input Command (methods or operators)
 - (SP2) Use Boolean data for decision and iterative control structures
   Boundaries of Data, including internal markers for outputs or errors
 - (Enrichment) Introduce Arrays
@@ -78,9 +78,9 @@ Coding (Algorithm Translation)
   Arithmetic
   Relational
   Boolean
-  Concatentaion
+  Concatenation
   Interpolation
-- (SP2) Use Appropriate slection or iteration structures to avoid unconditional
+- (SP2) Use Appropriate selection or iteration structures to avoid unconditional
   branching or exiting
   I.e. Nested conditional (IF-IF | AND)
   I.e. Nested Iterative (similar to 2D Array, 2D Plane)

@@ -4,16 +4,16 @@ CSE1110 Structured Programming 1 (CP1)
 CSE1120 Structured Programming 2 (CP2)
 CSE2010 Computer Science 2 (SC2)
 CSE2110 Procedural Programming (PP1)
-CSE2120 Data Strucutres 1 (DS1)
+CSE2120 Data Structures 1 (DS1)
 CSE2130 File and File Structures 1 (F&FS1)
 CSE3010 Computer Science 3 (CP3)
 CSE3110 Iterative Algorithm 1 (IA1)
-CSE3120 Object Oritenated Programming 1 (OOP1)
+CSE3120 Object Orientated Programming 1 (OOP1)
 CSE3130 Object Orientated Programming 2 (OOP2)
 CSE3310 Recursive Algorithms 1 (RA1)
 CSE3020 Computer Science 4 (CS4)
 CSE3320 Dynamic Data Structures 1 (DDS1)
-CSE3330 Dynamic Data Strucutres 2 (DDS2)
+CSE3330 Dynamic Data Structures 2 (DDS2)
 CSE3340 Dynamic Data Structures 3 (DDS3)
 
 Websites Order
@@ -25,32 +25,30 @@ CSE3210 Server-side Scripting 1 (SSS1)
 Project Courses - Same outcomes for different levels
 CSE1910 CSE Project A
 CSE2910 CSE Project B
-CSE2920 CSE PRoject C
-CSE3910 CSE PRoject D
-CSE3920 CSE PRoject E
+CSE2920 CSE Project C
+CSE3910 CSE Project D
+CSE3920 CSE Project E
 
 Practicum (i.e. Advanced Placement Courses)
 CSE2950 Intermediate Practicum: Computer Science Principles
-CSE3950 Intermediate Practicum: Comptuer Science A
+CSE3950 Intermediate Practicum: Computer Science A
 
-Exploring Another Langauge Interpreted Order
+Exploring Another Language Interpreted Order
 CSE2140 Second Language Programming 1
-CSE3140 Secdond Language Programming 2
+CSE3140 Second Language Programming 2
 
 Robotic Programming Order
 CSE1240 Robotic Programming 1
 CSE2240 Robotic Programming 2
 CSE3240 Robotics Programming 3
 
-Notes: 
+Notes:
 - order is based primarily on indicated prerequisites and supporting courses
   (secondarily on intended content)
 - Often intended content overlaps or is repeated and since projects form
-  beginning, not descrete courses as units, assessment fits curriculum
-- Practicum courses and other work experience courses require fit into main 
+  beginning, not discrete courses as units, assessment fits curriculum
+- Practicum courses and other work experience courses require fit into main
   courses
 
-Caution: Websites, Robotic Programming, and Second Langauge need to fit within 
+Caution: Websites, Robotic Programming, and Second Language need to fit within 
 Main Courses Order
-
-

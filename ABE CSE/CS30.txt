@@ -1,93 +1,49 @@
 CS 30 Courses
 - Courses that continue are noted
-- Prerequistis are also notes
-- List Curriculum Reference abrivations
+- Prerequisites are also notes
+- List Curriculum Reference abbreviations
 - Projects and Rubrics based on flowing (Email Mr. Mercer for more details)
   "Once an outcome is listed, it's expected to continue as appropriate."
-
-Courses and Interpreted Order, Course Level
-CSE1010 Computer Science 1 (CS1)
-CSE1110 Structured Programming 1 (CP1)
-CSE1120 Structured Programming 2 (CP2)
-CSE2010 Computer Science 2 (SC2)
-CSE2110 Procedural Programming (PP1)
-CSE2120 Data Strucutres 1 (DS1)
-CSE2130 File and File Structures 1 (F&FS1)
-CSE3010 Computer Science 3 (CP3)
-CSE3110 Iterative Algorithm 1 (IA1)
-CSE3120 Object Oritenated Programming 1 (OOP1)
-CSE3130 Object Orientated Programming 2 (OOP2)
-CSE3310 Recursive Algorithms 1 (RA1)
-CSE3020 Computer Science 4 (CS4)
-CSE3320 Dynamic Data Structures 1 (DDS1)
-CSE3330 Dynamic Data Strucutres 2 (DDS2)
-CSE3340 Dynamic Data Structures 3 (DDS3)
-
-Websites Order
-CSE1210 Client-side Scripting 1 (CCS1)
-CSE1220 Client-side Scripting 2 (CCS2)
-CSE2210 Client-side Scripting 3 (CCS3)
-CSE3210 Server-side Scripting 1 (SSS1)
-
-Robotic Programming
-CSE1240 Robotic Programming 1
-CSE2240 Robotic Programming 2
-CSE3240 Robotics Programming 3
-
-Exploring Another Langauge
-CSE2140 Second Language Programming 1
-CSE3140 Secdond Language Programming 2
-
-Project Courses - Same outcomes for different levels
-CSE1910 CSE Project A
-CSE2910 CSE Project B
-CSE2920 CSE PRoject C
-CSE3910 CSE PRoject D
-CSE3920 CSE PRoject E
-
-Practicum (i.e. Advanced Placement Courses)
-CSE2950 Intermediate Practicum
-CSE3950 Intermediate Practicum
 
 Main Project and Boundaries (Processing-Java)
 Main Lesson: String Data vs. ASCII Data
 Weather Map - Using APIs within GUI, Option to Android Side-load
-Smart Meter - Using API to deleiver information for user-choices
+Smart Meter - Using API to deliver information for user-choices
 - Leads to using sensors (i.e. GPS Locator) for Cause-Effect
 - I.e. if cell phones leaves house, turn off lights (option to manually turn on,
-  with notification sent that light manually turned on, psuedo-security)
+  with notification sent that light manually turned on, pseudo-security)
 
-Thoery, Concepts
-- (SP1) Introduction to developement environments
-  IDE: editor, interpreter & syntax, command line or console, exectuion
+Theory, Concepts
+- (SP1) Introduction to development environments
+  IDE: editor, interpreter & syntax, command line or console, execution
 - (CP2) Explain Qualitative Changes
   Cell Phone and Device Apps
   Progressive Web Apps
-  From traditional computation, information warehousing (databases), and 
-    automation and cybernetics 
+  From traditional computation, information warehousing (databases), and
+    automation and cybernetics
   To focusing on communication, social and commercial networking, entertainment
-    and artificial intelligence, and bionics and cyborganization and artificial
-    inteligence (and life?), i.e. 2018 Google is AI
+    and artificial intelligence, and bionics and cyber-organization and artificial
+    intelligence (and life?), i.e. 2018 Google is AI
   Projected expansion into personal expert systems, implanted systems and
     artificial life
 - (CP2) Explore areas of ethical and moral concern
-  Privacy Issues; e.g., data mining and database consolidation, tracking of 
-	          financial transactions, e-mail and other communications 
+  Privacy Issues; e.g., data mining and database consolidation, tracking of
+	          financial transactions, e-mail and other communications
 		  monitoring
   Security Issues; e.g., identity and information theft
-  Equality Issues; e.g., emergence of the “digital divide”
-  Freedom Issues; e.g., privatization of information and control of 
+  Equality Issues; e.g., emergence of the ï¿½digital divideï¿½
+  Freedom Issues; e.g., privatization of information and control of
 		  information flow
-- (CP1) Tools for Systems Developement Life Cycle Model
+- (CP1) Tools for Systems Development Life Cycle Model
   Data Flowcharts
-  Psuedocode
+  Pseudocode
   Input-Output-Processing
-- (CP2) Systems Developement Life Cycle Model Modular Approaches
+- (CP2) Systems Development Life Cycle Model Modular Approaches
   problem parsing and decomposition
   identification of subtasks
   data structuring
   operation identification
-- (CP2) Systems Developement Life Cycle Model Design Steps
+- (CP2) Systems Development Life Cycle Model Design Steps
   "Processes and Strategies"
   top-down design
   stepwise refinement
@@ -98,23 +54,23 @@ Thoery, Concepts
   reusable modules and submodules
   data dictionaries, where required
   bottom-up coding, where appropriate
-- (CP2) Tools for Systems Developement Life Cycle Model
+- (CP2) Tools for Systems Development Life Cycle Model
   Hierarchy plus input/process/output (HIPO) charting
   Structure diagrams
   Warnier/Orr diagrams
-- (CP2) Methods for Systems Developement Life Cycle Model
+- (CP2) Methods for Systems Development Life Cycle Model
   "Code Flat, single purpose, Program based on Multi-Module Algorithm"
   "Test and Debug single module"
   "Integrate module into project using Procedures"
 - (CP2) Procedure: no return
   (CP2) Function: single return
-- (CP1) Archetecture of Von Neumann Machine
-  BLock Diagram of flow
+- (CP1) Architecture of Von Neumann Machine
+  Block Diagram of flow
   Typical devices associated with each part
   Flow of Data
-- (CP2) Architecure of Von Neumann Machine
-  "What happens 
-  Basic components of 
+- (CP2) Architecture of Von Neumann Machine
+  "What happens
+  Basic components of
     Central Processing Unit (CPU)
     Arithmetic Logic Unit (ALU)
     control unit
@@ -138,24 +94,24 @@ Thoery, Concepts
     Information managers
     Schedulers
     Utilities
-- (DS1) Explore Fundamental Data Structures or Derrived Data Structures
+- (DS1) Explore Fundamental Data Structures or Derived Data Structures
   Stored in memory
-  Compare and constrast with primitive data structures (advantages,disadvantages)
+  Compare and contrast with primitive data structures (advantages, disadvantages)
   Advantages & Disadvantages of using this type of memory
 - (DS1) Describe and Represent of Static Array, Record, and Dynamic Array
   Use of cells to store data
   Data homogeneity
   Set of an index (or indices) to identify the location of data elements
   Use of field names to identify the location of data elements
-  Types: for example, single dimensional arrays, (lists), double dimensional 
+  Types: for example, single dimensional arrays, (lists), double dimensional
 	 arrays (tables) and parallel arrays (look-up or associative tables)
 - (F&FS1) Text Files: client-server relationship
   Simple: creating Text File after Program Closes (write all at once)
-  Intermdiate: creating text file during operation (read and write)
+  Intermediate: creating text file during operation (read and write)
   Advanced: Read and Write Text files as program starts, operates, and closes
   How programming environments access secondary storage devices
   How operating systems handle process of manipulating data in secondary memory
-  How programming environments request file handling services from the 
+  How programming environments request file handling services from the
     operating system
   Use of a file buffer, data stream and file descriptor table
 - (CS3) Compare and Contrast Procedural and Object Orientated Programming
@@ -167,10 +123,10 @@ Thoery, Concepts
 - (CS3) OOP Concepts
   abstraction, encapsulation, inheritance and polymorphism
   classes, class libraries, objects and instantiation
-  data members (properties) and member functions (behaviours)
+  data members (properties) and member functions (behaviors)
   public and private access modifiers
   message passing and object networks
-- (CS3) Relationship between binary and hexadecimal number systems, data 
+- (CS3) Relationship between binary and hexadecimal number systems, data
   encoding, logic gates and the digital computer
   Describe and represent the binary and hexadecimal system by:
     - comparing and contrasting each system with the decimal system
@@ -178,7 +134,7 @@ Thoery, Concepts
     - describing and demonstrating the role each system plays in encoding data
       for digital computing
   Describe and represent binary arithmetic by:
-    - reating a simple binary addition truth table
+    - creating a simple binary addition truth table
     - creating simple binary truth tables for basic logical states such as
       logical conjunction (AND), logical disjunction (OR) and logical negation
       (NOT)
@@ -204,9 +160,9 @@ Thoery, Concepts
   Computational efficiencies
 - (OOP1) Object Orientated Programming Core Concepts
   Design of Objects and Classes
-  Excange of Messages amound objects
+  Exchange of Messages around objects
   Key Features: encapsulation, modularity, polymorphism, inheritance
-  Control Access to Data, modifiers, accessors & protected: private, public
+  Control Access to Data, modifiers, assessors & protected: private, public
 - (OOP1) Outline of Paradigm Shift: Procedural Methods to Object Orientated
   (Include imperative Programming Methods Here)
   Designing programs
@@ -214,26 +170,26 @@ Thoery, Concepts
   Maintenance of programs
   Advantages over other paradigms
   How other paradigms enable reading code and creating well written code
-- (OOP2) Polymorphism & Inheritance: coding reduced and responsiblities 
+- (OOP2) Polymorphism & Inheritance: coding reduced and responsibilities
   distributed
 - (OOP2) Key Relationships between classes, objects, instances, and methods
   Inheritance
   Association
   Composition and aggregation
-- (OOP2) Security: static classes, polymorphsim, and inheritance 
+- (OOP2) Security: static classes, polymorphism, and inheritance
 		   used to hide, protect
 - (RA1) Key Features of Recursive functions or procedures
   Recursive defined in terms of themselves
   Use and Purpose of base case
   "Divide and Conquer" approach to creating algorithms
-  Interchangeablity of recursive and iterative alogorithms
-    Compare and constrast
+  Interchangeability of recursive and iterative algorithms
+    Compare and contrast
 	programmer efficiency
 	space efficiency
 	time efficiency
   Recursion used in creating dynamic data structures
-  Compare and constrast tail-end and head-end recursion
-  Explain and represent how system stack (etc) carries out recursive operations
+  Compare and contrast tail-end and head-end recursion
+  Explain and represent how system stack (etc.) carries out recursive operations
 - (CS4) Explore dynamic abstract data types (ADTs)
   Examples: lists, stacks, queues and priority queues, sets, maps, trees
 - (CS4) Explore dynamic data structures used to implement ATDs
@@ -249,7 +205,7 @@ Thoery, Concepts
   determining if the structure is empty
   providing a copy or subset of the collection
   comparing or combining with other data structures of the same type
-- (CS4) Big O: asymptotic annalysis of algorithm efficiency 
+- (CS4) Big O: asymptotic analysis of algorithm efficiency
 	       (& efficiency and complexity)
   Examples:
   constant growth
@@ -261,16 +217,16 @@ Thoery, Concepts
 - (CS4) Use Recursion in Problem solving, Algorithms, and Programs
 - (CS4) Turning Machine: use, represent, demonstrate ability to execute simple
   programs, create simple state representations
-- (CS4) Create and Deliever a Presentation about personally relevant computer
-  science in society (Advanced Placement CSP Digital Portfolio similarlity)
+- (CS4) Create and Deliver a Presentation about personally relevant computer
+  science in society (Advanced Placement CSP Digital Portfolio similarity)
 - (DDS1) Explore Linked Lists
-  Compare and constract, explaining advantages, of linked lists & static data
+  Compare and contrast, explaining advantages, of linked lists & static data
   Examples:
   heap
   pointers and/or references
   linear: nodes, fields, references and pointers
   non-linear
-  other: double-linked, curcularly-linked, ordered
+  other: double-linked, circularly-linked, ordered
 - (DDS1) Describe and Represent operators with linked lists
   creating the linked list
   inserting a node
@@ -317,61 +273,62 @@ Thoery, Concepts
 
 Algorithm
 - (CP1) Essential
-  Accumuliation (running total)
-  Determinine a Mean (central tendancy, not median, or mode without sorting)
+  Accumulation (running total)
+  Determine a Mean (central tendency, not median, or mode without sorting)
   Maximums and Minimums
 - (SP1) Use IPO structure, maintain separations
-  Struture maintained through Procedural and Object Methodologies
+  Structure maintained through Procedural and Object Methodologies
 - (SP1) Record Output in Appropriate Format
 - (SP2) Use More than one IPO Modules
 - (SP2) User Input Data (sensor) vs. Computed Data vs. Hard-coded data
-- (CP2) Key Algorithms with Derrived Data (i.e. arrays)
+- (CP2) Key Algorithms with Derived Data (i.e. arrays)
   "Making Memories"
   Traversing
   Searching
   Sorting
   Merging
-- (CP2) Systems Developement Life Cycle Procdural Algorithm translation to 
+- (CP2) Systems Development Life Cycle Procedural Algorithm translation to
   Coding approaches (Processes and Strategies)
   Subprograms
   Procedures/functions
   Stub programming
   Prototyping
   Libraries (and APIs documentation and API used here)
-    using libraries to simplify coding using prebuilt functions introduced in 
+    using libraries to simplify coding using prebuilt functions introduced in
     CS10, see Music Player
+- Determining central tendency: mean, median, and mode with derived data algorithms (see above)
 - (PP1) Procedural Programming Goals in Algorithm
-  Reduction of Dupilcate code (when program flat)
+  Reduction of Duplicate code (when program flat)
   Reuse code
     - Simple: reuse duplicate code in same module (simple parameter passing)
     - Advanced: design module to use (abstract parameter passing & return)
-  Modules accessible for Maintainability adn Extendability
+  Modules accessible for Maintainability and Extendibility
     - includes documentation, location ("finding modules"), and organization
-  Procedures introduce security: hiding by 'obsecurity'
+  Procedures introduce security: hiding by 'obscurity'
   "Making code read like a novel"
-- (PP1) Analyse and Refine modules into more manageable pieces
-  I.e. Flat Testing Developement incorporated into more complex program
+- (PP1) Analyze and Refine modules into more manageable pieces
+  I.e. Flat Testing Development incorporated into more complex program
   "Refinement might be more with translating algorithm into code"
 - (PP1) Data Flowchart: explicit pre & post data conditions
 - (PP1) "Fail on Paper" Tests of Algorithms using charts and Data Flowcharts
-- (DS1) Create algorithms using of fundamental data structures (derrived data)
+- (DS1) Create algorithms using of fundamental data structures (derived data)
 - (CS3) Object Design Techniques
   Object Diagrams
   Case and Domain Analysis
 - (CS3) Iterative Class Design
-  Prinicpal Classes
+  Principal Classes
   Object Diagram Elaboration
-  Class Responsibliety Collaboration Cards
+  Class Responsibility Collaboration Cards
   Iterative Prototyping
 - (CS3) Appropriate Relationships
-  Dependancy
+  Dependency
   Association
   Aggregation
-  Composisiton
+  Composition
 - (IA1) Create and/or modify algorithms that use searches, sorts and merges
 - (OOP1) Associative relationship of small number of classes
-- (OOP1) Use iterative and incremental approach in design and developement
-  Include architecture for stages of software developement
+- (OOP1) Use iterative and incremental approach in design and development
+  Include architecture for stages of software development
 - (OOP1) Object & Class design concepts
   Requirement analysis
   Case analysis
@@ -381,22 +338,22 @@ Algorithm
   Client/Server Relationship, messages passes, and how objects interface
   Informal Message Sequence flow
   Security: private methods, functions, and data structures
-  Test and Modify at each "stage" with approppriate data in "paper & pencil fail"
+  Test and Modify at each "stage" with appropriate data in "paper & pencil fail"
 - (OOP2) UML Design Approach supported by informal domain and case analysis
-- (OOP2) For problem solving, use top-down approach to change UML design into 
+- (OOP2) For problem solving, use top-down approach to change UML design into
   class diagram representing matrix of interacting classes
 - (OOP2) Draft informal object message sequence
   Logically understand when objects know what information
 - (RA1) Describe at least four recursive algorithms used in dynamic data
   manipulation
-  binary search (compare and constrast iterative and recursive approaches)
+  binary search (compare and contrast iterative and recursive approaches)
   quicksort
   merge sort
   heapsort
 - (RA1) Use recursive algorithms to solve problems
-  Identify appropraite uses
-  
-Data and Data Stucutures
+  Identify appropriate uses
+
+Data and Data Structures
 - (SP1) Primitive Data Types and Boundaries of these
   Integers
   Real Numbers: floats & doubles
@@ -404,10 +361,10 @@ Data and Data Stucutures
   Strings
 - (SP1) Variables and Constants (for Security)
 - (SP1) Literals
-- (SP1) Input Command (methods or opperators)
+- (SP1) Input Command (methods or operators)
 - (SP2) Use Boolean data for decision and iterative control structures
   Boundaries of Data, including internal markers for outputs or errors
-- (CP2) Examples of Derrived Data (language specific)
+- (CP2) Examples of Derived Data (language specific)
   Arrays
   Vectors
   Matrices
@@ -436,10 +393,10 @@ Data and Data Stucutures
   Determining the size of the structure
   Copying the structure
   Comparing two structures of the same type
-- (PP1) Using subprograms for derrived data security (hiding) and duplication
+- (PP1) Using subprograms for derived data security (hiding) and duplication
   for unintended changes (undo calculations if error checking provides and error
-  Use Search Methods and Linear Functions (etc) for Error Checking
-- (DS1) Fundamental Data Structures (Derrived Data) Operations
+  Use Search Methods and Linear Functions (etc.) for Error Checking
+- (DS1) Fundamental Data Structures (Derived Data) Operations
   Creating the structure
   Inserting, deleting and replacing data in the structure
   Searching, finding and retrieving data from the structure
@@ -448,10 +405,10 @@ Data and Data Stucutures
   Comparing two structures of the same type
 - (F&FS1) Text Files
   Type of data: text (Strings, ASCII code), binary
-  Type of Orgagnzation:
-    - Deliniated: space, tab
+  Type of Organization:
+    - Delineated: space, tab
     - Table Format
-    - Single Line Formated
+    - Single Line Formatted
     - Combinations of Above
   Access speed
   Storage space requirement
@@ -471,9 +428,9 @@ Coding (Algorithm Translation)
   Arithmetic
   Relational
   Boolean
-  Concatentaion
+  Concatenation
   Interpolation
-- (SP2) Use Appropriate slection or iteration structures to avoid unconditional
+- (SP2) Use Appropriate selection or iteration structures to avoid unconditional
   branching or exiting
   I.e. Nested conditional (IF-IF | AND)
   I.e. Nested Iterative (similar to 2D Array, 2D Plane)
@@ -510,22 +467,22 @@ Coding (Algorithm Translation)
 - (F&FS1) Text File Evaluations
   Storage space required
   Number and speed of required operations
-  Programmer efficiency  
+  Programmer efficiency
   Implementation in Main Program, subprograms, or both
 - (F&FS1) Text File Security
-  Abstracting Behviours of Text File Scripts
+  Abstracting Behaviors of Text File Scripts
   Hiding information and calculations using text files
   Use error trapping techniques to debug text files
-- (OOP1) Use iterative & incremental approaches in implementation, testing, & 
+- (OOP1) Use iterative & incremental approaches in implementation, testing, &
   maintenance
-  Convert algorithm into linked classes, objects, instances, and methods 
-- (OOP1) Take solution algorithm and decompose into appropraite sections
+  Convert algorithm into linked classes, objects, instances, and methods
+- (OOP1) Take solution algorithm and decompose into appropriate sections
 - (OOP1) From objects, create classes for instantiation
   Use server classes to create client classes establishing client/server model
 - (OOP1) Students to collaborate in groups, where appropriate
 - (OOP2) Use additional OPP Concepts to solve problems
 - (RA1) Use recursive structures in programs (i.e. merge and sort)
-- (RA1) Utlilize appropriate operators, methods, functions, procedures
+- (RA1) Utilize appropriate operators, methods, functions, procedures
 - (DDS1) Use linked lists to solve problems (i.e. merge and sort data)
 - (DDS2) Use stacks, queues, sets and/or maps to solve problems
 - (DDS3) Use tree data structures to solve problems

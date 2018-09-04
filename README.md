@@ -23,7 +23,7 @@ Text Documents and Supporting Documents to begin to imagine classroom experience
    - Assessment Guide for Computer Science A
 3. First Day: tasks and activities introducing students to technology and tools to experience computer science education
    - Note: see BYOD Repository for specific information
-   - General Classroom Teacher Activites not included here
+   - General Classroom Teacher Activities not included here
 
 **For School-level Courses and Classroom Experience, see**
 1. Computer Science 10: https://github.com/MercersKitchen/CS10

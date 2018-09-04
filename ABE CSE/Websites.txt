@@ -1,4 +1,4 @@
-Github & HTML
+GitHub & HTML
 HTML and inline CSS
 CSS Files
 
@@ -10,7 +10,7 @@ CSE1220 Client-side Scripting 2 (CCS2)
 CSE2210 Client-side Scripting 3 (CCS3)
 CSE3210 Server-side Scripting 1 (SSS1) - needs reviewing
 
-Thoery, Concepts
+Theory, Concepts
 - (CSS1) Explore architecture of Internet
   Client-server relationships of Real (MAC) and Logical Addressing
     - workstations
@@ -40,42 +40,42 @@ Thoery, Concepts
 - (CCS2) Explore static and dynamic webpages, introduce version control GitHub
   Use Internal (beginning, end, & inline) and External Documentation (.md & .txt)
   Use Case Study Analysis with Single Page Websites illustrating User Experience
-  Use Case Study Analysis with hypertext to create abstract understanding of 
+  Use Case Study Analysis with hypertext to create abstract understanding of
     - Parent Page (CSS-based)
     - Child Pages (CSS-based)
-  Introduce Concept of Information-based parent-child pages with 
+  Introduce Concept of Information-based parent-child pages with
     abstract CSS groupings
 - (CCS2) Use decomposition design and variable naming abstraction to CSS Files
   Classes
   IDs
 - (CSS3) GitHub Hosted Websites, Raspberry Pi Hosted Websites
 - (CCS3) Creating personal libraries of HTML5 Scripts for intended purposes
-  Internet Found and Evalauted, note about incorporating into website project
+  Internet Found and Evaluated, note about incorporating into website project
   Personally written for website project
 - (CCS3) Purposes for personal Libraries
   Code reuse: procedural and objects
   Security: data hiding and information protection
   Readability
-  Prmotion of collaboration
+  Promotion of collaboration
   Reduction of unwanted side effects
 - (SSS1) Key Features of Server-side Scripting Environments and Scripting
   Data-bases
 
 Algorithm
-- (CCS2) Introduce Core JavaScript Algorithms, outputing to Browser Console
+- (CCS2) Introduce Core JavaScript Algorithms, outputting to Browser Console
   Sequencing
   Selection
-  Iternation
+  Iteration
   Accumulation
   Determining maximum or minimum values
-- (CSS3) Paper and Pencil Fail Test (Case Study or Real Website) with "pre" and 
+- (CSS3) Paper and Pencil Fail Test (Case Study or Real Website) with "pre" and
   "post" conditions, program control mechanisms, and data processing
-- (***) Introduce CSS Variables and algoroithic structure for styling websites
+- (***) Introduce CSS Variables and algorithmic structure for styling websites
 
-Data and Data Stuctures
+Data and Data Structures
 - (CCS2) HTML Forms & Data Flowchart Analysis
 - (CCS2) Primitive Data Structures in JavaScript
-  Varaibles and Constants
+  Variables and Constants
   Assignment, arithmetical, relational, Boolean, concatenation, and string
     construction operators
 - (CCS3) Arrays and Rest Operator
@@ -98,7 +98,7 @@ Coding (Algorithm Translation)
   create both textual and image-based hyperlinks (single images & mapped images)
 - (CCS1) Use style codes inline with HTML
 - (CCS1) Enrichment: java-script writing HTML
-- (CCS2) Use CSS to add style to HTML 
+- (CCS2) Use CSS to add style to HTML
   Embedded
   Separate Files
 - (CCS2) Use HTML Forms
