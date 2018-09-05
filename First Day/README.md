@@ -20,12 +20,14 @@
    - Issue of tripping hazards
    - Benefit: no student ever has equipment that does not work without knowing what to fix
    - See example images (In Construction)
+     - Issue of Sticky hands on laptop keyboards and trackpads vs. spring-action keyboards and USB-mice
 3. Setting up (examples videos in construction)
    - GMail & Password Manager (Last Pass, KeePass)
    - General Email Security, pwned: see https://haveibeenpwned.com/
    - Google Classroom
    - GitHub and GitHub Desktop
-4. Overview of major projects (similar to goal setting)
+4. Overview of major projects (similar to goal setting, start with "what do you want to accomplish in this course")
+   - Beginning a Portfolio in GitHub
 5. Reviewing the Semester Calendar for events and general flow
 
 ## Additional Ideas to Consider
