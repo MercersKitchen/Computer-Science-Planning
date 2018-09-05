@@ -19,7 +19,8 @@
    - Movement problem of figuring out work flow in the classroom
    - Issue of tripping hazards
    - Benefit: no student ever has equipment that does not work without knowing what to fix
-3. Setting up
+   - See example images (In Construction)
+3. Setting up (examples videos in construction)
    - GMail & Password Manager (Last Pass, KeePass)
    - General Email Security, pwned: see https://haveibeenpwned.com/
    - Google Classroom
