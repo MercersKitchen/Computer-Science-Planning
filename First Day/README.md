@@ -4,9 +4,7 @@
 - GMail through Schoolzone (school-based email addresses)
 - Google Classroom
 - GitHub
-- Workona, Chrome Extension: use Chrome Store & Workona Website
-   - Create account on website
-   - Add Extension First
+- Workona, Chrome Extension
 - Semester Calendar: events and general flow
 
 ## General Tasks
@@ -26,6 +24,9 @@
    - General Email Security, pwned: see https://haveibeenpwned.com/
    - Google Classroom
    - GitHub and GitHub Desktop
+   - Workona, Chrome Extension: use Chrome Store & Workona Website
+     - Create account on website
+     - Add Extension First
 4. Overview of major projects (similar to goal setting, start with "what do you want to accomplish in this course")
    - Beginning a Portfolio in GitHub
 5. Reviewing the Semester Calendar for events and general flow
