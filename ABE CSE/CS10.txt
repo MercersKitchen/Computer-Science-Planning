@@ -6,6 +6,7 @@ CS 10 Courses
   "Once an outcome is listed, it's expected to continue as appropriate."
 
 Main Project and Boundaries (Processing-Java)
+**In-Construction**
 Quit Button Design, Template for Other GUI Features
 GUI Ratios - communication with device before rendering
 Chess Board - Basic GUI Design
