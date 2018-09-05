@@ -25,7 +25,7 @@
    - General Email Security, pwned: see https://haveibeenpwned.com/
    - Google Classroom
    - GitHub and GitHub Desktop
-4. Overview of major projects
+4. Overview of major projects (similar to goal setting)
 5. Reviewing the Semester Calendar for events and general flow
 
 ## Additional Ideas to Consider
