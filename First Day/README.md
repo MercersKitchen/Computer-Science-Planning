@@ -6,11 +6,12 @@
 - GitHub
 - Workona, Chrome Extension: use Chrome Store & Workona Website
    - Create account on website
-   - Add Extension First 
+   - Add Extension First
 - Semester Calendar: events and general flow
 
 ## General Tasks
 1. Reviewing the course outline and syllabus
+   - See Google Drive for Course Outlines: https://drive.google.com/drive/folders/1O4QRD_nzB74mrtD9EsrFUwX7P6CqrR7I
 2. Setting up
    - GMail & Password Manager (Last Pass, KeePass)
    - General Email Security, pwned: see https://haveibeenpwned.com/
