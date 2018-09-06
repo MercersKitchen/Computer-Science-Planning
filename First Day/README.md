@@ -61,4 +61,5 @@ What do we need to consider to get there? (Video from 2011 & 2012)
 - One Person's opinion: https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en#t-525329
 - What does this mean for education? Remember, Eli Pariser is only asking you to be aware of the information you consume
 - Algorithms might be the next way of thinking ... "knowing what we need to do what we need"
+- What are the ethics of algorithms?
 - What will be your next steps in school? What will be your next things you learn? What choices and items will you learn so the grades and courses you earn and complete will empower you to the next best steps?
