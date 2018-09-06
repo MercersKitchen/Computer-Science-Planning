@@ -1,7 +1,11 @@
-GitHub & HTML
-HTML and inline CSS
-CSS Files
+Introduction
+- GitHub & HTML
+- HTML and inline CSS
+Intermediate
+- CSS Files
+- JavaScript
 
+Modern Website Coding to Explore
 PWA
 Chrome Extensions
 
