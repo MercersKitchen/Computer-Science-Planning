@@ -47,7 +47,7 @@ Teaching answers or teaching with questions, Mr. Mercer prefers teaching with qu
 - An example algorithm: https://www.youtube.com/watch?v=il5oEPNASmg
 - Is this true?
 - A video of the full algorithm: https://www.youtube.com/watch?v=MMjnDdrujSU
-- What is being tested, now: https://www.youtube.com/watch?v=hANXIPxN1ME
+- What are the magic tricks or algorithms of the now: https://www.youtube.com/watch?v=hANXIPxN1ME
 
 How do we get there from High School?
 - Skills Alberta Canada: https://www.youtube.com/watch?v=5If09ESV65k
