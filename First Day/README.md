@@ -48,6 +48,7 @@ Teaching answers or teaching with questions, Mr. Mercer prefers teaching with qu
 - Is this true?
 - A video of the full algorithm: https://www.youtube.com/watch?v=MMjnDdrujSU
 - What are the magic tricks or algorithms of the now: https://www.youtube.com/watch?v=hANXIPxN1ME
+   - (Robotic Domino's Ford Autonomous Pizza Deliever Vehicle)
 
 How do we get there from High School?
 - Skills Alberta Canada: https://www.youtube.com/watch?v=5If09ESV65k
