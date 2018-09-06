@@ -35,7 +35,12 @@
 ## Additional Ideas to Consider
 Creating a Community, Thoughts from a Video ... **UNESCO Style**
 - https://www.youtube.com/watch?reload=9&v=tyaEQEmt5ls
-- It will be in a community ideas are nurtured and people supported
+- Summary of DNA Journey
+   - DNA cannot be changed
+   - Beliefs, who I like, who I do not like, can all change
+   - All people say what I cannot change is the same as what I can change
+   - "Who is your cousin?"
+   - "It will be in a community ideas are nurtured and people supported"
 
 Teaching answers or teaching with questions, Mr. Mercer prefers teaching with questions and problem-based learning
 - https://www.youtube.com/watch?v=W1K2jdjLhbo
