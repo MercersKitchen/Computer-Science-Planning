@@ -45,3 +45,11 @@ Teaching answers or teaching with questions, Mr. Mercer prefers teaching with qu
 
 How do we get there from High School?
 - Skills Alberta Canada: https://www.youtube.com/watch?v=5If09ESV65k
+- Mentoring other students through our coding and building, sometimes through sitting with them
+
+What do we need to consider to get there? (Video from 2011 & 2012)
+- What did people imagine back them?
+- https://www.youtube.com/watch?v=Ax5cNlutAys
+- Algorithms are now about personal choice, delivering information ... what does this mean?
+- One Person's opinion: https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en#t-525329
+- What does this mean for education? Remember, Eli Pariser is only asking you to be aware of the information you consume
