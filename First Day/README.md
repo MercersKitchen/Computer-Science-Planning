@@ -35,6 +35,7 @@
 ## Additional Ideas to Consider
 Creating a Community, Thoughts from a Video ... **UNESCO Style**
 - https://www.youtube.com/watch?reload=9&v=tyaEQEmt5ls
+- "Video is about what we can change and what we cannot change." We need to know the difference.
 - Summary of DNA Journey
    - DNA cannot be changed
    - Beliefs, who I like, who I do not like, can all change
