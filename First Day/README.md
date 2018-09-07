@@ -39,7 +39,6 @@ Creating a Community, Thoughts from a Video ... **UNESCO Style**
 - Summary of DNA Journey
    - DNA cannot be changed
    - Beliefs, who I like, who I do not like, can all change
-   - All people say what I cannot change is the same as what I can change
    - "Who is your cousin?"
    - "It will be in a community ideas are nurtured and people supported"
 
