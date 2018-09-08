@@ -19,6 +19,8 @@
    - Benefit: no student ever has equipment that does not work without knowing what to fix
    - See example images (In Construction)
      - Issue of Sticky hands on laptop keyboards and trackpads vs. spring-action keyboards and USB-mice
+   - See YouTube Video: https://youtu.be/Bw1hj3s-8S0
+   - Note: Private Google Drive Folder for Images and Original PowerPoint: https://drive.google.com/drive/folders/1L0ykkGBHxz-aRU1aw_sHHHaLfC8KZOgQ
 3. Review the BYOD repository - know the information that will help with the software we use in class
 4. Setting up (examples videos in construction)
    - GMail & Password Manager (Last Pass, KeePass)
