@@ -34,6 +34,7 @@
    - Beginning a Portfolio in GitHub
 6. Reviewing the Semester Calendar for events and general flow
 7. Exit Slip: "What do you want to accomplish this semester?"
+   - "What do you want in a portfolio?"
 
 ## Additional Ideas to Consider
 Creating a Community, Thoughts from a Video ... **UNESCO Style**
