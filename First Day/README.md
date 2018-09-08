@@ -33,6 +33,7 @@
 5. Overview of major projects (similar to goal setting, start with "what do you want to accomplish in this course")
    - Beginning a Portfolio in GitHub
 6. Reviewing the Semester Calendar for events and general flow
+7. Exit Slip: "What do you want to accomplish this semester?"
 
 ## Additional Ideas to Consider
 Creating a Community, Thoughts from a Video ... **UNESCO Style**
