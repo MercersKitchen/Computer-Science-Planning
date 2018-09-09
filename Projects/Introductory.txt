@@ -1,0 +1,49 @@
+An Example Method for planning an Introductory Computer Science Project
+- Overview of the Problem Situation
+- Summarizing a Problem in a Question Statement
+- Answering your Question with Computational Literacy and Thinking
+
+An Example Checklist (Including Formatting Items for GitHub Markdown)
+- [] Item
+- [x] Completed Item
+- [] <del> Item is deleted but not erased <del>
+
+"Start in one place and develop the other spaces. Even if you have a feeling or
+an image, start in that place and add words to the other spaces."
+
+CAUTION: most people think in words and that is the last item
+- If you think in words (you will know), then start make notes about
+   1. Your Problem
+   2. Your Solution
+   3. What this might look like on a computer
+- Other people who think in feelings or images need to add words
+- These are prompts and are at the beginning of the list
+
+General Ideas
+- [] Title, Author-Developer, and other Splash Page Details
+- [] Design main screen first, then additional screens
+- [] Backgrounds and colours (including random colours)
+- [] Text and Formatted size
+- [] Sounds and or music
+- [] Use of buttons, mouse & keyboard, and the Quit Button
+- [] Use of time in the game
+- [] Use of time in debugging
+- [] GUI Design and use of rectangles
+- [] 2D Shapes inside game
+
+Specific Ideas: "what does the program do"
+- [] Descriptions of what this project does
+- [] Actions & Behaviours
+- [] Interactions
+
+Experience Ideas
+- [] Case Study: Splash Page, Main Screen, Additional Screens
+- [] Case Study: draw what a user experiences when ...
+     - For example: seeing the Splash Page and ...
+       - Note: can feel with Ketai Library and Android by activating vibration motor when the screen changes
+     - For example: seeing the Splash Page and ...
+
+Pseudo-code
+- [] Describe in detail (see above) what a user will experience
+- [] Include past lessons and projects, especially ideas (no code)
+- [] Include any code snip-its you remember
