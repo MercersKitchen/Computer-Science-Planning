@@ -38,6 +38,11 @@ Google for Entrepreneurs : Rapid Prototyping 1 of 3: Sketching & Paper Prototypi
 Start to Create a Checklist in your Project Repository's ReadMe.md
 - See https://github.com/MercersKitchen/Markdown-ReadMe-Documentation
 
+### Main Projects to Consider
+- Who am I
+- Essay Project
+- Music Player
+
 ---
 
 Intermediate Projects - See .txt DOC
