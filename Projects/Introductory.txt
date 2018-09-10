@@ -1,7 +1,13 @@
 An Example Method for planning an Introductory Computer Science Project
 - Overview of the Problem Situation
-- Summarizing a Problem in a Question Statement
-- Answering your Question with Computational Literacy and Thinking
+   - [] Title
+   - [] Brief Description (5 lines in font ariel, size 11, is 65%)
+   - [] Communication about exemplars (research your project is starting with)
+   - [] URLs of Research, date accessed
+   - [] Screen Shots of ideas or thoughts (Images saved in Google Drive and Accessed through URL in ReadMe.md
+   - [] Images & Text you are starting with (especially in a website project)
+- [] Summarizing a Problem in a Question Statement
+- [] Answering your Question with Computational Literacy and Thinking
 
 An Example Checklist (Including Formatting Items for GitHub Markdown)
 - [] Item
