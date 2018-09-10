@@ -45,19 +45,19 @@ Start to Create a Checklist in your Project Repository's ReadMe.md
 
 ---
 
-Intermediate Projects - See .txt DOC
+## Intermediate Projects - See .txt DOC
 
 See .txt DOC for Additional Ideas and Downloaded Checklist to print
 
 ---
 
-Advanced Projects - See .txt DOC
+## Advanced Projects - See .txt DOC
 
 See .txt DOC for Additional Ideas and Downloaded Checklist to print
 
 ---
 
-Presentation Projects - See Folder or Pathway
+## Presentation Projects - See Folder or Pathway
 - See Presentation Checklist.txt
 
 
