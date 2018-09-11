@@ -8,9 +8,12 @@ Various Types of Projects through Computer Science Courses
 - 11 x 17 Paper: rectangle in the middle so images imagined on the inside and words describe these images on the outside
 - Ruler is optional
 - Colours and crayons are optional (able to do a legend)
+- Scissor are optional too
 - Paper will be optional, all design can be done electronically
 
 CAUTION: all design stages have design time limits and some design stages are beyond the scope of this course
+- More Importantly, you will be introduced to far more prototpying ideas than you can complete in the time I give you in class
+- Remember: the purpose of prototyping is to get your ideas out ... making them flow together
 
 ---
 
