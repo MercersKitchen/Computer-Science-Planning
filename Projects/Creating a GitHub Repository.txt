@@ -20,15 +20,16 @@ Open ReadMe.md for Developer Details and other ReadMe File details
 - Ideas and reminders here only
 - Simple Markdown and HTML will format ideas for consumption
 Create an index.html file for Promotional Details
-- Notice most images and videos are also linked in ReadMe.md
-- This delivery of content is for GitHub-hosted website
-- Promotion, formatting, website building, etc. will be more developed in this
+- General Ideas
+  - Notice most images and videos are also linked in ReadMe.md
+  - This delivery of content is for GitHub-hosted website
+  - Promotion, formatting, website building, etc. will be more developed in this
   doc
 - Expectations for index.html (must be named index.html for GitHub Hosting)
-  Create Boilerplate with additional links for CSS and JavaScript
-  All text goes after the </html>
-  Then gets brought in with DIVs and other formatting
-  Able to add inspiration URLs and additional screenshots, etc.
+  - In the project folder, create a Text Doc and rename it index.html
+  - Right-click index.html, open with Atom
+  - Type html in the document to create a  boilerplate
+  - Create additional links for CSS and JavaScript
 If working in Processing-Java: immediately create a Processing DOC and save it
 - Will Create Processing Folder for DOC (needed by Java Compiler), exactly the
   same name as Processing-Java File name
