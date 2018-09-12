@@ -43,10 +43,10 @@ Start to Create a Checklist in your Project Repository's ReadMe.md
 
 ### Main Projects to Consider (Case Study)
 - Who am I Website Project: Rubric ...
-<a href="https://github.com/QEHS-Websites/Intro-Who-Am-I-Project/blob/master/README.md"
+<a href="https://github.com/QEHS-Websites/Intro-Who-Am-I-Project"
    target="_blank"><p>Click Here</p></a>
 - Essay Website Project: Rubric ...
-<a href="" target="_blank"><p>Click Here</p></a>
+<a href="https://github.com/QEHS-Websites/Intro-Essay-Project" target="_blank"><p>Click Here</p></a>
 - Music Player, Processing-JAVA
 
 ---
