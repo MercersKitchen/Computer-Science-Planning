@@ -45,7 +45,8 @@ Start to Create a Checklist in your Project Repository's ReadMe.md
 - Who am I Website Project: Rubric ...
 <a href="https://github.com/QEHS-Websites/Intro-Who-Am-I-Project/blob/master/README.md"
    target="_blank"><p>Click Here</p></a>
-- Essay Website Project
+- Essay Website Project: Rubric ...
+<a href="" target="_blank"><p>Click Here</p></a>
 - Music Player, Processing-JAVA
 
 ---
