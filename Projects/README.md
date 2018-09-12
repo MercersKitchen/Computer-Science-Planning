@@ -12,7 +12,7 @@ Various Types of Projects through Computer Science Courses
 - Paper will be optional, all design can be done electronically
 
 CAUTION: all design stages have design time limits and some design stages are beyond the scope of this course
-- More Importantly, you will be introduced to far more prototpying ideas than you can complete in the time I give you in class
+- More Importantly, you will be introduced to far more prototyping ideas than you can complete in the time I give you in class
 - Remember: the purpose of prototyping is to get your ideas out ... making them flow together
 
 ---
