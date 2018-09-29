@@ -67,3 +67,12 @@ What do we need to consider to get there? (Video from 2011 & 2012)
 - Algorithms might be the next way of thinking ... "knowing what we need to do what we need"
 - What are the ethics of algorithms?
 - What will be your next steps in school? What will be your next things you learn? What choices and items will you learn so the grades and courses you earn and complete will empower you to the next best steps?
+
+First Day Algorithms or Design of Project
+- Design this "thing": general question without a lot of guidance ... students provided 11x17 paper and encouragement to answer design inssue
+- Result: "Design is important", especially knowing about processing in design
+  - Goals, purposes, materials, resources
+  - Card board prototyping to understand shapes, sizes, hardware distances (wires, etc.)
+  - 3D Printing Prototyping
+  - Native Software Prototyping
+- CAUTION: students become unbalanced as first emotional experience to design and solving algorithms without clear answers
