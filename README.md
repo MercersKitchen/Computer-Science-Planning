@@ -27,7 +27,7 @@ Text Documents and Supporting Documents to begin to imagine classroom experience
 
 **For School-level Courses and Classroom Experience, see**
 1. Computer Science 10: https://github.com/MercersKitchen/CS10
-  - More ideas for Course Planning and Gradebook Information: <a href="">Click Here</a>
+  - More ideas for Course Planning and Gradebook Information: <a href="https://drive.google.com/drive/folders/1DUccPWQ3yUXQ78CX_TSdigy9QPTTTiiv">Click Here</a>
 2. Computer Science 20: https://github.com/MercersKitchen/CS20
 3. Computer Science 30: https://github.com/MercersKitchen/CS30
 4. Computer Science, Advanced Placement Combined Streams: https://github.com/MercersKitchen/AP-CS
