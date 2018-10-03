@@ -1,3 +1,5 @@
+Information is Unique to Alberta Education and Schools in Alberta
+
 CSE1010 - Computer Science 1 
 - Algorithms, Block Diagrams
 - No Pre-requisites
@@ -14,3 +16,6 @@ CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
 - No Pre-requisites
 
 CSE1910 - CSE Project A
+
+
+Main Assignment Titles Per Course, for gradebook listings
