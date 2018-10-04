@@ -1,20 +1,16 @@
 Information is Unique to Alberta Education and Schools in Alberta
 
 CSE1010 - Computer Science 1
-- Algorithms, Block Diagrams
-- No Pre-requisites
-
+  - Algorithms, Block Diagrams
+  - No Pre-requisites
 CSE1110 - Structured Programming 1
-- IOP, basic operators & data types, sequential flow
-- No Pre-requisites
-
+  - IOP, basic operators & data types, sequential flow
+  - No Pre-requisites
 CSE1120 - Structured Programming 2
-- Intro to modularity, specifically selection and iteration
-- Needs CSE1110: Structured Programming 1
-
+  - Intro to modularity, specifically selection and iteration
+  - Needs CSE1110: Structured Programming 1
 CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
-- No Pre-requisites
-
+  - No Pre-requisites
 CSE1910 - CSE Project A
 
 Purposes: all end in Presentation to Industry and/or Post Secondary

@@ -1,0 +1,31 @@
+Information is Unique to Alberta Education and Schools in Alberta
+
+**UNDER CONSTRUCTION**
+
+Courses Available
+CSE2010 - Computer Science 2
+  - Needs CSE1010 - Computer Science 1, CSE1120: Structured Programming 2
+CSE1220 - Client-Side Scripting 2 (HTML5), No Pre-requisites
+CSE2210 - Client-Side Scripting 3 (HTML5)
+  - Needs CSE1220: Client-side Scripting 2
+  - Needs CSE1120: Structured Programming 2
+CSE2110 - Procedural Programming 1 (Needs CSE1120: Structured Programming 2)
+CSE2120 - Data Structures 1 (Needs CSE2110: Procedural Programming 1)
+CSE2910: CSE Project B
+CSE2130 - Files and File Structures 1 (Needs CSE2120: Data Structures 1)
+
+Purposes: all end in Presentation to Industry and/or Post Secondary
+- Build HTML5 Websites for Promotion and hosting (GitHub) by focusing on JavaScript using JSFiddle
+- Build more efficient and layered Android Apps with Java through the Processing IDE, using procedural programming methods
+- Introduce APIs and JSON Data
+- Option: Using a Raspberry Pi to explore hardware of a computer, Physical Computing
+
+2018-2019 School Year
+
+Main Assignment Titles Per Course, for gradebook listings (Unique to ABE)
+
+General Assignment Titles for Individual Study Projects
+- Assignments
+- Anecdotal Records, Testing, and Debugging
+- Project Planning
+- Major Project
