@@ -2,7 +2,7 @@ Information is Unique to Alberta Education and Schools in Alberta
 
 **UNDER CONSTRUCTION**
 
-Courses Available
+Courses Available - Depending on Student Experience
 CSE2010 - Computer Science 2
   - Needs CSE1010 - Computer Science 1, CSE1120: Structured Programming 2
 CSE1220 - Client-Side Scripting 2 (HTML5), No Pre-requisites
@@ -29,3 +29,69 @@ General Assignment Titles for Individual Study Projects
 - Anecdotal Records, Testing, and Debugging
 - Project Planning
 - Major Project
+
+CSE2010 - Computer Science 2
+- Developer Tools
+  - New: using online HTML Mapped Image Tools and Other Website Developer Tools
+  - New: using JSFiddle to Prototype HTML5 in webpage development
+  - CS1: Using Email, Using GitHub, Using Educational Tools like Google Classroom
+- Algorithm Introduction
+- Using Algorithms to Guide Software Development
+
+CSE1220 - Client-Side Scripting 2 (HTML5), No Pre-requisites
+- JavaScript Notes and related assignments
+- JavaScript IOP Assignments
+  - Outputting to the Console
+  - JavaScript as Structured Programming (SP1 & SP2)
+- Webpage Form: dynamic example
+  - Buttons and Interactions
+  - HTML Form
+  - Use JavaScript to store user data
+  - Explore how to solicit user input
+  - Displaying dynamic client-side information
+  - CSS is either a script within index.html or a linked file
+- Webpage Planning: Text and Visual Features (including images, etc.), Case Study
+- Webpage Project
+
+CSE2210 - Client-Side Scripting 3 (HTML5)
+- Note: assessment includes all of Client-side Scripting 1 & 2,
+  Computer Science 1 & 2, Procedural Programming 1, Data Structures, and
+  Structured Programming 1 & 2 (if at beginning of course, might be a review or
+  introduction to these outcomes)
+- Writing Functions
+  - Goal: Reusable code designed to be efficient for maintainability and extendibility
+  - Goal: Site security by imported data hiding and information protection
+  - VOID and Return Functions
+  - Parameters and Arguments
+  - Abstracting a Behavior: group block of code, generalize IOP
+  - Reading and writing arrays, using arrays ("memories of a computer")
+- Website Planning: Behaviors, Link Maps
+- Website Project: layering of different pages
+
+CSE2110 - Procedural Programming 1 (Needs CSE1120: Structured Programming 2)
+- App Engine Development
+
+CSE2120 - Data Structures 1 (Needs CSE2110: Procedural Programming 1)
+- Arrays
+
+CSE2130 - Files and File Structures 1 (Needs CSE2120: Data Structures 1)
+- File Input & Output
+
+CSE2910: CSE Project B
+
+**UNDER CONSTRUCTION**
+All Main Projects need to include
+2D Shapes
+Text
+Images
+Sound
+Quit Button
+Time Measure
+
+Main Projects
+Cue Cards
+20 Images
+Alternate Cue Cards
+Other Project
+Collisions (see Alternate Cue Cards)
+Decision Trees (see 20 Images)

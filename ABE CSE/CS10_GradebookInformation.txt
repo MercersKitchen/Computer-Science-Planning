@@ -60,6 +60,7 @@ CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
 	- Enrichment: java-script writing HTML
 - Who Am I Webpage Project (Presenting one's Digital Presence of "Global" Perspective or "UNESCO" Perspective)
 - Essay Webpage Project (Explore Meta-Literacy of essay (English and Social))
+- OPTIONAL: Coming Soon Page, "Under Construction", with Webpage Counter
 
 CSE1110 - Structured Programming 1
 - Algorithms for GUI (Ratios for Geometry Feedback)
