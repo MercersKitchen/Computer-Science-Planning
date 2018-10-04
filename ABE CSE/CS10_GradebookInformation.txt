@@ -17,7 +17,7 @@ CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
 
 CSE1910 - CSE Project A
 
-Purposes
+Purposes: all end in Presentation to Industry and/or Post Secondary
 - Build HTML Webpages for Promotion and hosting (GitHub)
 - Build simple Android Apps with Java through the Processing IDE
 - Option: Using a Raspberry Pi to explore hardware of a computer, Physical Computing
@@ -25,6 +25,12 @@ Purposes
 2018-2019 School Year
 
 Main Assignment Titles Per Course, for gradebook listings (Unique to ABE)
+
+General Assignment Titles for Individual Study Projects
+- Assignments
+- Anecdotal Records, Testing, and Debugging
+- Project Planning
+- Major Project
 
 CSE1010 - Computer Science 1
 - Developer Tools: Using Email, Using GitHub, Using Educational Tools like Google Classroom
@@ -39,7 +45,7 @@ CSE1010 - Computer Science 1
 
 CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
 - Exploring architecture of Internet
-- HTML and GitHub Markdown Lessons and Assignments
+- HTML and GitHub Markdown Lessons and Assignments: static webpages
   - Document Design: hypertext using tags, attributes, and hyperlinks (including downloading documents)
 	  - Introduction to Navigation Emphasis: 2-clicks, Browser Navigation (In Tab, New Tab)
 	- HTML Layout: mark off the various parts of the document
@@ -57,11 +63,23 @@ CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
 	- Use style codes inline with HTML
 	- Enrichment: java-script writing HTML
 - Who Am I Webpage Project (Presenting one's Digital Presence of "Global" Perspective or "UNESCO" Perspective)
-- Essay Webpage Project
+- Essay Webpage Project (Explore Meta-Literacy of essay (English and Social))
 
 CSE1110 - Structured Programming 1
 - Algorithms for GUI (Ratios for Geometry Feedback)
 - Reading and Following of HEAP Sheets, Variables, etc.: on a flat level
+- Documentation and Syntax
+  - Internal: comments
+  - External: ReadMe.txt, ReadMe.md
+	- Enrichment, Promotional: index.html
+- Algorithm Translations
+  - Primitive Data and Boundaries (Integers, Real Numbers: floats & doubles, Characters, & Strings)
+	- Variables and Constants (for Security)
+	- Literals & Input Command (methods or operators)
+- Debugging, Interpretation and Change
+  - Syntax Errors: recognize and change
+  - Logic Errors: in various places like debugger, console, or canvas
+  - Run-time Errors: in console or Rendering errors
 - GUI Introductions:
   - 2D Shapes: Quit Button
 	- 2D Shapes: Happy Face
@@ -69,7 +87,86 @@ CSE1110 - Structured Programming 1
 	- Text
 	- Images
 	- Color
-- Music Player: Case Study & GUI (INcluding Free Use Music)
+- Music Player: Case Study & GUI (Including Free Use Music)
 
 CSE1120 - Structured Programming 2
+- Algorithms: Use More than one IPO Module
+  - User Input Data (sensor) vs. Computed Data vs. Hard-coded data
+	  - For example: input by keyboard, mouse, counters, collisions (visual data)
+	- Enrichment: using libraries to simplify coding using prebuilt functions
+	- See Music Player (Android)
+- Data and Data Structures: see Console Calculator Assignment
+  - Use following literals or operators
+	  - Assignment (=)
+		- Arithmetic (+, -, *, /, %, ++, --, +=, -=, *=, /=, =+, =-, =*, =/)
+		- Relational (!, &&, ||, including short circuits)
+		- Boolean (true, false, conditionals)
+		- Concatenation (two notations: + ,)
+		- Interpolation (new interior data points), for example with fractions and checking typeof, casting where appropriate
+	- Use Boolean data for decision and iterative control structures
+	- Boundaries of Data, including internal markers for outputs or errors
+	- Enrichment, Introduce Arrays as Alpha-Numeric Variable Grouping (variables and constants)
+	  - Note: using index to match boundaries of data expectations
+  - Use Appropriate selection or iteration structures to avoid unconditional branching or exiting
+	  - Nested conditional (IF-IF | AND)
+		- Nested Iterative (similar to 2D Array, 2D Plane), see Chess Board Assignment
+- Algorithm Translation (coding): Music Player Project (working software)
+
 CSE1910 - CSE Project A
+- Purpose: workflow of project management, individually monitored and communicated prior to building
+  - Identify the project
+	- Prepare a plan
+	- Clarify Purposes
+	- Defining deliverables
+	- Specifying timelines
+	- Explaining terminology, tools, and processes
+	- Defining resources, materials, costs
+	- Identify assessment standards, attaining metrics
+	- Present proposal, obtain necessary approvals
+- Student Considerations
+  - Complete project and performance as outlined and planned
+	- Monitor project and performance, making and recording necessary adjustments
+	- Present project and performance, indicating outcomes attained and relationship of outcomes to goals originally set
+	- Evaluate project and performance indicating the processes and strategies used
+	- Make recommendations on how the project and performance could be improved
+Assignment Titles for Gradebook
+- Project Planning
+- Anecdotal Grading, Testing & Debugging
+- Major Project
+
+Project Listings and Expectations Summary
+
+Music Player
+1. Music Player Case Study
+  - Image – GUI
+  - Descriptions of Functions
+2. Music Player GUI
+  - Image of Buttons, 2D Shapes
+  - Relationship to Functions, Behaviors
+3. General Setup, Library Functions: using Sound or Minim (or other sound player)
+4. Basic GUI and Function – based on all classroom work to date
+  - 2D Shapes
+  - Text
+  - Images
+  - Quit Button
+  - Other Buttons
+  - Play and Stop 1 song (array not necessary here)
+5. Player Functions – using combination of classroom work and example sound & music players coded by Mr. Mercer
+  - Note: array necessary hypertext- Loading Multiple Songs
+  - Multiple Songs available to be played (additional sound effects for specific buttons are a bonus)
+  - Next Button: will work and will not go past the “last song”
+  - Previous Button: will work and will not go past the “first song”
+  - Handling Errors for playing “next: and “previous” songs
+  - For Example: Array Index Out of Bounds
+6 Advanced GUI Elements – student choice to go “beyond” general expectations so the music player has individual
+  - Emphasizes research of chosen Library functions- Time: what part of the song as played, total the song has to play
+  - Volume: changing the volume
+  - Song Title: printing the title of the song, dealing with a song title that is too long for the space provided
+  - Other items Mr. Mercer has not recorded or prompted
+
+Other Projects
+- Celebration Cards
+- Screen Savers & emphasis of loops, like infinite loops with single escape ("quit" button)
+- Drawing Program
+- Security App: combination locks
+- Games: Rock Paper Scissors, Snake, Tetrus
