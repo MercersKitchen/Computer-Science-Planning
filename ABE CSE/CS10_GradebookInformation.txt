@@ -1,4 +1,4 @@
-Information is Unique to Alberta Education and Schools in Alberta
+﻿Information is Unique to Alberta Education and Schools in Alberta
 
 CSE1010 - Computer Science 1
   - Algorithms, Block Diagrams
@@ -35,8 +35,8 @@ CSE1010 - Computer Science 1
 - Software Development: "Iterative and Incremental" (See AP CSP), "Waterfall"
 - Essential Algorithms:
   - Accumulation (running total),
-	- Determining a Mean (central tendency, not median, or mode without sorting),
-	- Maximums and Minimums
+  - Determining a Mean (central tendency, not median, or mode without sorting),
+  - Maximums and Minimums
 - Using Control Structures: Sequential, Decision, Iterative
 
 CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
@@ -64,7 +64,7 @@ CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
 
 CSE1110 - Structured Programming 1
 - Algorithms for GUI (Ratios for Geometry Feedback)
-- Reading and Following of HEAP Sheets, Variables, etc.: on a flat level
+- HEAP Sheets: Reading and Following of HEAP Sheets, Variables, etc.on a flat level
 - Documentation and Syntax
   - Internal: comments
   - External: ReadMe.txt, ReadMe.md
@@ -92,7 +92,7 @@ CSE1120 - Structured Programming 2
 	  - For example: input by keyboard, mouse, counters, collisions (visual data)
 	- Enrichment: using libraries to simplify coding using prebuilt functions
 	- See Music Player (Android)
-- Data and Data Structures: see Console Calculator Assignment
+- Data & Data Structures: see Console Calculator Assignment
   - Use following literals or operators
 	  - Assignment (=)
 		- Arithmetic (+, -, *, /, %, ++, --, +=, -=, *=, /=, =+, =-, =*, =/)

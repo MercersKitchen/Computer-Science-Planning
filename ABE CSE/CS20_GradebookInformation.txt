@@ -39,7 +39,7 @@ CSE2010 - Computer Science 2
 - Using Algorithms to Guide Software Development
 
 CSE1220 - Client-Side Scripting 2 (HTML5), No Pre-requisites
-- JavaScript Notes and related assignments
+- JavaScript Notes & Assignments
 - JavaScript IOP Assignments
   - Outputting to the Console
   - JavaScript as Structured Programming (SP1 & SP2)
