@@ -65,7 +65,8 @@ CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
 CSE1110 - Structured Programming 1
 - Algorithms for GUI (Ratios for Geometry Feedback)
 - HEAP Sheets: Reading and Following of HEAP Sheets, Variables, etc.on a flat level
-- Documentation and Syntax
+  - Not included when in CS30
+- Documentation & Syntax
   - Internal: comments
   - External: ReadMe.txt, ReadMe.md
 	- Enrichment, Promotional: index.html
@@ -73,7 +74,7 @@ CSE1110 - Structured Programming 1
   - Primitive Data and Boundaries (Integers, Real Numbers: floats & doubles, Characters, & Strings)
 	- Variables and Constants (for Security)
 	- Literals & Input Command (methods or operators)
-- Debugging, Interpretation and Change
+- Debugging & Interpretation (& Change)
   - Syntax Errors: recognize and change
   - Logic Errors: in various places like debugger, console, or canvas
   - Run-time Errors: in console or Rendering errors

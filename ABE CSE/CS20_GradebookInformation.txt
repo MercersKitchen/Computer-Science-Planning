@@ -36,7 +36,7 @@ CSE2010 - Computer Science 2
   - New: using JSFiddle to Prototype HTML5 in webpage development
   - CS1: Using Email, Using GitHub, Using Educational Tools like Google Classroom
 - Algorithm Introduction
-- Using Algorithms to Guide Software Development
+- Algorithm Guide (to Software Development)
 
 CSE1220 - Client-Side Scripting 2 (HTML5), No Pre-requisites
 - JavaScript Notes & Assignments
@@ -72,7 +72,9 @@ CSE2110 - Procedural Programming 1 (Needs CSE1120: Structured Programming 2)
 - App Engine Development
 
 CSE2120 - Data Structures 1 (Needs CSE2110: Procedural Programming 1)
-- Arrays
+- Introduction to Arrays
+  - If in CS30, using Arrays in Pong
+- 
 
 CSE2130 - Files and File Structures 1 (Needs CSE2120: Data Structures 1)
 - File Input & Output
