@@ -68,6 +68,9 @@ WAMP local Server to execute PHP
 ## Computer Science 20
 <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Bibliography">Click Here for a Course Specific Resource List</a>
 
+This course continues Computer Science 10 as students use GitHub (version control software) organizing websites and computer applications. Instruction focuses more on websites (from webpages) and computer applications integrated with API's (Advanced Programming Interface) and JSON File Input-Output, with increased cross-platform use.
+
+
 Weather App, Connected to Planet's Weather Sensors, using JSON Data and Utilizing File Input Output
 
 ---
@@ -75,10 +78,7 @@ Weather App, Connected to Planet's Weather Sensors, using JSON Data and Utilizin
 ## Computer Science 10
 <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Bibliography#computer-science-10-introductory">Click Here for a Course Specific Resource List</a>
 
-In this course students learn computer literacy, computational thinking, and applied coding. Instruction and projects focus on building webpages and focused applications able to run on computers. Enrichment includes increased website markup, using web-hosting services, and side-loading to Android Devices. Projects include continuing their Digital Citizenship with a Webpage Portfolio, USESCO-style, and creating a fully functional music player using YouTube's Audio Library, other royalty-free content, or purchased content
-
-Music Player with option of Side-loading to Android Devices
-PWA
+In this course students learn computer literacy, computational thinking, and applied coding. Instruction and projects focus on building webpages and focused applications able to run on computers. Enrichment includes increased website markup, using web-hosting services or progressive web apps, and side-loading to Android Devices. Projects include continuing their Digital Citizenship with a Webpage Portfolio (USESCO-style) and creating a fully functional music player using YouTube's Audio Library, other royalty-free content, or purchased content. Ethics, communication, and various field trips further broaden students understand of how computer science fits into career pathways.
 
 ---
 
