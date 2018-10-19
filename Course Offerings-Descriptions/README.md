@@ -19,7 +19,7 @@ Table of Content
 
 All courses enriched by Clubs and Teams, <a href="https://github.com/MercersKitchen/Clubs-and-Teams">Click Here</a>
 
-Main Ideas
+Main Goals
 1. GitHub: use of Industry Level, cloud-based collaboration and version control
 2. Programmic Control of *Internet of Things Devices* using a Java Compiler or JavaScript-based Languages
 3. Authentic Presentation and Communication of Project-based learning
