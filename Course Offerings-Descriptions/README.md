@@ -61,6 +61,8 @@ Main Goals
 
 Online Ordering of Groceries Program, emphasizing Object Oriented Design
 
+WAMP local Server to execute PHP
+
 ---
 
 ## Computer Science 20
@@ -73,8 +75,10 @@ Weather App, Connected to Planet's Weather Sensors, using JSON Data and Utilizin
 ## Computer Science 10
 <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Bibliography#computer-science-10-introductory">Click Here for a Course Specific Resource List</a>
 
+In this course students learn computer literacy, computational thinking, and applied coding. Instruction and projects focus on building webpages and focused applications able to run on computers. Enrichment includes increased website markup, using web-hosting services, and side-loading to Android Devices. Projects include continuing their Digital Citizenship with a Webpage Portfolio, USESCO-style, and creating a fully functional music player using YouTube's Audio Library, other royalty-free content, or purchased content
 
 Music Player with option of Side-loading to Android Devices
+PWA
 
 ---
 
