@@ -40,31 +40,29 @@ Main Goals
 ## Campus EPSB, Computer Science (Edmonton Public Schools "Career Pathways")
 <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Bibliography">Click Here for a Course Specific Resource List</a>
 
+In this group of courses, with a special application procedure, students earn industry-level certification through Cisco Academy. Desktops, laptops, Cisco Switches, and Cisco's Packet Tracer allows students to gain hand skills, conceptualization, and knowledge. IT Essentials, CCNA Parts 1 and 2, and Cyber Security forms the core of this experience. Enrichment includes Internet of Things and language specific opportunities with Python and C++, ending again with industry-level certification.
 
 ---
+## Advanced Placement, Computer Science 30 (Two Streams Below)
 
-## Advanced Placement, Computer Science 30 (Advanced placement Computer Science A Focus)
+This course is split into two streams. Students who complete CS20 are able to use this course to prepare for the Computer Science Principals digital portfolio and final exam. Students who complete CS30 are able to use this course to prepare for Computer Science Principles and Computer Science A Final Exam. Both streams have post-secondary acceptance. This means, in many cases, their work in High School will count for credit in first year computing courses.
+
+### Advanced placement Computer Science A Stream
 <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Bibliography">Click Here for a Course Specific Resource List</a>
 
+In this stream, students continue to develop Advanced Placement Labs in Processing-Java and Pure-Java to prepare for their final exam. This final exam is a paper and pencil exam testing their Pure-Java knowledge and understanding. This course ends with a presentation to Post-secondary and Industry Leaders about a program and topic of their choice, called "CS Pitches".
 
----
-
-## Advanced Placement, Computer Science 30 (Advanced placement Computer Science Principals)
+### Advanced placement Computer Science Principles Stream
 <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Bibliography">Click Here for a Course Specific Resource List</a>
 
+In this stream, students develop a program of their choice and reflect on various Computer Science Concepts. All work is submitted to the College Board's Advanced Placement Grading Group through a Digital Portfolio. Students end the course with two requirements. The first is a Final Exam broadly covering various aspects of computer literacy. The second is a presentation to Post-secondary and Industry Leaders about a program and topic of their choice, often connected to their digital portfolio, called "CS Pitches".
 
 ---
 
 ## Computer Science 30
 <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Bibliography">Click Here for a Course Specific Resource List</a>
 
-This course continues from Computer Science 20. Students continue with GitHub (version control software) organizing websites and computer applications. Instruction reviews Processing-Java from Procedural Programming to writing objects in Pure-Java and controlling visual data with Processing-Java functions and Pure-Java Objects and Object-design. 
-
-Enrichment: databases using Google Sheets API for JavaScript or PHP, SQL
-
-Online Ordering of Groceries Program, emphasizing Object Oriented Design
-
-WAMP local Server to execute PHP
+This course continues from Computer Science 20. Students continue with GitHub (version control software) organizing websites and computer applications. Instruction reviews Processing-Java from Procedural Programming to Object Orientated Programming in Pure-Java and controlling visual data with Processing-Java functions and Pure-Java Objects. Then, students move to controlling text and sorting data using Pure-Java and the Java Compiler directly through Command Line. These skills lay the foundation for post-secondary Computer Science and the Advanced Placement Computer Science A Exam (students are able to register for Advanced Placement Computer Science 30). Enrichment includes using databases based through Google Sheets API for JavaScript, or PHP, or SQL, and using a WAMP Server to execute this code locally or through a Raspberry Pi Server. After this course, students are well prepared for the Advanced Placement Computer Science Principals Digital Portfolio and Final Exam; and the Computer Science A Exam, both offered during Advanced Placement Computer Science 30.
 
 ---
 
@@ -85,7 +83,7 @@ In this course students learn computer literacy, computational thinking, and app
 ## Computer Pathways
 <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Bibliography">Click Here for a Course Specific Resource List</a>
 
-
+This course starts with Project-based learning: "students learn exactly what they want to learn". Using an entrepreneurial experience, students develop deliverables within a timeline scheduling grading sessions with the teacher. Opportunities exist with computer science (Java, Python, C++, Scratch, etc.) robotics and Internet of Things, and Networking (Cisco Academy). Their *final Exam* is a presentation (part of "CS Pitches") to Post-secondary and Industry Leaders.
 
 ---
 
