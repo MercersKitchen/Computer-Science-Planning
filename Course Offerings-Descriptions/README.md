@@ -1,5 +1,5 @@
 # Course Titles and Descriptions
-Courses offered through Mercer's Kitchen, Including Edmonton Public School's "Computer Science" through Campus EPSB (Career Pathways)
+Courses offered through Mercer's Kitchen, including Edmonton Public School's "Computer Science" through Campus EPSB (Career Pathways)
 
 **UNDER CONSTRUCTION**
 
@@ -58,6 +58,9 @@ Main Goals
 ## Computer Science 30
 <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Bibliography">Click Here for a Course Specific Resource List</a>
 
+This course continues from Computer Science 20. Students continue with GitHub (version control software) organizing websites and computer applications. Instruction reviews Processing-Java from Procedural Programming to writing objects in Pure-Java and controlling visual data with Processing-Java functions and Pure-Java Objects and Object-design. 
+
+Enrichment: databases using Google Sheets API for JavaScript or PHP, SQL
 
 Online Ordering of Groceries Program, emphasizing Object Oriented Design
 
@@ -68,17 +71,14 @@ WAMP local Server to execute PHP
 ## Computer Science 20
 <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Bibliography">Click Here for a Course Specific Resource List</a>
 
-This course continues Computer Science 10 as students use GitHub (version control software) organizing websites and computer applications. Instruction focuses more on websites (from webpages) and computer applications integrated with API's (Advanced Programming Interface) and JSON File Input-Output, with increased cross-platform use.
-
-
-Weather App, Connected to Planet's Weather Sensors, using JSON Data and Utilizing File Input Output
+This course continues from Computer Science 10 as students use GitHub (version control software) organizing websites and computer applications. Instruction focuses on websites using HTML5 and computer applications using Java integrated with API's (Advanced Programming Interface) and JSON File Input-Output. Projects include a Business-style Website introducing students to Skills Website Competition and writing a Weather App using weather sensors accessed through an API Key (able to run on a computer or side-loaded to an Android device). At the end of Computer Science 20, students are prepared to register for AP Computer Science 30, preparing for the AP Computer Pathways Digital Portfolio and Final Exam.
 
 ---
 
 ## Computer Science 10
 <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Bibliography#computer-science-10-introductory">Click Here for a Course Specific Resource List</a>
 
-In this course students learn computer literacy, computational thinking, and applied coding. Instruction and projects focus on building webpages and focused applications able to run on computers. Enrichment includes increased website markup, using web-hosting services or progressive web apps, and side-loading to Android Devices. Projects include continuing their Digital Citizenship with a Webpage Portfolio (USESCO-style) and creating a fully functional music player using YouTube's Audio Library, other royalty-free content, or purchased content. Ethics, communication, and various field trips further broaden students understand of how computer science fits into career pathways.
+In this course students learn computer literacy, computational thinking, and applied coding. Instruction and projects focus on building webpages and focused applications able to run on computers. Enrichment includes webpage markup with Cascading Style Sheets, using web-hosting services or progressive web apps, and side-loading to Android Devices. Projects include continuing their Digital Citizenship with a Webpage Portfolio (USESCO-style) and creating a fully functional music player using YouTube's Audio Library, other royalty-free content, or purchased content. Ethics, communication, and various field trips further broaden students understand of how computer science fits into career pathways.
 
 ---
 
