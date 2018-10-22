@@ -83,7 +83,7 @@ In this course students learn computer literacy, computational thinking, and app
 ## Computer Pathways
 <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Bibliography">Click Here for a Course Specific Resource List</a>
 
-This course starts with Project-based learning: "students learn exactly what they want to learn". Using an entrepreneurial experience, students develop deliverables within a timeline scheduling grading sessions with the teacher. Opportunities exist with computer science (Java, Python, C++, Scratch, etc.) robotics and Internet of Things, and Networking (Cisco Academy). Their *final Exam* is a presentation (part of "CS Pitches") to Post-secondary and Industry Leaders.
+This course starts with Project-based learning: "students learn exactly what they want to learn". Using an entrepreneurial experience, students develop deliverables within a timeline scheduling grading sessions with the teacher. Opportunities exist with computer science (Java, Python, C++, and Scratch), robotics (Sphero and Ozobot), Internet of Things, and Networking (Cisco Academy). More importantly, students are able to apply their project to mentor younger students at neighboring elementary and junior high schools. Their *Final Exam* is a presentation (part of "CS Pitches") to Post-secondary and Industry Leaders.
 
 ---
 
