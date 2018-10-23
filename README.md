@@ -48,3 +48,10 @@ What to expect in school-level courses & project-based beginnings:
 - Referenced Curriculum
 - Vocabulary, Concepts, and other information shared
 - Due to project-based learning and some students spending more time coding than others, leveling capacity of students into grades or levels is problematic. Please see Mr. Mercer for more details.
+
+---
+
+# Ideas to Include
+
+
+---

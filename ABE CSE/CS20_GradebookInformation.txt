@@ -30,15 +30,21 @@ General Assignment Titles for Individual Study Projects
 - Project Planning
 - Major Project
 
+Note: Students have the option of completing Online MOOCs like
+- Code Academy: HTML, CSS, JavaScript, "How to Build a Website",
+  "Make an Interactive Website"
+
 CSE2010 - Computer Science 2
 - Developer Tools
   - New: using online HTML Mapped Image Tools and Other Website Developer Tools
   - New: using JSFiddle to Prototype HTML5 in webpage development
+  - New: Using Multiple Screens or Ctrl-TAB to increase workflow
   - CS1: Using Email, Using GitHub, Using Educational Tools like Google Classroom
 - Algorithm Introduction
 - Algorithm Guide (to Software Development)
 
 CSE1220 - Client-Side Scripting 2 (HTML5), No Pre-requisites
+- **Refer to Websites.txt**
 - JavaScript Notes & Assignments
 - JavaScript IOP Assignments
   - Outputting to the Console
@@ -51,9 +57,15 @@ CSE1220 - Client-Side Scripting 2 (HTML5), No Pre-requisites
   - Displaying dynamic client-side information
   - CSS is either a script within index.html or a linked file
 - Webpage Planning: Text and Visual Features (including images, etc.), Case Study
-- Webpage Project
+- Webpage Project: JavaScript using HTML Forms
+  - Structure of Website: index.html hyperlinked to childPages.html, all connected
+    to .js files
+  - Adding and/or Modifying childPages.html
+  - Adding and/or Modifying associated .js files
+  - Aware of referencing proper IDs from HTML to copied .js file
 
 CSE2210 - Client-Side Scripting 3 (HTML5)
+- **Refer to Websites.txt**
 - Note: assessment includes all of Client-side Scripting 1 & 2,
   Computer Science 1 & 2, Procedural Programming 1, Data Structures, and
   Structured Programming 1 & 2 (if at beginning of course, might be a review or
@@ -66,18 +78,66 @@ CSE2210 - Client-Side Scripting 3 (HTML5)
   - Abstracting a Behavior: group block of code, generalize IOP
   - Reading and writing arrays, using arrays ("memories of a computer")
 - Website Planning: Behaviors, Link Maps
-- Website Project: layering of different pages
+- Website Project: Business-style Webpage
+  - Case Study
+  - Project and GitHub Folder Structure
+  - Case Study
+  - To Do List out of Case Study
+  - Case Study or To Do List documents content to use or create
+  - All index.html and childTemplate.html properly named and hyperlinked
+  - All associated index.js and childTemplate.js named and linked
+  - All index.css and childTemplate.css named and linked
+  - Content matches Case Study
+  - Able to browse website and various pages
+  - **Rubric Under Construction**
+
 
 CSE2110 - Procedural Programming 1 (Needs CSE1120: Structured Programming 2)
+- Case Study
+- Prototyping Procedures (no return)
+- Prototyping Functions (return)
+  - Calculators
 - App Engine Development
+  - Incorporating Procedures and Functions
+
 
 CSE2120 - Data Structures 1 (Needs CSE2110: Procedural Programming 1)
 - Introduction to Arrays
   - If in CS30, using Arrays in Pong
-- 
+  - Single Arrays
+  - Double Arrays (tables, esp. in File IO)
+  - Parallel Arrays (look-up or associative tables)
+  - Records: mapping array functions with types of records
+    - Static List
+    - Add to beginning, middle, or end
+    - Copying Arrays and issues of time during main record build
+- Array Operations
+  - Creating Structures
+  - Inserting, deleting, and replacing data in the structure
+  - Searching, Finding, and retrieving data from the structure
+  - Determining the size of the structure
+  - Copying the structure
+  - Comparing two structures of the same type
+- Building Text Field: character to word to phrase using concatenation
+  - Using memory structures to "remember"
+  - Case Study and Diagram of what should happen
+  - Using error trapping (i.e. NaN to ID when numbers are typed in error)
+- JSON Data
+  - Accessing, verifying, using validation tools like JSON Lint
+  - 'Unwrapping' and Assigning to Variables
+  - Using Pieces inside program, between programs (i.e Unix Time Stamp Converter)
+  - Creating JSON File IO
 
 CSE2130 - Files and File Structures 1 (Needs CSE2120: Data Structures 1)
 - File Input & Output
+  - Text, CSV
+  - JSON
+- Case Study: how algorithm will incorporate File IO
+- Prototyping File IO
+  - End of Program
+  - During Program
+- Example of Using File IO in project
+  - ex. Weather App
 
 CSE2910: CSE Project B
 

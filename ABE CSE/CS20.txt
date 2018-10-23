@@ -2,15 +2,15 @@ CS 20 Courses
 - Courses that continue are noted
 - Prerequisites are also notes
 - List Curriculum Reference abbreviations
-- Projects and Rubrics based on flowing (Email Mr. Mercer for more details)
+- Projects and Rubrics based on 'flowing' (Email Mr. Mercer for more details)
   "Once an outcome is listed, it's expected to continue as appropriate."
 
 Main Project and Boundaries (Processing-Java)
 Main Lesson: String Data vs. ASCII Data
 Weather Map - Using APIs within GUI, Option to Android Side-load
-Smart Meter - Using API to deliver information for user-choices
+Smart Meter - Using API to deliver information for user-choices (Still waiting for infrastructure to be solidified)
 - Leads to using sensors (i.e. GPS Locator) for Cause-Effect
-- I.e. if cell phones leaves house, turn off lights (option to manually turn on,
+- I.e. if cell phone leaves house, turn off lights (option to manually turn on,
   with notification sent that light manually turned on, pseudo-security)
 
 Theory, Concepts
