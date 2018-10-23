@@ -58,11 +58,13 @@ CSE1220 - Client-Side Scripting 2 (HTML5), No Pre-requisites
   - CSS is either a script within index.html or a linked file
 - Webpage Planning: Text and Visual Features (including images, etc.), Case Study
 - Webpage Project: JavaScript using HTML Forms
-  - Structure of Website: index.html hyperlinked to childPages.html, all connected
+  - Document Map, Structure of Website: index.html hyperlinked to childPages.html, all connected
     to .js files
-  - Adding and/or Modifying childPages.html
-  - Adding and/or Modifying associated .js files
-  - Aware of referencing proper IDs from HTML to copied .js file
+    - Adding and/or Modifying childPages.html, working by rendering
+    - Adding and/or Modifying associated .js files,
+      demonstrated by debugging code "Made it to childTemplate.js"
+    - Aware of referencing proper IDs from HTML to copied .js file
+  - Working
 
 CSE2210 - Client-Side Scripting 3 (HTML5)
 - **Refer to Websites.txt**
