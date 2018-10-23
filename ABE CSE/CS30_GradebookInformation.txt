@@ -208,18 +208,231 @@ CSE3210 - Server-side Scripting 1
 •	CSE2110: Procedural Programming 1
 •	CSE2120: Data Structures 1
 
+
+Purpose
+•	Combine dynamic websites to server-side scripting
+•	Using simple databases
+•	Access and using …
+•	Webserver
+•	Database management
+•	Server-side scripting languages
+
+Writing server-side scripting features
+•	Compare and contrast server-side scripting with dynamic client-side scripting for the purpose of combining these
+o	Limitations of dynamic client-side (logging in, preferences, etc.)
+o	Security
+o	Quality of experience
+o	Developer control of application environment
+o	Greater interactivity
+o	Scalability and Maintainability
+o	Explore web applications available
+o	Compare server-side languages with client-side languages
+o	Explore disadvantages of server-side scripting
+•	Use of a database and it’s management
+o	Determine data handling requirements and limitations of various databases
+
+Code Academy: PHP, SQL
+•	Additional Lessons in W3 Schools
+Overlapping assignments from previous courses
+•	Project Planning – Text Features
+•	Project Planning – Website Features
+•	Website Project – Beginning (Website Layout with navigation, coming soon pages)
+•	Website Project – Final Product (Grading the final project website)
+
+Example Gradebook Divisions
+•	WAMP Server Hello World in PHP
+•	Google Sheets Hello World
+•	Threadly as Frontend: HTML5 review
+Case Study of Threadly
+•	Threadly with PHP Forms
+•	Threadly with Google Forms
+•	PHP Project
+
+•	PHP Code Academy (Closed Site) 1 Day Introduction and Completion
+
+
+
+CSE3210: Server-side Scripting 1
+Crafting dynamic websites by adding databases as a repository for information displayed on their websites
+Use Code Academy PHP Course
+Introduction to CSV Files, Arrays & referencing Arrays, and other data Structures
+See U:\Files\Courses\ComputerScienceStream\Websites_Main_Project
+
+
+
+
 Optional course for CSE3130: Object-orientated Programming 2
 CSE3910: CSE Project D
 
 CSE3020: Computer Science 4
 •	Needs CSE3010: Computer Science 3
 •	Needs CSE3110: Iterative Algorithm 1
+
+
+Purpose
+•	Standard abstract data types and dynamic data structures to implement them
+•	Asymptotic analysis of algorithmic efficiency and indicate that efficiency using big O notation
+•	Explore the Turing Machine
+
+Dynamic abstract data types (ADTs) key operations, utility, and structure
+•	List and Explain advantages and disadvantages of dynamic ADTs
+•	Common and Useful ADTs: Lists, Stacks, Queues and priority queues, Sets, Maps, Trees
+•	Dynamic Data Structures (user-created): dynamic arrays & associated arrays, linear linked structures, hash tables, class libraries
+•	Common data operations:
+o	traversing items in data structure
+o	finding and / or retrieving item
+o	adding – removing – replacing an item
+o	determine the size of the structure
+o	determining if the structure is empty
+o	providing a copy of the subset of the collection
+o	comparing or combing data structures of the same type
+
+Asymptotic Analysis of algorithmic efficiency (approaches and nomenclature)
+•	describe asymptotic analysis
+•	relationship of efficiency and complexity
+•	represent efficiency and complexity of an algorithmic using big O notation including
+o	Constant growth
+o	Logarithmic growth
+o	Linear growth
+o	Linearithmic growth
+o	Polynomial growth
+o	Exponential growth
+
+Recursive and Introductory Recursive operations rational
+•	Compare and contrast recursion with iteration
+•	Program flow
+•	Problems that require recursive processes
+
+Turing Machine
+•	Uses
+•	Represent
+•	Execute simple programs
+•	Create simple state representations
+
+
+
+
+
+
 CSE3310: Recursive Algorithms 1
 •	Needs CSE3110: Iterative Algorithm 1
 •	Needs CSE3120: Object-oriented Programming 1
+
+Purpose
+•	Write recursion algorithms for …
+•	Binary search
+•	Quicksort
+•	Merge sort
+•	Heapsort
+
+Core Concepts and Vocabulary
+•	Define themselves in terms of themselves
+•	Purpose of the base case
+•	Divide and Conquer approach to creating recursion
+•	Interchangeability of recursive and iterative algorithms
+•	Compare and contrast recursion and iteration emphasizing efficiency in space and time
+•	How recursion creates dynamic data structures
+•	Tail End vs. Head End recursion
+•	Explain how the system stack (or equivalent structure) is used to carry out recursive operations
+
+Write algorithms and source code for binary search, and various sorts (quick, merge, heap)
+•	How each contributes to problem solving
+•	Illustrating why each will work or not work, referencing efficiency
+
+
+
+
+
+
+
+
 CSE3320: Dynamic Data Structures 1 (Needs CSE3310: Recursive Algorithms 1)
+
+Purpose
+•	Use source code that contains abstract data types utilizing dynamic data structures
+•	Explore dynamic memory allocations
+•	Focus on linked list dynamic data structure (s) used to implement abstract data types
+
+Core Concepts and Vocabulary
+•	Compare and contrast dynamic and static data structures
+•	Dynamic memory allocations
+o	Heap
+o	Pointers and/or references
+o	Linear and non-linear data structures
+•	Explore Linked List
+o	Components of abstract data types
+o	Logical structure of linked list: nodes, fields, references, & pointers
+o	Other linked lists: double-linked, circular-linked, ordered linked
+
+Operators
+•	Creating linked list
+•	Inserting a node
+•	Traversing
+•	Deleting node
+•	Replacing node
+•	Finding and retrieving data
+•	Determining the size
+
+Use Linked lists to problem solves, write algorithms and source code
+•	Explore the types of problems linked lists solved well and begin to form the boundaries of applicable problems
+
+
+
+
 CSE3330: Dynamic Data Structures 2 (Needs CSE3320: Dynamic Data Structures 1)
+
+Purpose
+•	Expand dynamic data structures to include stacks and queues
+•	Incorporate unordered structures (set and map) into abstract data types (ADTs)
+•	Additionally, incorporate linked lists to create stacks and queues
+
+Core Concepts
+•	Mechanics of stacks, queues, sets, and maps
+•	Logical structure of stacks, ques, sets and maps
+•	Making choice of ADT and data manipulation depending on problem suitability
+
+Standard operators associated with stacks, ques, sets and maps
+•	Create the data structure
+•	Copy the data structure (cloning, deep copy, location of memory, place on the hard drive copy is pointing to))
+•	Push, Pop and Peeks for stacks
+•	Enqueue and Dequeue for queues
+•	Link Keys and Values for maps
+•	Search, insert, remove and modify data elements in sets and/or maps
+•	Determine equality between sets
+•	Determine union, intersection, difference, and symmetric difference
+•	Delete the data structure
+
+Write source code for stacks and queues: create, modify, error-trap, debug
+
+
+
+
 CSE3340: Dynamic Data Structures 3 (Needs CSE3330: Dynamic Data Structures 2)
+
+Purpose
+•	Hierarchically linked data structures
+•	Study general trees, binary trees, binary search trees, and heaps
+•	Learn how to use binary search trees to implement sorted sets, sorted maps, and heaps to implement priority queues
+
+Core Concepts
+•	Tree data structures as containers for ADS
+•	Problem solving and using each tree data structure and its paired abstract data type
+•	Logical structure of tree data structures: general trees, binary trees, binary search trees, heaps
+
+Standard Operators associated with treed data structures
+•	Create the data structure
+•	Copy the data structure (cloning, deep copy, location of memory, place on the hard drive copy is pointing to))
+•	Preorder, in-order, post-order and level order for traversals
+•	Search, insert, remove and modify data elements
+•	List data elements accumulated by a tree traversal
+•	List pop and heapify operation for heaps
+•	Delete the data structure
+
+Write source code for stacks and queues: create, modify, error-trap, debug
+
+
+
+
 
 Option CSE3020: Computer Science 4 OR CSE3340: Dynamic Data Structures 3
 CSE3920: CSE Project E
