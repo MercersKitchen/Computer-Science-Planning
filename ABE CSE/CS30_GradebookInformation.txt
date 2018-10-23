@@ -65,14 +65,81 @@ CSE3010 - Computer Science 3
   - Procedural Program
 -
 
+ - Social Implications of information society and AI Society
+   (economic, social, political, educational, and a shift from the Industrial Revolution)
+
+Relationships between binary & hexadecimal number systems, data encoding, and logic gates
+•	Compare and Contrast binary and hexadecimal with decimal including
+   o	Converting between number systems
+   o	Describe and demonstrate the role of each number system in for encoding digital data
+•	Binary Arithmetic
+   o	Simple binary addition truth table (AND, OR, NOT)
+•	Represent Circuits (general and logic) using binary notation
+   o	AND
+   o	OR
+   o	NOT
+   o	NAND
+   o	NOR
+•	Simple operations with logic gates including
+   o	Binary addition with full and half adders
+   o	Binary subtraction with full and half subtractions
+   o	Tasks involving selection
+   o	Tasks involving inversion
+
+
 CSE3120 - Object-Orientated Programming 1
 - Classes Introduction
   - Object Orientated Pong (copy of procedural, rewritten as objects)
   - Aware of instantiation of objects
   - Moving Ball & Many Ball Prototyping
   - OOP Pong with Object-specific functions, like many pong balls
+  - Access Modifiers: Public (default), private, static, final
+  - Functions for Access Modifiers: Public Getters and Setters
 - Lists to instantiate objects
   - GUI like display geometry ratios
+
+  Object Oriented Programming Vocabulary & Evaluation (comparing and contrasting with Procedural, Structural)
+  •	Further modularity
+  •	Protecting and hiding of data
+  •	Use of interfaces to maintain implementation independence
+  •	Organizing Algorithms and Program
+  •	Abstraction
+  •	Encapsulation
+  •	Inheritance
+  •	Polymorphism
+  •	Instantiation
+  •	Classes, Class Libraries, Objects
+
+  Object Orientated Design Techniques
+  •	Analysis: Case, Domain, Object
+  •	Iterative Class Design: Principal Classes, Elaboration of object diagrams, class-responsibility-collaboration cards, iterative prototyping
+  •	Relationships: dependency, association, aggregation, composition
+
+  Core Concepts and Vocabulary
+  •	Exchange of “messages” among “objects”
+  •	Key Features:
+    o	Encapsulation
+    o	Modularity
+    o	Polymorphism
+    o	Inheritance
+
+  •	Algorithm writing skills
+    o	Small number of classes and objects
+    o	Associative relationships
+  •	Object-orientated design process
+    o	Requirement analysis
+    o	Case analysis
+    o	Domain analysis
+    o	Iterative and incremental design to refine architectures illustrating relationships between classes and objects (messages passed between objects, and object interface)
+    o	Diagram object message flow in a program
+    o	Complete object design by adding private methods, functions and data structures
+  •	Translation from Algorithms and various diagrams to source code
+    o	Take problem and section it accordingly for prototyping approach
+    o	Create classes and instantiate objects, related to the algorithm
+    o	Use server classes to create client classes establishing server/client relationship of the algorithm
+    o	Create internal and external documentation
+    o	Analyze run time errors
+
 
 Searching
 Class Design and Structure
@@ -82,7 +149,59 @@ Class Design and Structure
 Courses still to complete Gradebook Information
 
 CSE3130 - Object-Orientated Programming 2 (Needs CSE3120: Object-oriented Programming 1)
+
+Purpose, adding to OOP1
+•	Using some techniques of UML Design
+•	Explore association between classes using …
+•	Abstract classes,
+•	Templated classes,
+•	Containment and inheritance to promote reusability
+
+Core Concepts of Class and Object Interactions
+•	Coding can be reduced and responsibilities distributed through
+  o	polymorphism and inheritance
+  o	Composition and aggregation
+•	Hiding data or protecting data using
+  o	Static classes
+  o	Polymorphism
+  o	Inheritance
+•	Problem Solving
+  o	Top-down design using class diagram representing matrix of interacting classes
+  o	Informal (perhaps case analysis like) object message diagram
+
+
 CSE3110-  Iterative Algorithm 1 (Needs CSE2120: Data Structures 1)
+
+Purpose (iterative versions of the following)
+•	Binary Search
+•	Sorts: exchange (bubble), insertion and selection, simple merge
+
+Common Iterative Algorithms (search, sort, merge)
+•	Compare and Contrast
+•	Explain
+•	Described data structures required
+•	Describe how to implement algorithms
+•	Example Search Algorithms
+o	Linear
+o	Binary
+•	Example Sort Algorithms
+o	Exchange: bubble sort, cocktail sort, gnome, comb
+o	Selection: selection, strand
+o	Insertion: insertion, library
+•	Example simple iterative merge algorithms (keep it simple)
+
+Create and /or modify algorithms and programs that use searches, sorts and merges to solve problems
+•	Create Algorithm and /or apply to data
+•	Translate to code
+•	Use original (user-created) or pre-existing algorithm code appropriate for the data
+•	Use appropriate operators, methods, functions, or procedures for standard algorithms
+•	Using internal and external documentation
+•	Use error-trapping mechanisms and programmer-directed error trapping techniques to eliminate logic errors and debug the program
+•	Compare intent of algorithms and debugged program
+
+
+
+
 
 CSE3210 - Server-side Scripting 1
 •	CSE2210: Client-side Scripting 3
