@@ -53,5 +53,9 @@ What to expect in school-level courses & project-based beginnings:
 
 # Ideas to Include
 
+Link: Computer Curriculum Documents, <a href="https://drive.google.com/drive/folders/117id1RIavhyMzYVW7_HPSVZg1DrGxqRa">Click Here</a>
+
+Link: Course Outlines, <a href="https://drive.google.com/drive/folders/1pEr3PWr12lc5OEj-lAOXBSp5x6kT2ELK">Click Here</a>
+
 
 ---

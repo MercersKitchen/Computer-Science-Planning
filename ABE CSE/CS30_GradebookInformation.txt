@@ -1,16 +1,13 @@
-﻿
-
-Note: DOC includes AP CSP & AP CSA with advanced information
-
+Information is Unique to Alberta Education and Schools in Alberta
 
 **UNDER CONSTRUCTION**
 
+Courses Available - Depending on Student Experience
 
 CSE3010 - Computer Science 3 (Needs CSE2010: Computer Science 2)
 CSE3120 - Object-Orientated Programming 1 (Needs CSE2110: Procedural Programming 1)
 CSE3130 - Object-Orientated Programming 2 (Needs CSE3120: Object-oriented Programming 1)
 CSE3110-  Iterative Algorithm 1 (Needs CSE2120: Data Structures 1)
-
 
 CSE3210 - Server-side Scripting 1
 •	CSE2210: Client-side Scripting 3
@@ -33,23 +30,77 @@ CSE3340: Dynamic Data Structures 3 (Needs CSE3330: Dynamic Data Structures 2)
 Option CSE3020: Computer Science 4 OR CSE3340: Dynamic Data Structures 3
 CSE3920: CSE Project E
 
+Purposes: all end in Presentation to Industry and/or Post Secondary
+- Review all of Processing-Java
+- Combine Processing-Java and Pure-Java Classes to handle visual data
+- Use Command Line, WYSIWYG, & Java Compiler to handle text data
+- Option: Using a Raspberry Pi to explore hardware of a computer, Physical Computing
+- Optional: enrichment with Server-side topics,
 
+2018-2019 School Year
 
+Main Assignment Titles Per Course, for gradebook listings (Unique to ABE)
+
+General Assignment Titles for Individual Study Projects
+- Assignments
+- Anecdotal Records, Testing, and Debugging
+- Project Planning
+- Major Project
+
+Note: AP CSP & AP CSA is included in another section
+- See: https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA
+
+**UNDER CONSTRUCTION**
 
 CSE3010 - Computer Science 3
 - Developer Tools
 - Groceries Algorithm
   - Case Study
-  - General Behvioural Algorithms
+  - General Behavioral Algorithms
 - Reviewing Pong
-  - Algorithms for Calcaultion
+  - Algorithms for Calculation
   - Accumulation
-  - Osscilating Geometric Sequences
+  - Oscillating Geometric Sequences
   - Linear Program
   - Procedural Program
-- 
+-
 
 CSE3120 - Object-Orientated Programming 1
 - Classes Introduction
-  - Object Orientated Pong
-- 
+  - Object Orientated Pong (copy of procedural, rewritten as objects)
+  - Aware of instantiation of objects
+  - Moving Ball & Many Ball Prototyping
+  - OOP Pong with Object-specific functions, like many pong balls
+- Lists to instantiate objects
+  - GUI like display geometry ratios
+
+Searching
+Class Design and Structure
+
+**UNDER CONSTRUCTION**
+
+Courses still to complete Gradebook Information
+
+CSE3130 - Object-Orientated Programming 2 (Needs CSE3120: Object-oriented Programming 1)
+CSE3110-  Iterative Algorithm 1 (Needs CSE2120: Data Structures 1)
+
+CSE3210 - Server-side Scripting 1
+•	CSE2210: Client-side Scripting 3
+•	CSE2110: Procedural Programming 1
+•	CSE2120: Data Structures 1
+
+Optional course for CSE3130: Object-orientated Programming 2
+CSE3910: CSE Project D
+
+CSE3020: Computer Science 4
+•	Needs CSE3010: Computer Science 3
+•	Needs CSE3110: Iterative Algorithm 1
+CSE3310: Recursive Algorithms 1
+•	Needs CSE3110: Iterative Algorithm 1
+•	Needs CSE3120: Object-oriented Programming 1
+CSE3320: Dynamic Data Structures 1 (Needs CSE3310: Recursive Algorithms 1)
+CSE3330: Dynamic Data Structures 2 (Needs CSE3320: Dynamic Data Structures 1)
+CSE3340: Dynamic Data Structures 3 (Needs CSE3330: Dynamic Data Structures 2)
+
+Option CSE3020: Computer Science 4 OR CSE3340: Dynamic Data Structures 3
+CSE3920: CSE Project E
