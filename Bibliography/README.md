@@ -22,6 +22,6 @@ Journals and Papers
 ---
 
 # Ideas to Include
-Edmonton Journal Sign Up, <a herf="https://contests.canada.com/edmontonjournal/nie/index.html#form-epaper">Click Here</a>
+Edmonton Journal Sign Up, <a href="https://contests.canada.com/edmontonjournal/nie/index.html#form-epaper">Click Here</a>
 
 ---
