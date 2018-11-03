@@ -10,6 +10,9 @@ Table of Contents
 6. Robotics, <a href="">Click Here</a>
 7. Networking & Cisco Academy, <a href="">Click Here</a>
 
+Journals and Papers
+1. Edmonton Journal
+
 ---
 
 ## Computer Science 10, Introductory
@@ -19,6 +22,6 @@ Table of Contents
 ---
 
 # Ideas to Include
-
+Edmonton Journal Sign Up, <a herf="https://contests.canada.com/edmontonjournal/nie/index.html#form-epaper">Click Here</a>
 
 ---
