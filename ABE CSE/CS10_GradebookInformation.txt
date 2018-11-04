@@ -30,7 +30,7 @@ General Assignment Titles for Individual Study Projects
 
 CSE1010 - Computer Science 1
 - Developer Tools: Using Email, Using GitHub, Using Educational Tools like Google Classroom
-- Algorithm Introduction: Case Studies and To Do Lists(ReadMe.md Markdown & Simple HTML)
+- Algorithm Introduction: Case Studies and To Do Lists (ReadMe.md Markdown & Simple HTML)
 - Using Algorithms: Data Flowcharts, Pseudocode, Input-Output-Processing
 - Software Development: "Iterative and Incremental" (See AP CSP), "Waterfall"
 - Essential Algorithms:
@@ -64,6 +64,9 @@ CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
 
 CSE1110 - Structured Programming 1
 - Algorithms for GUI (Ratios for Geometry Feedback)
+  - Paper Folding
+  - Happy Face Case Study with Diagram and coordinates
+  - Quit Button Case Study Diagram with coordinates
 - HEAP Sheets: Reading and Following of HEAP Sheets, Variables, etc.on a flat level
   - Not included when in CS30
 - Documentation & Syntax
@@ -78,13 +81,12 @@ CSE1110 - Structured Programming 1
   - Syntax Errors: recognize and change
   - Logic Errors: in various places like debugger, console, or canvas
   - Run-time Errors: in console or Rendering errors
-- GUI Introductions:
-  - 2D Shapes: Quit Button
-	- 2D Shapes: Happy Face
-	- Layering: Measles
-	- Text
-	- Images
-	- Color
+- GUI Introductions: 2D Shapes
+  - Quit Button & Color
+  - Happy Face
+  - Text
+  - Images
+- GUI Introductions: Layering & Measles
 - Music Player: Case Study & GUI (Including Free Use Music)
 
 CSE1120 - Structured Programming 2
@@ -109,6 +111,7 @@ CSE1120 - Structured Programming 2
 	  - Nested conditional (IF-IF | AND)
 		- Nested Iterative (similar to 2D Array, 2D Plane), see Chess Board Assignment
 - Algorithm Translation (coding): Music Player Project (working software)
+- Summary: Introductory Boilerplate or App Engine as Group of Procedures
 
 CSE1910 - CSE Project A
 - Purpose: workflow of project management, individually monitored and communicated prior to building
