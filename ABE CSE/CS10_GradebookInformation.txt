@@ -43,21 +43,21 @@ CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
 - Exploring architecture of Internet
 - HTML and GitHub Markdown Lessons and Assignments: static webpages
   - Document Design: hypertext using tags, attributes, and hyperlinks (including downloading documents)
-	  - Introduction to Navigation Emphasis: 2-clicks, Browser Navigation (In Tab, New Tab)
-	- HTML Layout: mark off the various parts of the document
-	- Text: display and emphasize in various ways
-	  - Semantic Tags (bold and italics)
-		- Various Formats and Fonts, including sub and superscripts
-		- Lists: ordered and unordered
-		- Tables
-	- Visual Data: variety of formats
-	  - URL & Data Accessed
-		- YouTube Videos and Players-in-Page
-		- Images
-		- Mapped images
-		- GIFs
-	- Use style codes inline with HTML
-	- Enrichment: java-script writing HTML
+    - Introduction to Navigation Emphasis: 2-clicks, Browser Navigation (In Tab, New Tab)
+    - HTML Layout: mark off the various parts of the document
+    - Text: display and emphasize in various ways
+    - Semantic Tags (bold and italics)
+      - Various Formats and Fonts, including sub and superscripts
+      - Lists: ordered and unordered
+      - Tables
+    - Visual Data: variety of formats
+      - URL & Data Accessed
+      - YouTube Videos and Players-in-Page
+      - Images
+      - Mapped images
+      - GIFs
+    - Use style codes inline with HTML
+    - Enrichment: java-script writing HTML
 - Who Am I Webpage Project (Presenting one's Digital Presence of "Global" Perspective or "UNESCO" Perspective)
 - Essay Webpage Project (Explore Meta-Literacy of essay (English and Social))
 - OPTIONAL: Coming Soon Page, "Under Construction", with Webpage Counter
