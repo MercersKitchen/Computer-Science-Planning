@@ -57,5 +57,11 @@ Link: Computer Curriculum Documents, <a href="https://drive.google.com/drive/fol
 
 Link: Course Outlines, <a href="https://drive.google.com/drive/folders/1pEr3PWr12lc5OEj-lAOXBSp5x6kT2ELK">Click Here</a>
 
+Reminder: Processing-JAVA syntax error
+- Sometimes Processing-JAVA's debugger will describe a syntax error that is not true
+- Solution:
+  - Open new processing-java program
+  - copy code to Notepad.txt (deletes all hidden formatting tags)
+  - copy from Notepad.txt to new Processing.pde file (including creating any TABs
 
 ---
