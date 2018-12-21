@@ -1,4 +1,4 @@
-CS 30 Courses
+﻿CS 30 Courses
 - Courses that continue are noted
 - Prerequisites are also notes
 - List Curriculum Reference abbreviations
@@ -31,7 +31,7 @@ Theory, Concepts
 	          financial transactions, e-mail and other communications
 		  monitoring
   Security Issues; e.g., identity and information theft
-  Equality Issues; e.g., emergence of the �digital divide�
+  Equality Issues; e.g., emergence of the "digital divide"
   Freedom Issues; e.g., privatization of information and control of
 		  information flow
 - (CP1) Tools for Systems Development Life Cycle Model
