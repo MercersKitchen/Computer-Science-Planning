@@ -81,12 +81,11 @@ CSE1110 - Structured Programming 1
   - Syntax Errors: recognize and change
   - Logic Errors: in various places like debugger, console, or canvas
   - Run-time Errors: in console or Rendering errors
-- GUI Introductions: 2D Shapes
+- GUI Introductions: 2D Shapes, Layering & Measles
   - Quit Button & Color
   - Happy Face
   - Text
   - Images
-- GUI Introductions: Layering & Measles
 - Music Player: Case Study & GUI (Including Free Use Music)
 
 CSE1120 - Structured Programming 2
