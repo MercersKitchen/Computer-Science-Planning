@@ -170,4 +170,4 @@ Other Projects
 - Screen Savers & emphasis of loops, like infinite loops with single escape ("quit" button)
 - Drawing Program
 - Security App: combination locks
-- Games: Rock Paper Scissors, Snake, Tetrus
+- Games: Chop Sticks, Rock Paper Scissors, Snake, Tetrus
