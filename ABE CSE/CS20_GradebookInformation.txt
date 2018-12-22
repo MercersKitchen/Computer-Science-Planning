@@ -93,7 +93,6 @@ CSE2210 - Client-Side Scripting 3 (HTML5)
   - Able to browse website and various pages
   - **Rubric Under Construction**
 
-
 CSE2110 - Procedural Programming 1 (Needs CSE1120: Structured Programming 2)
 - Case Study
 - Prototyping Procedures (no return)
@@ -101,7 +100,6 @@ CSE2110 - Procedural Programming 1 (Needs CSE1120: Structured Programming 2)
   - Calculators
 - App Engine Development
   - Incorporating Procedures and Functions
-
 
 CSE2120 - Data Structures 1 (Needs CSE2110: Procedural Programming 1)
 - Introduction to Arrays
