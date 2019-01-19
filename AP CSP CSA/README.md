@@ -15,3 +15,7 @@ CSP Curriculum:
 - Exam Section (CSP-E)
 
 CSA Curriculum, Exam-based (CSA)
+
+---
+
+Advanced Placement Specific Vocabulary
