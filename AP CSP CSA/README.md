@@ -22,8 +22,13 @@ CSA Curriculum, Exam-based (CSA)
 
 Table of Contents
 - Java Docs
+- Reading and Debugging Program Code
 - Objects
 - Exceptions
+- General Coding
+- Recursion
+
+Continue with Number 41
 
 ### JavaDoc
 
@@ -99,15 +104,53 @@ Driver Class
 - Class with MAIN Method
 - Used to prototype classes as they are developed
 
+Dynamic Binding (Late Binding)
+- Closely related to polymorphism
+- Overridden method called during runtime (not compile time) depending on instaniated object
+- Example:
+  - abstract student class has subclasses of Undergrad and GradStudent
+  - when Student Object is processed, appropriate computeGrade method invoked depending on subclass
+
+Encapsulation: grouping variables & methods (data & behaviours) within class and hiding these with private-keyword from other classes
+- Accessor methods used (getters) and setters
+- See "Information Hiding"
+
+Final Variable: user-defined constant using keyword final
+
+Immutable Object: object without mutator methods (changing data of object)
+- String Object is immutable by definition
+- Copy of String Object, as new-keyword String can be mutated form of existing String Object
+- BEWARE: copying data as new-keyword creates memories or replicas of immutable objects as specific times of computation
+
+Information Hiding: declaring instance variables and helper methods private-keyword to prevent access from client classes
+
+Inheritance: mechanism using super and sub classes to influence variables and methods (state and behavior)
+- tested with "is-a" relationship
+
+
 ### Exceptions
+- Runtime errors interrupting normal flow and provides useful error message when exception is thrown
 
-Arithmetic Exception: runtime error thrown during division by zero
+Arithmetic Exception: division by zero
 
-Array Index Out of Bounds Exception: runtime error thrown when programs tries to call index that is illegal (negative or greater-equal to size of array)
+Array Index Out of Bounds Exception: programs tries to call index that is illegal (negative or greater-equal to size of array)
+
+Illegal Argument Exception: thrown when data (arguments) do not match formal parameters
+
+Index Out of Bounds Exception: index of array, arrayList, String, etc. is out of range of data
+
+Null Pointer Exception
+
 
 ### General Coding
 
 Arithmetic Operators: + - * / %
+- Floating Point: returns real-number (floating point or decimal)
+  - if one number or variable is float or double
+  - if one number or variable is cast as float or double
+  - Beware Example:
+    - 3 / (double) 4  //returns 0.75
+    - (double) 3 / 4  //returns 0.0 since integer division is computed first, then real-number cast
 
 Boolean Expression: true or false
 
@@ -115,8 +158,17 @@ Compound Assignment Operator: += -= * = /= %=
 
 Concatenation Operator: +
 
-Decrement Operator: i-- or --i
-- often used in loops
+Decrement Operator: i-- or --i, often used in loops
+
+Enhanced FOR Loop: for-each loop used to read and write arrays
+
+Escape Sequences: mostly used in println and print
+- Examples: \n, \t, \", \\,
+
+Formal Parameters: defined in header of method OR defined in function
+- Example: public void setPerson (String name, int age)
+
+Increment Operator: i++ or ++i, often used in loops
 
 
 ### Recursion
