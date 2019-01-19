@@ -89,7 +89,15 @@ Composition Relationship between Classes: "has-a"
 - Example: store has a item
 - Note: if two classes have a composition relationship, one class contains and instance variable whose type is the other class
 
+Constructor
+- Used to create an object, block of code
+- Always same name as class
+- Different than method: no return type, cannot be invoked by direct method call
+- Similar to method: can be overloaded
 
+Driver Class
+- Class with MAIN Method
+- Used to prototype classes as they are developed
 
 ### Exceptions
 
@@ -101,9 +109,15 @@ Array Index Out of Bounds Exception: runtime error thrown when programs tries to
 
 Arithmetic Operators: + - * / %
 
-Boolean Experession: true or false
+Boolean Expression: true or false
 
 Compound Assignment Operator: += -= * = /= %=
+
+Concatenation Operator: +
+
+Decrement Operator: i-- or --i
+- often used in loops
+
 
 ### Recursion
 
