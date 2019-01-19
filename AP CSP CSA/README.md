@@ -19,3 +19,92 @@ CSA Curriculum, Exam-based (CSA)
 ---
 
 ## Advanced Placement Specific Vocabulary
+
+Table of Contents
+- Java Docs
+- Objects
+- Exceptions
+
+### JavaDoc
+
+@param
+- Specifies what the parameter does
+- Example: @param par what this parameter does
+- Outputs two lines:
+  - "Parameters"
+  - par - what this parameter does
+
+@return
+- Specifies what the method returns (when not void)
+- Example: @return what this method returns
+- Outputs two lines:
+  - "Returns"
+  - what this method returns
+
+### Reading and Debugging Program Code
+
+Assertion: precise statement about a program at any given time
+- Example: what a program "has done" to that point
+- Example: println and print provide evidence of line execution, variables provide computational thinking steps
+
+Average Case of an Algorithm: runtime average as a central tendency value
+
+Best Case of an Algorithm: least amount of successful runtime
+
+Bottom-up vs. Top-Down Development
+- Bottom-up Development: writing and testing simplest classes, or prototyping simple algorithm pieces
+- Top-Down Development: starting with overall summary of whole program, or case studies (paper & pencil, GUI, pseudocode)
+
+### Objects
+Abstract Class
+- Superclass
+- Declared with keyword *abstract*
+- May or may not have abstract methods
+
+Abstract Method
+- appears in abstract class or interface as placeholder
+- no implementation code, only header
+- implementation changes depending on inheritance
+
+Accessor Method: "getter"
+- Accesses class without altering object
+- Publically facing method accessing private variable
+
+Behaviour of Object: given by methods or groups of named code, void or returning
+
+Class
+- Blueprint of implementing objects
+- State of object maintained by instance variables
+- Behaviors of object described by methods
+
+Client Program for a Class: accesses public methods
+
+Compile-time error: during compilation of program before execution starts
+- Examples:
+  - undeclared variable
+  - invoking method for instance object that does not have access
+  - using incorrect parameter type
+
+Composition Relationship between Classes: "has-a"
+- Example: store has a item
+- Note: if two classes have a composition relationship, one class contains and instance variable whose type is the other class
+
+
+
+### Exceptions
+
+Arithmetic Exception: runtime error thrown during division by zero
+
+Array Index Out of Bounds Exception: runtime error thrown when programs tries to call index that is illegal (negative or greater-equal to size of array)
+
+### General Coding
+
+Arithmetic Operators: + - * / %
+
+Boolean Experession: true or false
+
+Compound Assignment Operator: += -= * = /= %=
+
+### Recursion
+
+Base Case: termination condition
