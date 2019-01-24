@@ -60,6 +60,18 @@ Bottom-up vs. Top-Down Development
 - Bottom-up Development: writing and testing simplest classes, or prototyping simple algorithm pieces
 - Top-Down Development: starting with overall summary of whole program, or case studies (paper & pencil, GUI, pseudocode)
 
+Logic Error (same as Intent Error): program compiles and fails to run as programmer intended
+
+
+
+Intent Error (same as Logic Error): program compiles and fails to run as programmer intended
+
+Main Method
+- Type: public static
+- Returns: void
+- Controls entire program execution
+- Note: all Java programs must have at least one class with a MAIN Method
+
 ### Objects
 Abstract Class
 - Superclass
@@ -106,7 +118,7 @@ Driver Class
 
 Dynamic Binding (Late Binding)
 - Closely related to polymorphism
-- Overridden method called during runtime (not compile time) depending on instaniated object
+- Overridden method called during runtime (not compile time) depending on instantiated object
 - Example:
   - abstract student class has subclasses of Undergrad and GradStudent
   - when Student Object is processed, appropriate computeGrade method invoked depending on subclass
@@ -127,6 +139,20 @@ Information Hiding: declaring instance variables and helper methods private-keyw
 Inheritance: mechanism using super and sub classes to influence variables and methods (state and behavior)
 - tested with "is-a" relationship
 
+Interface (superclass)
+- declared by keyword interface
+- collection of related methods (abstract, headers only, or default, AP subset omits default)
+- cannot be instantiated
+- Example: Flyer
+  - isFlying, isBird
+  - Implemented by Airplane, Hawk
+
+Keyword: reserved word used for language and compiler
+
+Method Overriding
+- In superclass, public method is rewritten in subclass
+- Subclass method has same return type and signature (name and parameters)
+- Rewritten with different code
 
 ### Exceptions
 - Runtime errors interrupting normal flow and provides useful error message when exception is thrown
@@ -170,6 +196,9 @@ Formal Parameters: defined in header of method OR defined in function
 
 Increment Operator: i++ or ++i, often used in loops
 
+Integer Division: a/b, returns truncated integer quotient (i.e. 1/3=0)
+
+Logical Operator: AND(&&), NOT(!), OR(||), returns Boolean result
 
 ### Recursion
 
