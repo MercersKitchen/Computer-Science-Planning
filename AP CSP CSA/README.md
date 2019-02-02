@@ -21,14 +21,14 @@ CSA Curriculum, Exam-based (CSA)
 ## Advanced Placement Specific Vocabulary
 
 Table of Contents
-- Beginning Vocabulary
-- Java Docs
-- Reading and Debugging Program Code
-- Objects
-- Exceptions
-- General Coding
-- Recursion
-<a href=""></a>
+- Beginning Vocabulary, <a href="">Click Here</a>
+- Java Docs, <a href="">Click Here</a>
+- Reading and Debugging Program Code, <a href="">Click Here</a>
+- Objects, <a href="">Click Here</a>
+- Exceptions, <a href="">Click Here</a>
+- General Coding, <a href="">Click Here</a>
+- Recursion, <a href="">Click Here</a>
+<a href="">Click Here</a>
 
 Note: Bolded words are referenced by other definitions and are hyperlinked
 
@@ -39,7 +39,7 @@ Program Specifications: customer, client, or teacher(!) requirements for end-use
 - the more questions answered and the more communication illustrated by case studies, the more agreement between developer and "person paying"
 
 Reference Data Type: name of variable, procedure or method, class, etc.
-- Memory address of where reference is stored (looks like hexidecimal values)
+- Memory address of where reference is stored (looks like <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#hexadecimal-base-16-number-system">hexidecimal</a> values)
 - Note: references should read like a narrative about the state and behaviour of a program
 
 ### JavaDoc
