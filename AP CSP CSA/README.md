@@ -49,7 +49,7 @@ Note: Bolded words are referenced by other definitions and are hyperlinked
 
 ### Reading and Debugging Program Code
 
-Assertion: precise statement about a program at any given time
+#### Assertion: precise statement about a program at any given time
 - Example: what a program "has done" to that point
 - Example: println and print provide evidence of line execution, variables provide computational thinking steps
 
@@ -72,13 +72,14 @@ Main Method
 - Note: all Java programs must have at least one class with a MAIN Method
 
 #### Postcondition: what is true immediately after execution of code (often state of variables or data)
-- Related to <a href="">Precondition</a>
+- Related to <a href="">Assertion</a>
+- Related to <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#precondition">Precondition</a>
 - related to steps in prototyping
 - related to checking values in console
-- Often tracked by programmer to ensure <a href="">intent</a> and <a href="">logic</a> of program
+- Often tracked by programmer to ensure <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#logic-error-same-as-intent-error-program-compiles-and-fails-to-run-as-programmer-intended">logic</a> and <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#intent-error-same-as-logic-error-program-compiles-and-fails-to-run-as-programmer-intended">intent</a> of program
 
 #### Precondition
-- Related to <a href="">Postcondition</a>
+- Related to <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#postcondition-what-is-true-immediately-after-execution-of-code-often-state-of-variables-or-data">Postcondition</a>
 
 ### Objects
 Abstract Class
