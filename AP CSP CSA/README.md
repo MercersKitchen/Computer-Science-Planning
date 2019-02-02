@@ -21,6 +21,7 @@ CSA Curriculum, Exam-based (CSA)
 ## Advanced Placement Specific Vocabulary
 
 Table of Contents
+- Beginning Vocabulary
 - Java Docs
 - Reading and Debugging Program Code
 - Objects
@@ -30,6 +31,16 @@ Table of Contents
 <a href=""></a>
 
 Note: Bolded words are referenced by other definitions and are hyperlinked
+
+### Beginning Vocabulary
+
+Program Specifications: customer, client, or teacher(!) requirements for end-user specifications
+- requires analysis of use, hardware, intent, amount of users, security concerns, etc.
+- the more questions answered and the more communication illustrated by case studies, the more agreement between developer and "person paying"
+
+Reference Data Type: name of variable, procedure or method, class, etc.
+- Memory address of where reference is stored (looks like hexidecimal values)
+- Note: references should read like a narrative about the state and behaviour of a program
 
 ### JavaDoc
 
@@ -72,14 +83,16 @@ Main Method
 - Note: all Java programs must have at least one class with a MAIN Method
 
 #### Postcondition: what is true immediately after execution of code (often state of variables or data)
-- Related to <a href="">Assertion</a>
+- Related to <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#assertion-precise-statement-about-a-program-at-any-given-time">Assertion</a>
 - Related to <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#precondition">Precondition</a>
 - related to steps in prototyping
 - related to checking values in console
 - Often tracked by programmer to ensure <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#logic-error-same-as-intent-error-program-compiles-and-fails-to-run-as-programmer-intended">logic</a> and <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#intent-error-same-as-logic-error-program-compiles-and-fails-to-run-as-programmer-intended">intent</a> of program
 
-#### Precondition
+#### Precondition: what is true immediately after execution of code (often state of variables or data)
+- Related to <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#assertion-precise-statement-about-a-program-at-any-given-time">Assertion</a>
 - Related to <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#postcondition-what-is-true-immediately-after-execution-of-code-often-state-of-variables-or-data">Postcondition</a>
+
 
 ### Objects
 Abstract Class
@@ -222,6 +235,10 @@ Escape Sequences: mostly used in println and print
 Formal Parameters: defined in header of method OR defined in function
 - Example: public void setPerson (String name, int age)
 
+#### Hexadecimal: base-16 number system
+- One Nibble in computer numbering: equal to 16 bits (i.e. 0000 0000 0000 0000)
+- One Nibble in human numbering: 0-9, A-F
+
 Increment Operator: i++ or ++i, often used in loops
 
 Integer Division: a/b, returns truncated integer quotient (i.e. 1/3=0)
@@ -232,8 +249,35 @@ Nested IF equivalent to AND: IF within IF meaning both IF must be TRUE
 
 Nested Loop: counting in multiple variables and patters
 
-
+Primitive Data Type: most basic data types in Java (common with other languages)
+- boolean: ture, false
+- byte
+- char
+- short
+- int (32 bit): integer numbers
+- long (64 bit): integer numbers
+- float (32 bit): floating point, decimal, or real numbers
+- double (64 bit): floating point, decimal, or real numbers
+- Note: memory errors occcur when memory size is too small and must be balanced with amount of used memory (reason we start with int and float)
 
 ### Recursion
+- Able to Google-search Sequences and Series or recursive and non-recursive formulae (i.e. Wolfram Math)
+  - Non-recursive: answers related to starting number by formulae
+  - Recursive: answers related to starting number and itself
+- Arithmetic of skip-counting with common or increasing | decreasing differences between skip-counted steps
 
 Base Case: termination condition
+
+Recursive Definition: defined in terms of itself and must have beginning number
+- Example arithmetic series of n:
+  - sum (n - 1) + n
+
+Recursive method: implementation calls itself
+- Example
+  ```java
+  public void recursive ()
+  {
+    if ( baseCase condition) executeThis ();
+    else recursion();
+  }
+  ```
