@@ -1,26 +1,49 @@
 # First Day
+First Day or Few Days of Introduction Ideas
+
+Ensure all students are in the correct room for the course on their timetable.
+- Time Table Changes will happen later but must in the course of your timetable
+
+Table of Contents
+- Setting up Tables, Stools, & Workstations: <a href="https://drive.google.com/drive/folders/1L0ykkGBHxz-aRU1aw_sHHHaLfC8KZOgQ">Mr. Mercer's PowerPoint</a>
+  - Also see below, <a href="">Problem-solving of a beginning workstation</a>
+- Turning on the Computer with Multiple Monitors: <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day#introduction-to-tools-used-in-mercers-kitchen-for-language-agnostic-computer-science-instruction">Introduction to Online Tools</a>
+- Reviewing Course Outline (See Course GitHub / Admin for Specfic Course Outline, Introduction to Navigating GitHub)
+  Note: Ensure time-tables are correct
+
+---
+
+## Problem-solving of a beginning workstation
+
+Setting up a workstation: Laptop, Monitor, OS Settings & Configuration, Mouse, & Keyboard
+- Problem-solving of setting up an actual workstation
+- Cooperating with others to set up seating plan
+- Movement problem of figuring out work flow in the classroom
+- Issue of tripping hazards
+- Benefit: no student ever has equipment that does not work without knowing what to fix
+- See example images (In Construction)
+  - Issue of Sticky hands on laptop keyboards and trackpads vs. spring-action keyboards and USB-mice
+- See YouTube Video: https://youtu.be/Bw1hj3s-8S0
+- Note: Private Google Drive Folder for Images and Original PowerPoint: https://drive.google.com/drive/folders/1L0ykkGBHxz-aRU1aw_sHHHaLfC8KZOgQ
+
 ---
 ## Introduction to Tools used in Mercer's Kitchen for Language Agnostic Computer Science Instruction
-- GMail through Schoolzone (school-based email addresses)
-- Google Classroom
-- GitHub
+- GMail through Schoolzone (school-based email addresses), setting and forwarding mail
+- Google Classroom for Daily Learning Objectives, links and daily reminders
+- GitHub: Following Mr. Mercer through Mercer's Kitchen, Personal Account, Introduction to Submitting Assignments to GitHub Classroom (Submit Hello Repository on the First Day)
+  - "Introduction to Where do Files Live"
 - Workona, Chrome Extension
-- Semester Calendar: events and general flow
+- Semester School Calendar, using Google Calendar: events and general flow (Remember to turn off other calendars being shown)
+
+---
+
+##
+---
 
 ## General Tasks
-1. Reviewing the course outline and syllabus
-   - Ensuring Time-tables are correct
-   - See Google Drive for Course Outlines: https://drive.google.com/drive/folders/1O4QRD_nzB74mrtD9EsrFUwX7P6CqrR7I
-2. Setting up a workstation: Laptop, Monitor, OS Settings & Configuration, Mouse, & Keyboard
-   - Problem-solving of setting up an actual workstation
-   - Cooperating with others to set up seating plan
-   - Movement problem of figuring out work flow in the classroom
-   - Issue of tripping hazards
-   - Benefit: no student ever has equipment that does not work without knowing what to fix
-   - See example images (In Construction)
-     - Issue of Sticky hands on laptop keyboards and trackpads vs. spring-action keyboards and USB-mice
-   - See YouTube Video: https://youtu.be/Bw1hj3s-8S0
-   - Note: Private Google Drive Folder for Images and Original PowerPoint: https://drive.google.com/drive/folders/1L0ykkGBHxz-aRU1aw_sHHHaLfC8KZOgQ
+
+2.
+
 3. Review the BYOD repository - know the information that will help with the software we use in class
 4. Setting up (examples videos in construction)
    - GMail & Password Manager (Last Pass, KeePass)
