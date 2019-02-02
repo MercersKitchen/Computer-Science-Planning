@@ -18,7 +18,60 @@ CSA Curriculum, Exam-based (CSA)
 
 ---
 
+# Using Barron's Computer Science A Resources
+
+Some beginning resources are below
+
+Additional Resources used as "Wednesday-Friday Questions"
+- True False Questions
+- Writing Statement Prompts
+- Calculation Questions, see Barron's Flash Cards
+  - All levels, General Trivia
+  - All levels, Number Conversions
+  - CS10: Arithmetic Statements, Relational Statements, Compound Statements
+  - CS10: Integer Class Search Functions (max & min values, random, etc.)
+  - CS10: FOR & WHILE LOOPS, including Nested FOR (number of execution times, variable skip-counting)
+  - CS20: Array Questions
+  - CS30: String Functions
+  - CS30: `compare.To` Questions
+  - CS30: Search Algorithm Comparison Questions
+- Summary of all Cue Cards, Algorithm Analysis (only done in AP CS 35)
+Add to these a list of "Describe these Functions"
+---
+## Advanced Placement Key Words for Java
+- Purpose: create cue cards to memorize how to use these words
+- Reference: AP Science A (Barron's) Flash Cards
+
+Beginning List, alphabetical
+- abstract
+- boolean
+- class
+- double
+- extends
+- false
+- final
+- implements
+- import
+- int
+- interface
+- new
+- null
+- private
+- public
+- return
+- static
+- super
+- this
+- throw
+- true
+- void
+
+Additional List Items: students are responsible for this
+- examples will come from program code
+
+---
 ## Advanced Placement Specific Vocabulary
+- Reference: AP Science A (Barron's) Flash Cards
 
 Table of Contents
 - Beginning Vocabulary, <a href="">Click Here</a>
@@ -31,6 +84,8 @@ Table of Contents
 <a href="">Click Here</a>
 
 Note: Bolded words are referenced by other definitions and are hyperlinked
+
+Purpose: create Cue Cards to memorize the meanings and uses
 
 ### Beginning Vocabulary
 
@@ -96,6 +151,13 @@ Main Method
 #### Precondition: what is true immediately after execution of code (often state of variables or data)
 - Related to <a href="">Assertion</a>
 - Related to <a href="">Postcondition</a>
+
+Stack Overflow: during execution, computer program runs out of memory
+- Example: recursive method without base case
+- Example: loop termination test that will never be true
+
+Worst Case of an Algorithm: configuration of data that causes the greatest amount of runtime
+- Example: worst case in a search for a key is will be found in last examined position or will not be found at all in the list
 
 ---
 
@@ -199,10 +261,20 @@ Object: single instance of a class (group of variables in constructor)
   - Class: Undergrad, with unique computGrade method
   - Class Grad, with unique computGrade method
 
+State of Object: current values of its primitive instance variables (from constructor)
+
+Static Binding (early binding): compiler selects correct overloeaded method in a given class by comparing the method's signatures
+
+Static Method: shared by all instances of the class
+- Example good candidate for static method for BankAccount Class is getInterestRate
+
+Static Variable: shared by all instances of the class
+
 ---
 
 ### Exceptions
 - Runtime errors interrupting normal flow and provides useful error message when exception is thrown
+- All of the below are unchecked exceptions
 
 Arithmetic Exception: division by zero
 
@@ -213,6 +285,8 @@ Illegal Argument Exception: thrown when data (arguments) do not match formal par
 Index Out of Bounds Exception: index of array, arrayList, String, etc. is out of range of data
 
 Null Pointer Exception: when a program attempts to access or modify a variable that is currently NULL
+
+Unchecked Exceptions: thrown at runtime, not at compile time
 
 ---
 
@@ -289,7 +363,17 @@ Scope (Variable): section of code variable can be accessed
   - Procedure or Method
   - Class
 
-Sentinel: used in Java to temrinate data entered at a keyboard
+Sentinel: used in Java to terminate data entered at a keyboard by signaling the end of a list (i.e. -999)
+
+Short-circuit Boolean Evaluation: for compound Booleans
+- A || B: if A is TRUE, then whole experession is TRUE regardless B or compound expression of B
+- A && B: if A is FALSE, then whole experssion is FALSE regardless B or compound expression of B
+
+String Literal: surrounded by double quotes, including escape sequences
+- characters
+- empty string, `""`
+
+
 ---
 
 ### Recursion
@@ -313,5 +397,7 @@ Recursive method: implementation calls itself
     else recursion();
   }
   ```
+
+Tail Recursive Method: very last statement is the recursive call
 
 ---
