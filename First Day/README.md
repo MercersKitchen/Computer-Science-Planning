@@ -77,7 +77,11 @@ Teaching answers or teaching with questions, Mr. Mercer prefers teaching with qu
    - (Robotic Domino's Ford Autonomous Pizza Delivery Vehicle)
 
 How do we get there from High School?
-- Skills Alberta Canada: https://www.youtube.com/watch?v=5If09ESV65k
+- Skills Alberta Canada: <a href="https://www.youtube.com/watch?v=5If09ESV65k">2019 Promotional Video</a>
+- Edmonton Regional Science Fair, <a href="https://secure.youthscience.ca/sfiab/edmonton3/">Website</a>
+- Iverson Exam, <a href="https://www.ualberta.ca/computing-science/explore/iverson-exam">Website</a>
+- HIP: High School Internship Program, <a href="https://www.ualberta.ca/computing-science/explore/hs-internships">Website</a>
+- CS Pitches
 - Mentoring other students through our coding and building, sometimes through sitting with them as they think
 
 What do we need to consider to get there? (Video from 2011 & 2012)
@@ -85,8 +89,9 @@ What do we need to consider to get there? (Video from 2011 & 2012)
 - https://www.youtube.com/watch?v=Ax5cNlutAys
 - Algorithms are now about personal choice, delivering information ... what does this mean?
 - One Person's opinion: https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en#t-525329
+  - Now we need to email each other the full search URL for the stuff we want them to read
 - What does this mean for education? Remember, Eli Pariser is only asking you to be aware of the information you consume
-- Algorithms might be the next way of thinking ... "knowing what we need to do what we need"
+- Algorithms might be the next way of thinking ... "knowing what we need to do is what we need"
 - What are the ethics of algorithms?
 - What will be your next steps in school? What will be your next things you learn? What choices and items will you learn so the grades and courses you earn and complete will empower you to the next best steps?
 
