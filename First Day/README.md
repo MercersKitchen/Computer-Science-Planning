@@ -25,6 +25,9 @@ Final Exit Slip: "What do you want to accomplish this semester?"
 - Tell Mr. Mercer so I can see if it can be worked into the course
 - Ensure this is in your Project Portfolio on GitHub
 
+Clubs and Teams: Which Club or Team are you interested in (see Mr. Mercer for more details)
+- Club Day is Tuesday for Semester 2 of 2018 - 2019
+
 ---
 
 ## Problem-solving of a beginning workstation
