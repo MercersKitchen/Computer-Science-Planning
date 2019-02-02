@@ -39,8 +39,10 @@ Program Specifications: customer, client, or teacher(!) requirements for end-use
 - the more questions answered and the more communication illustrated by case studies, the more agreement between developer and "person paying"
 
 Reference Data Type: name of variable, procedure or method, class, etc.
-- Memory address of where reference is stored (looks like <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#hexadecimal-base-16-number-system">hexidecimal</a> values)
+- Memory address of where reference is stored (looks like <a href="">hexidecimal</a> values)
 - Note: references should read like a narrative about the state and behaviour of a program
+
+---
 
 ### JavaDoc
 
@@ -57,6 +59,8 @@ Reference Data Type: name of variable, procedure or method, class, etc.
 - Outputs two lines:
   - "Returns"
   - what this method returns
+
+---
 
 ### Reading and Debugging Program Code
 
@@ -83,16 +87,17 @@ Main Method
 - Note: all Java programs must have at least one class with a MAIN Method
 
 #### Postcondition: what is true immediately after execution of code (often state of variables or data)
-- Related to <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#assertion-precise-statement-about-a-program-at-any-given-time">Assertion</a>
-- Related to <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#precondition">Precondition</a>
+- Related to <a href="">Assertion</a>
+- Related to <a href="">Precondition</a>
 - related to steps in prototyping
 - related to checking values in console
-- Often tracked by programmer to ensure <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#logic-error-same-as-intent-error-program-compiles-and-fails-to-run-as-programmer-intended">logic</a> and <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#intent-error-same-as-logic-error-program-compiles-and-fails-to-run-as-programmer-intended">intent</a> of program
+- Often tracked by programmer to ensure <a href="">logic</a> and <a href="">intent</a> of program
 
 #### Precondition: what is true immediately after execution of code (often state of variables or data)
-- Related to <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#assertion-precise-statement-about-a-program-at-any-given-time">Assertion</a>
-- Related to <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#postcondition-what-is-true-immediately-after-execution-of-code-often-state-of-variables-or-data">Postcondition</a>
+- Related to <a href="">Assertion</a>
+- Related to <a href="">Postcondition</a>
 
+---
 
 ### Objects
 Abstract Class
@@ -139,7 +144,7 @@ Driver Class
 - Used to prototype classes as they are developed
 
 #### Dynamic Binding (Late Binding)
-- Closely related to polymorphism, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#polymorphism">click here to jump to Polymorphism</a>
+- Closely related to polymorphism, <a href="">click here to jump to Polymorphism</a>
 - Overridden method called during runtime (not compile time) depending on instantiated object
 - Example:
   - abstract student class has subclasses of Undergrad and GradStudent
@@ -151,7 +156,7 @@ Encapsulation: grouping variables & methods (data & behaviours) within class and
 
 Final Variable: user-defined constant using keyword final
 
-Immutable Object: object without <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#mutator-method-modifies-instance-variable-prefix-set-ie-setrate-setprice">mutator methods</a> (changing data of object)
+Immutable Object: object without <a href="">mutator methods</a> (changing data of object)
 - String Object is immutable by definition
 - Copy of String Object, as new-keyword String can be mutated form of existing String Object
 - BEWARE: copying data as new-keyword creates memories or replicas of immutable objects as specific times of computation
@@ -187,12 +192,14 @@ Object: single instance of a class (group of variables in constructor)
   - `public double product (int n, double y) //returns double n*y`
 
 #### Polymorphism
-- Closely related to Dynamic Binding, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#dynamic-binding-late-binding">click here to jump to Dynamic Binding</a>
-- Mechanism for selecting correct <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#overloaded-methods-methods-with-same-name-but-different-signatures-headers-and-parameters-within-class-or-subclass">overridden method</a>
+- Closely related to Dynamic Binding, <a href="">click here to jump to Dynamic Binding</a>
+- Mechanism for selecting correct <a href="">overridden method</a>
 - Example
   - Superclass: Student
   - Class: Undergrad, with unique computGrade method
   - Class Grad, with unique computGrade method
+
+---
 
 ### Exceptions
 - Runtime errors interrupting normal flow and provides useful error message when exception is thrown
@@ -207,7 +214,7 @@ Index Out of Bounds Exception: index of array, arrayList, String, etc. is out of
 
 Null Pointer Exception: when a program attempts to access or modify a variable that is currently NULL
 
-
+---
 
 ### General Coding
 
@@ -227,6 +234,10 @@ Concatenation Operator: +
 
 Decrement Operator: i-- or --i, often used in loops
 
+#### End: when a program stops running
+- Example: Processing-Java exit(), once executed, will complete rest of draw() and then end the program
+- Example: Pure-Java system.exit(), once executed, will take a non-zero status code and terminate the Java Virtual Machine and abandon's all threads, then exists the <a href="">Main Method<> immediately
+
 Enhanced FOR Loop: for-each loop used to read and write arrays
 
 Escape Sequences: mostly used in println and print
@@ -234,6 +245,9 @@ Escape Sequences: mostly used in println and print
 
 Formal Parameters: defined in header of method OR defined in function
 - Example: public void setPerson (String name, int age)
+
+#### Halt: full stop at specific line of code
+- Related to <a href="">End</a>
 
 #### Hexadecimal: base-16 number system
 - One Nibble in computer numbering: equal to 16 bits (i.e. 0000 0000 0000 0000)
@@ -260,6 +274,24 @@ Primitive Data Type: most basic data types in Java (common with other languages)
 - double (64 bit): floating point, decimal, or real numbers
 - Note: memory errors occcur when memory size is too small and must be balanced with amount of used memory (reason we start with int and float)
 
+Relational Operator: compares two numbers and returns a boolean value
+- Six relational operators: <, >, ==, <=, >=, !=
+
+Runtime Error
+- related to <a href="">Exceptions</a>
+- related to <a href="">Try-Catch</a>
+- Occurs during execution of program and halts program immediately
+- If debugger is present, will output reason for runtime error or premature halt
+
+Scope (Variable): section of code variable can be accessed
+- Example:
+  - Loop: FOR or WHILE
+  - Procedure or Method
+  - Class
+
+Sentinel: used in Java to temrinate data entered at a keyboard
+---
+
 ### Recursion
 - Able to Google-search Sequences and Series or recursive and non-recursive formulae (i.e. Wolfram Math)
   - Non-recursive: answers related to starting number by formulae
@@ -281,3 +313,5 @@ Recursive method: implementation calls itself
     else recursion();
   }
   ```
+
+---
