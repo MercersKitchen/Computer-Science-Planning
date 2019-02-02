@@ -5,11 +5,20 @@ Ensure all students are in the correct room for the course on their timetable.
 - Time Table Changes will happen later but must in the course of your timetable
 
 **Table of Contents**
-- Setting up Tables, Stools, & Workstations: <a href="https://drive.google.com/drive/folders/1L0ykkGBHxz-aRU1aw_sHHHaLfC8KZOgQ">Mr. Mercer's PowerPoint</a>
+- Setting up Tables, Stools, & Workstations: Our first problem of the day
   - Also see below, <a href="">Problem-solving of a beginning workstation</a>
 - Turning on the Computer with Multiple Monitors: <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day#introduction-to-tools-used-in-mercers-kitchen-for-language-agnostic-computer-science-instruction">Introduction to Online Tools</a>
+- Review BYOD Repository and Installation Instructions for all software this year (Answers Questions for "Who Brings their Own Computers")
+  - Note: if you want Cyber Security, you have your own computer, and you are *comfortable bringing it to school*, you should :)
 - Reviewing Course Outline (See Course GitHub / Admin for Specific Course Outline, Introduction to Navigating GitHub)
-  Note: Ensure time-tables are correct
+  - Note: Ensure time-tables are correct
+- Overview of major projects (similar to goal setting, start with "what do you want to accomplish in this course")
+  - Main Project: Beginning a Portfolio in GitHub for Edmonton Regional Science Fair , CS Pitches, or QE Open House and other visitors
+
+Final Exit Slip: "What do you want to accomplish this semester?"
+- Brainstorming, <a href="">See Notes Below</a>
+- Tell Mr. Mercer so I can see if it can be worked into the course
+- Ensure this is in your Project Portfolio on GitHub
 
 ---
 
@@ -25,37 +34,24 @@ Setting up a workstation: Laptop, Monitor, OS Settings & Configuration, Mouse, &
 - Note: Private Google Drive Folder for Images and Original PowerPoint: https://drive.google.com/drive/folders/1L0ykkGBHxz-aRU1aw_sHHHaLfC8KZOgQ
 
 ---
-## Introduction to Tools used in Mercer's Kitchen for Language Agnostic Computer Science Instruction
+## Introduction to Online Tools used in Mercer's Kitchen for Language Agnostic Computer Science Instruction
 - GMail through Schoolzone (school-based email addresses), setting and forwarding mail
+- Password Manager (Last Pass, KeePass), introduction to cyber security
+- General EMail Security: pwned: see https://haveibeenpwned.com/
 - Google Classroom for Daily Learning Objectives, links and daily reminders
 - GitHub: Following Mr. Mercer through Mercer's Kitchen, Personal Account, Introduction to Submitting Assignments to GitHub Classroom (Submit Hello Repository on the First Day)
   - "Introduction to Where do Files Live"
-- Workona, Chrome Extension
+  - GitHub Desktop (Opened First or, from GitHub, Open in GitHub Desktop)
+- Workona, Chrome Extension (use Chrome Store & Workona Website, only if you do not have a Workona Account Yet)
+  - Create Account on website first, using Schoolzone EMail
+  - Add Chrome Extension
+  - Save Passwords to Manager
+  - Note: Chrome Update will eventually group TABS for us
 - Semester School Calendar, using Google Calendar: events and general flow (Remember to turn off other calendars being shown)
 
+Note: Instruction Videos are in Construction
+
 ---
-
-##
----
-
-## General Tasks
-
-2.
-
-3. Review the BYOD repository - know the information that will help with the software we use in class
-4. Setting up (examples videos in construction)
-   - GMail & Password Manager (Last Pass, KeePass)
-   - General Email Security, pwned: see https://haveibeenpwned.com/
-   - Google Classroom
-   - GitHub and GitHub Desktop
-   - Workona, Chrome Extension: use Chrome Store & Workona Website
-     - Create account on website
-     - Add Extension First
-5. Overview of major projects (similar to goal setting, start with "what do you want to accomplish in this course")
-   - Beginning a Portfolio in GitHub
-6. Reviewing the Semester Calendar for events and general flow
-7. Exit Slip: "What do you want to accomplish this semester?"
-   - "What do you want in a portfolio by the end of the course?"
 
 ## Additional Ideas to Consider
 Creating a Community, Thoughts from a Video ... **UNESCO Style**
@@ -73,7 +69,7 @@ Teaching answers or teaching with questions, Mr. Mercer prefers teaching with qu
 - Is this true?
 - A video of the full algorithm: https://www.youtube.com/watch?v=MMjnDdrujSU
 - What are the magic tricks or algorithms of the now: https://www.youtube.com/watch?v=hANXIPxN1ME
-   - (Robotic Domino's Ford Autonomous Pizza Deliever Vehicle)
+   - (Robotic Domino's Ford Autonomous Pizza Delivery Vehicle)
 
 How do we get there from High School?
 - Skills Alberta Canada: https://www.youtube.com/watch?v=5If09ESV65k
@@ -89,8 +85,10 @@ What do we need to consider to get there? (Video from 2011 & 2012)
 - What are the ethics of algorithms?
 - What will be your next steps in school? What will be your next things you learn? What choices and items will you learn so the grades and courses you earn and complete will empower you to the next best steps?
 
-First Day Algorithms or Design of Project
-- Design this "thing": general question without a lot of guidance ... students provided 11x17 paper and encouragement to answer design inssue
+---
+
+## First Day Algorithms or Design of Main Project
+- Design this "thing": general question without a lot of guidance ... students provided 11x17 paper and encouragement to answer design issues
 - Result: "Design is important", especially knowing about processing in design
   - Goals, purposes, materials, resources
   - Card board prototyping to understand shapes, sizes, hardware distances (wires, etc.)
