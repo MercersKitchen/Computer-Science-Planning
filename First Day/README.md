@@ -15,8 +15,13 @@ Ensure all students are in the correct room for the course on their timetable.
 - Overview of major projects (similar to goal setting, start with "what do you want to accomplish in this course")
   - Main Project: Beginning a Portfolio in GitHub for Edmonton Regional Science Fair , CS Pitches, or QE Open House and other visitors
 
+Creating a Culture of Creating and Problem Solving, <a href="">More Information</a>
+- If you knew how to create it, it would not be a problem ... and you have multiple guides
+- Computer and Online Materials
+- Teacher: answering questions, presenting some materials, scheduling time through time consuming projects
+
 Final Exit Slip: "What do you want to accomplish this semester?"
-- Brainstorming, <a href="">See Notes Below</a>
+- Brainstorming, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day#first-day-algorithms-or-design-of-main-project">See Notes Below</a>
 - Tell Mr. Mercer so I can see if it can be worked into the course
 - Ensure this is in your Project Portfolio on GitHub
 
@@ -53,7 +58,7 @@ Note: Instruction Videos are in Construction
 
 ---
 
-## Additional Ideas to Consider
+## Creating a Culture of Creating and Problem Solving
 Creating a Community, Thoughts from a Video ... **UNESCO Style**
 - https://www.youtube.com/watch?reload=9&v=tyaEQEmt5ls
 - "Video is about what we can change and what we cannot change." We need to know the difference.
@@ -95,3 +100,6 @@ What do we need to consider to get there? (Video from 2011 & 2012)
   - 3D Printing Prototyping
   - Native Software Prototyping
 - CAUTION: students become unbalanced as first emotional experience to design and solving algorithms without clear answers
+
+Record Result on GitHub Repo Main Project
+- Record Highlights on Exit Slip
