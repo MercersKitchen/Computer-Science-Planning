@@ -27,8 +27,7 @@ Table of Contents
 - Exceptions
 - General Coding
 - Recursion
-
-Continue with Number 41
+<a href=""></a>
 
 ### JavaDoc
 
@@ -153,6 +152,9 @@ Method Overriding
 - In superclass, public method is rewritten in subclass
 - Subclass method has same return type and signature (name and parameters)
 - Rewritten with different code
+
+Mutator Method: modifies instance variable, prefix "set" (i.e. setRate, setPrice)
+ 
 
 ### Exceptions
 - Runtime errors interrupting normal flow and provides useful error message when exception is thrown
