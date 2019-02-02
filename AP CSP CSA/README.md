@@ -157,15 +157,15 @@ Mutator Method: modifies instance variable, prefix "set" (i.e. setRate, setPrice
 
 Object: single instance of a class (group of variables in constructor)
 
-Overloaded Methods: methods with same name but different signatures (headers and parameters), within class or subclass
-- Closely related to Dynamic Binding, <a href="">click here to jump to Dynamic Binding</a>
+#### Overloaded Methods: methods with same name but different signatures (headers and parameters), within class or subclass
 - Examples
   - `public int product (int n) //returns int n*n`
   - `public int product (int x * int y) //returns int x*y`
   - `public double product (int n, double y) //returns double n*y`
 
-#### Polymorphism:
--  selecting the
+#### Polymorphism
+- Closely related to Dynamic Binding, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#dynamic-binding-late-binding">click here to jump to Dynamic Binding</a>
+- Mechanism for selecting correct <a href="">overridden method</a>
 
 ### Exceptions
 - Runtime errors interrupting normal flow and provides useful error message when exception is thrown
