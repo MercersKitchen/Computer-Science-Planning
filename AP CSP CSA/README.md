@@ -71,10 +71,14 @@ Main Method
 - Controls entire program execution
 - Note: all Java programs must have at least one class with a MAIN Method
 
-Postcondition: what is true immediately after execution of code (often state of variables or data)
+#### Postcondition: what is true immediately after execution of code (often state of variables or data)
+- Related to <a href="">Precondition</a>
 - related to steps in prototyping
 - related to checking values in console
 - Often tracked by programmer to ensure <a href="">intent</a> and <a href="">logic</a> of program
+
+#### Precondition
+- Related to <a href="">Postcondition</a>
 
 ### Objects
 Abstract Class
