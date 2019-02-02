@@ -15,7 +15,7 @@ Ensure all students are in the correct room for the course on their timetable.
 - Overview of major projects (similar to goal setting, start with "what do you want to accomplish in this course")
   - Main Project: Beginning a Portfolio in GitHub for Edmonton Regional Science Fair , CS Pitches, or QE Open House and other visitors
 
-Creating a Culture of Creating and Problem Solving, <a href="">More Information</a>
+Creating a Culture of Creating and Problem Solving, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day#creating-a-culture-of-creating-and-problem-solving">More Information</a>
 - If you knew how to create it, it would not be a problem ... and you have multiple guides
 - Computer and Online Materials
 - Teacher: answering questions, presenting some materials, scheduling time through time consuming projects
