@@ -159,8 +159,12 @@ Object: single instance of a class (group of variables in constructor)
 
 Overloaded Methods: methods with same name but different signatures (headers and parameters), within class or subclass
 - Examples
-  - `public in product (int n) //returns int n*n`
-  - 
+  - `public int product (int n) //returns int n*n`
+  - `public int product (int x * int y) //returns int x*y`
+  - `public double product (int n, double y) //returns double n*y`
+
+#### Polymorphism:
+-  selecting the
 
 ### Exceptions
 - Runtime errors interrupting normal flow and provides useful error message when exception is thrown
