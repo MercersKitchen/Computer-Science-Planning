@@ -29,6 +29,8 @@ Table of Contents
 - Recursion
 <a href=""></a>
 
+Note: Bolded words are referenced by other definitions and are hyperlinked
+
 ### JavaDoc
 
 @param
@@ -59,17 +61,20 @@ Bottom-up vs. Top-Down Development
 - Bottom-up Development: writing and testing simplest classes, or prototyping simple algorithm pieces
 - Top-Down Development: starting with overall summary of whole program, or case studies (paper & pencil, GUI, pseudocode)
 
-Logic Error (same as Intent Error): program compiles and fails to run as programmer intended
+#### Logic Error (same as Intent Error): program compiles and fails to run as programmer intended
 
-
-
-Intent Error (same as Logic Error): program compiles and fails to run as programmer intended
+#### Intent Error (same as Logic Error): program compiles and fails to run as programmer intended
 
 Main Method
 - Type: public static
 - Returns: void
 - Controls entire program execution
 - Note: all Java programs must have at least one class with a MAIN Method
+
+Postcondition: what is true immediately after execution of code (often state of variables or data)
+- related to steps in prototyping
+- related to checking values in console
+- Often tracked by programmer to ensure <a href="">intent</a> and <a href="">logic</a> of program
 
 ### Objects
 Abstract Class
@@ -128,7 +133,7 @@ Encapsulation: grouping variables & methods (data & behaviours) within class and
 
 Final Variable: user-defined constant using keyword final
 
-Immutable Object: object without mutator methods (changing data of object)
+Immutable Object: object without <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#mutator-method-modifies-instance-variable-prefix-set-ie-setrate-setprice">mutator methods</a> (changing data of object)
 - String Object is immutable by definition
 - Copy of String Object, as new-keyword String can be mutated form of existing String Object
 - BEWARE: copying data as new-keyword creates memories or replicas of immutable objects as specific times of computation
