@@ -153,7 +153,7 @@ Method Overriding
 - Subclass method has same return type and signature (name and parameters)
 - Rewritten with different code
 
-Mutator Method: modifies instance variable, prefix "set" (i.e. setRate, setPrice)
+#### Mutator Method: modifies instance variable, prefix "set" (i.e. setRate, setPrice)
 
 Object: single instance of a class (group of variables in constructor)
 
@@ -165,7 +165,11 @@ Object: single instance of a class (group of variables in constructor)
 
 #### Polymorphism
 - Closely related to Dynamic Binding, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#dynamic-binding-late-binding">click here to jump to Dynamic Binding</a>
-- Mechanism for selecting correct <a href="">overridden method</a>
+- Mechanism for selecting correct <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#overloaded-methods-methods-with-same-name-but-different-signatures-headers-and-parameters-within-class-or-subclass">overridden method</a>
+- Example
+  - Superclass: Student
+  - Class: Undergrad, with unique computGrade method
+  - Class Grad, with unique computGrade method
 
 ### Exceptions
 - Runtime errors interrupting normal flow and provides useful error message when exception is thrown
