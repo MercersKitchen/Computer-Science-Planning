@@ -154,7 +154,13 @@ Method Overriding
 - Rewritten with different code
 
 Mutator Method: modifies instance variable, prefix "set" (i.e. setRate, setPrice)
- 
+
+Object: single instance of a class (group of variables in constructor)
+
+Overloaded Methods: methods with same name but different signatures (headers and parameters), within class or subclass
+- Examples
+  - `public in product (int n) //returns int n*n`
+  - 
 
 ### Exceptions
 - Runtime errors interrupting normal flow and provides useful error message when exception is thrown
@@ -167,7 +173,8 @@ Illegal Argument Exception: thrown when data (arguments) do not match formal par
 
 Index Out of Bounds Exception: index of array, arrayList, String, etc. is out of range of data
 
-Null Pointer Exception
+Null Pointer Exception: when a program attempts to access or modify a variable that is currently NULL
+
 
 
 ### General Coding
@@ -201,6 +208,12 @@ Increment Operator: i++ or ++i, often used in loops
 Integer Division: a/b, returns truncated integer quotient (i.e. 1/3=0)
 
 Logical Operator: AND(&&), NOT(!), OR(||), returns Boolean result
+
+Nested IF equivalent to AND: IF within IF meaning both IF must be TRUE
+
+Nested Loop: counting in multiple variables and patters
+
+
 
 ### Recursion
 
