@@ -6,7 +6,7 @@ Ensure all students are in the correct room for the course on their timetable.
 
 **Table of Contents**
 - Setting up Tables, Stools, & Workstations: Our first problem of the day
-  - Also see below, <a href="">Problem-solving of a beginning workstation</a>
+  - Also see below, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day#problem-solving-of-a-beginning-workstation">Problem-solving of a beginning workstation</a>
 - Getting a Computer Number, must find it, must report any issues, might be given a backup computer if yours becomes broken
   - Responsible for a computer, report all issues
   - Multiple ways of getting information about who was using which comptuer
