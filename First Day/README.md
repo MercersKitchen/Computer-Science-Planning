@@ -50,6 +50,7 @@ Setting up a workstation: Laptop, Monitor, OS Settings & Configuration, Mouse, &
 - Password Manager (Last Pass, KeePass), introduction to cyber security
 - General EMail Security: pwned: see https://haveibeenpwned.com/
 - Google Classroom for Daily Learning Objectives, links and daily reminders
+- Using the same TABs everyday in Chrome: "Where I left off" Setting
 - GitHub: Following Mr. Mercer through Mercer's Kitchen, Personal Account, Introduction to Submitting Assignments to GitHub Classroom (Submit Hello Repository on the First Day)
   - "Introduction to Where do Files Live"
   - C-Drive (FDrive) / Documents / GitHub / Local Copy
@@ -96,7 +97,7 @@ What do we need to consider to get there? (Video from 2011 & 2012)
 - What did people imagine back them?
 - https://www.youtube.com/watch?v=Ax5cNlutAys
 - Algorithms are now about personal choice, delivering information ... what does this mean?
-- One Person's opinion: https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en#t-525329
+- One Person's opinion: https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en&utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare
   - Now we need to email each other the full search URL for the stuff we want them to read
 - What does this mean for education? Remember, Eli Pariser is only asking you to be aware of the information you consume
 - Algorithms might be the next way of thinking ... "knowing what we need to do is what we need"
