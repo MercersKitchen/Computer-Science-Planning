@@ -9,7 +9,7 @@ Ensure all students are in the correct room for the course on their timetable.
   - Also see below, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day#problem-solving-of-a-beginning-workstation">Problem-solving of a beginning workstation</a>
 - Getting a Computer Number, must find it, must report any issues, might be given a backup computer if yours becomes broken
   - Responsible for a computer, report all issues
-  - Multiple ways of getting information about who was using which comptuer
+  - Multiple ways of getting information about who was using which computer
 - Turning on the Computer with Multiple Monitors: <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day#introduction-to-tools-used-in-mercers-kitchen-for-language-agnostic-computer-science-instruction">Introduction to Online Tools</a>
 - Review BYOD Repository and Installation Instructions for all software this year (Answers Questions for "Who Brings their Own Computers")
   - Note: if you want Cyber Security, you have your own computer, and you are *comfortable bringing it to school*, you should :)
@@ -52,6 +52,8 @@ Setting up a workstation: Laptop, Monitor, OS Settings & Configuration, Mouse, &
 - Google Classroom for Daily Learning Objectives, links and daily reminders
 - GitHub: Following Mr. Mercer through Mercer's Kitchen, Personal Account, Introduction to Submitting Assignments to GitHub Classroom (Submit Hello Repository on the First Day)
   - "Introduction to Where do Files Live"
+  - C-Drive (FDrive) / Documents / GitHub / Local Copy
+  - Browser / GitHub / Rendering of Server Copy
   - GitHub Desktop (Opened First or, from GitHub, Open in GitHub Desktop)
 - Workona, Chrome Extension (use Chrome Store & Workona Website, only if you do not have a Workona Account Yet)
   - Create Account on website first, using Schoolzone EMail
