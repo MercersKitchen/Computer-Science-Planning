@@ -18,7 +18,7 @@ Ensure all students are in the correct room for the course on their timetable.
 - Overview of major projects (similar to goal setting, start with "what do you want to accomplish in this course")
   - Main Project: Beginning a Portfolio in GitHub for Edmonton Regional Science Fair , CS Pitches, or QE Open House and other visitors
 
-Creating a Culture of Creating and Problem Solving, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day#creating-a-culture-of-creating-and-problem-solving">More Information</a>
+Making a Culture of Creating and Problem Solving, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day#creating-a-culture-of-creating-and-problem-solving">More Information</a>
 - If you knew how to create it, it would not be a problem ... and you have multiple guides
 - Computer and Online Materials
 - Teacher: answering questions, presenting some materials, scheduling time through time consuming projects
@@ -67,7 +67,7 @@ Note: Instruction Videos are in Construction
 
 ---
 
-## Creating a Culture of Creating and Problem Solving
+## Making a Culture of Creating and Problem Solving
 Creating a Community, Thoughts from a Video ... **UNESCO Style**
 - https://www.youtube.com/watch?reload=9&v=tyaEQEmt5ls
 - "Video is about what we can change and what we cannot change." We need to know the difference.
@@ -117,3 +117,12 @@ What do we need to consider to get there? (Video from 2011 & 2012)
 
 Record Result on GitHub Repo Main Project
 - Record Highlights on Exit Slip
+- Take an Image of your paper, put it in your repository for your main project
+- Create a .txt and load it to GitHub
+
+---
+
+# To Include
+
+
+---
