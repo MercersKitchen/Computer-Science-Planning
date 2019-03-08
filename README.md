@@ -65,4 +65,55 @@ Reminder: Processing-JAVA syntax error
   - copy from Notepad.txt to new Processing.pde file (including creating any TABs
 - Test new Processing.pde file to ensure formatting tags are *not* copied over
 
+Interesting Problem that applies to visual data
+- not overlapping rectangles, see partial solution below
+```java
+int obsticles = 2;
+int[] x = new int[obsticles];
+int[] y = new int[obsticles];
+int[] rectWidth = new int[obsticles];
+int[] rectHeight = new int[obsticles];
+
+void setup() {
+  size (500, 500);
+  for (int i=0; i<=obsticles-1; i++) {
+    // Choose Coordinates of first rectangle, parameters of rect()
+    int a = i;
+    x[i] = int (random (0, 501) );
+    y[i] = int (random (0, 501) );
+    rectWidth[i] = int (random (x[i], width-x[i]-1) );
+    rectHeight[i] = int (random (y[i], height-y[i]-1) );
+    if (i>0) { //test for overlap of next values
+      //Bigger or Smaller than entire rectangle
+      for (int j=a; j<=0; j--) {
+        if (x[i] > x[i-1]+rectWidth[i-1]) { //Empty IF
+        } else if (x[i] < x[i-1]) { //Empty IF
+        } else {
+          x[i] = int (random (0, x[i-1]-1) );
+          while (x[i]+rectWidth[i] > x[i-1]) {
+            rectWidth[i] = int (random (0, x[i-1]-1) );
+          }
+        }
+        if (y[i] > y[i-1]+rectHeight[i-1]) { //Empty IF
+        } else if (y[i] < y[i-1]) { //Empty IF
+        } else {
+          y[i] = int (random (0, y[i-1]-1) );
+          while (y[i]+rectHeight[i] > y[i-1]) {
+            rectHeight[i] = int (random (0, y[i-1]-1) );
+          }
+        }
+      }
+    }
+  }
+
+  //println (x, y, rectWidth, rectHeight);
+}
+
+void draw() {
+  for (int i=0; i<=obsticles-1; i++) {
+    rect (x[i], y[i], rectWidth[i], rectHeight[i]);
+  }
+}
+
+```
 ---
