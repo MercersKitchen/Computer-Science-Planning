@@ -17,3 +17,9 @@ CSP Curriculum:
 CSA Curriculum, Exam-based (CSA)
 
 ---
+
+Gradebook Example Categories
+
+Practicum Work
+- Algorithms
+- Translation to Code
