@@ -1,15 +1,19 @@
-CSE2140: SECOND LANGUAGE PROGRAMMING 1
-CSE3140: SECOND LANGUAGE PROGRAMMING 2
+CSE2140: SECOND LANGUAGE PROGRAMMING 1 (Prerequisites: CSE2110: Procedural Programming 1 or
+					CSE1120: Structured Programming 2)
+CSE3140: SECOND LANGUAGE PROGRAMMING 2 (Prerequisite: CSE2120: Data Structures 1)
 
-CSE1240: ROBOTICS PROGRAMMING 1
-CSE2240: ROBOTICS PROGRAMMING 2
-CSE3240: ROBOTICS PROGRAMMING 3
+CSE1240: ROBOTICS PROGRAMMING 1 (Prerequisite: CSE1110: Structured Programming 1)
+CSE2240: ROBOTICS PROGRAMMING 2 (Prerequisites: CSE1240: Robotics Programming 1 and
+				 CSE1120: Structured Programming 2)
+CSE3240: ROBOTICS PROGRAMMING 3 (Prerequisites: CSE2240: Robotics Programming 2 and 
+				 CSE2110: Procedural Programming 1)
 
 ELT Programming Courses
 ELT1130: ROBOTICS 1 (Prerequisite: None)
 ELT1140: ROBOTICS APPLICATIONS (Prerequisite: ELT1010: Electro-assembly 1)
 ELT1910: ELT PROJECT A
 ELT2140: ROBOTICS 2 (Prerequisite: ELT1130: Robotics 1 OR ELT1140: Robotics Applications)
+  - Students usually have ELT 1140 from Robotics
 ELT2910: ELT PROJECT B
 ELT2920: ELT PROJECT C
 ELT3150: ROBOTICS 3 (Prerequisite: ELT2140: Robotics 2)
