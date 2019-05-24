@@ -1,0 +1,28 @@
+"How to Develop and App"
+- Variables: predefined, calculated, sensor populated, API poplulated, file.txt IO
+- Graphical User Interface (GUI): communication with device before program executes
+  Delivers geometry
+- Separating the GUI Space (Creating a Chess Board)
+
+
+General Introductory Projects
+- 
+
+What these lead to
+- Weather App (uses Open Weather Map API)
+  GUI Design and Other Features
+  Introduction to string manipulation
+- Interactive Tic Tac Toe (See Android Tablet)
+  Intuitive Instructions: just play it
+- Sentence, Paragraph, Essay Grader (
+
+Drawing Program
+Snowman Project
+Easter Egg project
+Drag pieces or use lines, etc
+Able to make templates like line art
+
+CS10 - Cell Phone Apt
+- Drawing & Music
+- Websites Layout
+- GitHub Checklist and Portfolio
