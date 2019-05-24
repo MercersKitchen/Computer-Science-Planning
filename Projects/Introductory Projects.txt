@@ -1,4 +1,6 @@
-"How to code a robot"
+"How to code a robot": racing a line follower in a track, planter (3 plants)
+- UNDER CONSTRUCTION
+
 "How to Develop and App"
 - Variables: predefined, calculated, sensor populated, API poplulated, file.txt IO
 - Graphical User Interface (GUI): communication with device before program executes
@@ -16,13 +18,15 @@
 - Developing a calculator: bartering for a price
   Understanding a profit-loss graph
   Using formulae to guide responses
-
+- Changing Visual Data based on calculations
+- Creating a Drawing Program
+- Creating a Music Program
+- Creating a Final Project
 
 General Introductory Projects
 - Visual Data, Hello World
 - Visual Data, Clicking Game with timer
 - Algorithms to poplulate variables
-
 
 What these lead to
 - Weather App (uses Open Weather Map API)
@@ -33,19 +37,11 @@ What these lead to
   Intuitive Instructions: just play it
 - Sentence, Paragraph, Essay Grader (
 
-Drawing Program
-Snowman Project
+Extra Projects
 Easter Egg project
 Drag pieces or use lines, etc
 Able to make templates like line art
 
-CS10 - Cell Phone Apt
-- Drawing & Music
-- Websites Layout
-- GitHub Checklist and Portfolion
-
-counting patterns
-  
   - Cascading Chess Board, nested FOR
   - Double IF = AND
   - Console output to whether code makes it into IF
