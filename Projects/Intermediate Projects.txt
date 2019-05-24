@@ -1,0 +1,33 @@
+Design Thinking: Empathizing, Defining, Ideating, Prototyping, Testing
+Computational THinking: ask and answer questions to solve problems wtih patterns and counting
+
+General Projects review CS10
+- Weather App (uses Open Weather Map API)
+  GUI Design and Other Features
+  Using the time and date call to populate other variables
+  Introduction to string manipulation
+- Interactive Tic Tac Toe (See Android Tablet)
+  Intuitive Instructions: just play it
+- Planter App
+- Integration of each
+
+Introduced Concepts
+- Arrays
+- API
+
+Ideas to Consider in Weather
+- Processing Server-Client
+  RPi Camera to Cell Phone ("Look out your window")
+  Does weather match forecast, uses image recognition
+
+
+What these lead to
+
+- Sentence, Paragraph, Essay Grader (
+- Chatbot & other labs
+- Use Processing-Java and port to Pure Java
+
+Extra Projects
+Easter Egg project
+Drag pieces or use lines, etc
+Able to make templates like line art
