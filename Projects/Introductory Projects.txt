@@ -1,16 +1,33 @@
+"How to code a robot"
 "How to Develop and App"
 - Variables: predefined, calculated, sensor populated, API poplulated, file.txt IO
 - Graphical User Interface (GUI): communication with device before program executes
   Delivers geometry
-- Separating the GUI Space (Creating a Chess Board)
+- Counting Patterns and Concepts
+  - Forwards
+  - Backwards
+  - Arithmetic
+  - Geometric
+  - Squares
+  - Combinations (slope, polynomials, etc.)
+  - Using time from the Operating System or in Processing-Java (milli-seconds from crystal)
+- Separating the GUI Space intentionally for feedback
+  Nested counting (nested FOR Loops)
+- Developing a calculator: bartering for a price
+  Understanding a profit-loss graph
+  Using formulae to guide responses
 
 
 General Introductory Projects
-- 
+- Visual Data, Hello World
+- Visual Data, Clicking Game with timer
+- Algorithms to poplulate variables
+
 
 What these lead to
 - Weather App (uses Open Weather Map API)
   GUI Design and Other Features
+  Using the time and date call to populate other variables
   Introduction to string manipulation
 - Interactive Tic Tac Toe (See Android Tablet)
   Intuitive Instructions: just play it
@@ -25,4 +42,11 @@ Able to make templates like line art
 CS10 - Cell Phone Apt
 - Drawing & Music
 - Websites Layout
-- GitHub Checklist and Portfolio
+- GitHub Checklist and Portfolion
+
+counting patterns
+  
+  - Cascading Chess Board, nested FOR
+  - Double IF = AND
+  - Console output to whether code makes it into IF
+  - Using operators and shortcuts
