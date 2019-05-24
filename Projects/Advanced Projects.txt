@@ -5,8 +5,9 @@ General Projects review CS10, CS20
 "What is are the objects in these projects?"
 "What what are the behaviours of each object?"
 "How does Object Design afffect programming
+- Note Pad program between Web and App using File IO
 - Chatbot (and other labs)
-- Sentence, Paragraph, Essay Grader (
+- Sentence, Paragraph, Essay Grader
 - Use Processing-Java and port to Pure Java
 
 Extra Projects

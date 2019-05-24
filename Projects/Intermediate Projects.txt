@@ -11,6 +11,8 @@ General Projects review CS10
 - Planter App
 - Integration of each
 
+Optional: Note Pad program between Web and App using File IO
+
 Introduced Concepts
 - Arrays
 - API
