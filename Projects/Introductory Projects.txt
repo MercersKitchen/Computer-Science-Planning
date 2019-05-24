@@ -1,5 +1,6 @@
 Design Thinking: Empathizing, Defining, Ideating, Prototyping, Testing
-Computational THinking: ask and answer questions to solve problems wtih patterns and counting
+Computational Thinking: ask and answer questions to solve problems with patterns and counting
+Developing systems that make choices based on assumptions
 
 Introductory CS teaches
 - how to write a program's GUI to any monitor
@@ -37,7 +38,7 @@ General Introductory Projects
 - Algorithms to poplulate variables
 
 "How to code a robot": , planter (3 plants)
-- incorporate 
+- incorporate
 - racing a line follower in a track (Sandwich)
   analogue to digital to camera
 - planter (with website?)
@@ -45,4 +46,3 @@ General Introductory Projects
 
 "Device into Data Collection Tool"
 - UNDER CONSTRUCTION
-
