@@ -1,5 +1,11 @@
 Design Thinking: Empathizing, Defining, Ideating, Prototyping, Testing
-Computational THinking: ask and answer questions to solve problems wtih patterns and counting
+Computational Thinking: ask and answer questions to solve problems with patterns and counting
+Developing systems that make choices based on assumptions
+
+Assessment: Group Points for marks based on outcome and challenges
+- Individual Points illustrated on a website, static (CS10)
+  Websites includes "Who Am I Portfolio", Portfolio Mentoring, & Interactive Essay
+- Output grading sheet using JavaScript (self assessment built in intermediate CS)
 
 General Projects review CS10
 - Weather App (uses Open Weather Map API)
@@ -10,6 +16,12 @@ General Projects review CS10
   Intuitive Instructions: just play it
 - Planter App
 - Integration of each
+
+Understand how systems make decisions
+Use a game to test algorithm and code
+Tic Tac Toe
+State complexity: 19683 becomes 5478 moves
+Intuition to prune out search spaces
 
 Optional: Note Pad program between Web and App using File IO
 
@@ -33,3 +45,11 @@ Extra Projects
 Easter Egg project
 Drag pieces or use lines, etc
 Able to make templates like line art
+
+
+Websites
+Gamification of grading Website
+Figure out own score
+Create decision trees to understand how a project is graded
+Teachable project
+Own project

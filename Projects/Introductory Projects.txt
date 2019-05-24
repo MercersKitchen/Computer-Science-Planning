@@ -2,6 +2,11 @@ Design Thinking: Empathizing, Defining, Ideating, Prototyping, Testing
 Computational Thinking: ask and answer questions to solve problems with patterns and counting
 Developing systems that make choices based on assumptions
 
+Assessment: Group Points for marks based on outcome and challenges
+- Individual Points illustrated on a website, static (CS10)
+  Websites includes "Who Am I Portfolio", Portfolio Mentoring, & Interactive Essay
+- Output grading sheet using JavaScript (self assessment built in intermediate CS)
+
 Introductory CS teaches
 - how to write a program's GUI to any monitor
 - how to take sensor data & visual data and automate programs
@@ -46,3 +51,29 @@ General Introductory Projects
 
 "Device into Data Collection Tool"
 - UNDER CONSTRUCTION
+
+
+
+Ideas to Incorporate
+
+Cell Phone Sensors
+Use Tablets
+Arduino Car Breadboards
+Planter
+VR Experience through camera
+Race cars
+Wireless RPi router to send information
+
+First course
+Bread boarded Arduino to learn sensors and code
+Build robots quickly and do code
+
+Sensors and computing with code
+
+Not databases or websites, etc.
+
+
+
+
+
+Augmented reality app your of QE
