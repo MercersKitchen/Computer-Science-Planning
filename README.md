@@ -15,6 +15,9 @@ Text Documents and Supporting Documents to begin to imagine classroom experience
 - Guides vertical teaming of different courses
 - Note: review information given first, then level-appropriate information
 
+Note: Python is available through Cisco Academy at https://www.netacad.com/group/resources/programming-python/1.0
+- It is vendor neutral 
+
 ## Repository Sections (Pathways)
 1. Curriculum-level courses from Alberta Education's Computer Science Education within Career and Technology Studies Program of Studies
    - Assessment Guide
