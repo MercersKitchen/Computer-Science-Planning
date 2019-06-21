@@ -1,6 +1,10 @@
 # Computer Science Planning
 Text Documents and Supporting Documents to begin to imagine classroom experiences and projects-based learning.
 
+Ideas:
+- Python through Coursea
+- Netacad: Python, C++
+
 **Purpose**: jurisdictional & curriculum-level documents intended for project-based learning
 - Curriculum Level Documents called Courses in Computer Science Education of Alberta Education's Career and Technology Studies
 - Curriculum Documents also from College Board's Advanced Placement:
