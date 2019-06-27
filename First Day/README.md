@@ -128,4 +128,7 @@ Record Result on GitHub Repo Main Project
 
 Vertical Writing Surfaces: tables, walls, and Windows
 
+Machine Learning: Living in the Age of AI | A WIRED Film
+- https://www.youtube.com/watch?v=ZJixNvx9BAc
+
 ---
