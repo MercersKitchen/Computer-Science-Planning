@@ -4,6 +4,8 @@ First Day or Few Days of Introduction Ideas
 Ensure all students are in the correct room for the course on their timetable.
 - Time Table Changes will happen later but must in the course of your timetable
 
+*ALL Links accessed 20190830*
+
 **Table of Contents**
 - Setting up Tables, Stools, & Workstations: Our first problem of the day
   - Also see below, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day#problem-solving-of-a-beginning-workstation">Problem-solving of a beginning workstation</a>
@@ -98,16 +100,13 @@ Teaching answers or teaching with questions, Mr. Mercer prefers teaching with qu
 
 How do we get there from High School?
 - Skills Alberta Canada: <a href="https://www.youtube.com/watch?v=5If09ESV65k">2019 Promotional Video</a>
-- Edmonton Regional Science Fair, <a href="https://secure.youthscience.ca/sfiab/edmonton3/">Website</a>
 - Iverson Exam, <a href="https://www.ualberta.ca/computing-science/explore/iverson-exam">Website</a>
 - HIP: High School Internship Program, <a href="https://www.ualberta.ca/computing-science/explore/hs-internships">Website</a>
-- CS Pitches
+- CS Pitches & Hackathons
 - Mentoring other students through our coding and building, sometimes through sitting with them as they think
 
-What do we need to consider to get there? (Video from 2011 & 2012)
-- What did people imagine back them?
-- https://www.youtube.com/watch?v=Ax5cNlutAys
-- Algorithms are now about personal choice, delivering information ... what does this mean?
+What will help us get there?
+- Algorithms, research, and personal choice delivering information ... what does this mean?
 - One Person's opinion: https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en&utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare
   - Now we need to email each other the full search URL for the stuff we want them to read
 - What does this mean for education? Remember, Eli Pariser is only asking you to be aware of the information you consume
@@ -139,5 +138,7 @@ Vertical Writing Surfaces: tables, walls, and Windows
 
 Machine Learning: Living in the Age of AI | A WIRED Film
 - https://www.youtube.com/watch?v=ZJixNvx9BAc
+
+Edmonton Regional Science Fair, <a href="https://secure.youthscience.ca/sfiab/edmonton3/">Website</a>
 
 ---
