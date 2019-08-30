@@ -65,6 +65,7 @@ Setting up a workstation: Laptop, Monitor, OS Settings & Configuration, Mouse, &
   - C-Drive (FDrive) / Documents / GitHub / Local Copy
   - Browser / GitHub / Rendering of Server Copy
   - GitHub Desktop (Opened First or, from GitHub, Open in GitHub Desktop)
+  - Trying everything out in GitHub Classroom, "A First Assignment Submitted"
 - Workona, Chrome Extension (use Chrome Store & Workona Website, only if you do not have a Workona Account Yet)
   - Create Account on website first, using Schoolzone EMail
   - Add Chrome Extension
