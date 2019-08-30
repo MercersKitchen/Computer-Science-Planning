@@ -114,9 +114,19 @@ What will help us get there?
 - What are the ethics of algorithms?
 - What will be your next steps in school? What will be your next things you learn? What choices and items will you learn so the grades and courses you earn and complete will empower you to the next best steps?
 
+Machine Learning delivering information: Living in the Age of AI | A WIRED Film: https://www.youtube.com/watch?v=ZJixNvx9BAc
+- Time: 41.06 minutes
 ---
 
 ## First Day Algorithms or Design of Main Project
+- Brainstorm ideas without recording
+- Later, the ones that are important will be remembered
+- Later, the ones that are *connected* will be written down to be changed
+
+Vertical Writing Surfaces: tables, walls, and Windows
+- nothing decided
+
+Then, paper and pencil (ideas are decided, but can be changed)
 - Design this "thing": general question without a lot of guidance ... students provided 11x17 paper and encouragement to answer design issues
 - Result: "Design is important", especially knowing about processing in design
   - Goals, purposes, materials, resources
@@ -133,11 +143,6 @@ Record Result on GitHub Repo Main Project
 ---
 
 # To Include
-
-Vertical Writing Surfaces: tables, walls, and Windows
-
-Machine Learning: Living in the Age of AI | A WIRED Film
-- https://www.youtube.com/watch?v=ZJixNvx9BAc
 
 Edmonton Regional Science Fair, <a href="https://secure.youthscience.ca/sfiab/edmonton3/">Website</a>
 
