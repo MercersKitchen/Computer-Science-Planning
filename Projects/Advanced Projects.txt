@@ -10,14 +10,15 @@ Assessment: Group Points for marks based on outcome and challenges
 
 General Projects review CS10, CS20
 "What is are the objects in these projects?"
-"What are the behaviours of each object?"
+"What are the behaviors of each object?"
 "How does Object Design affect programming
-- Note Pad program between Web and App using File IO
+- PONG
 - Chatbot (and other labs)
+- Note Pad program between Web and App using File IO
 - Sentence, Paragraph, Essay Grader
 - Use Processing-Java and port to Pure Java
 
 Extra Projects
-Easter Egg project
-Drag pieces or use lines, etc
-Able to make templates like line art
+- Easter Egg project
+- Drag pieces or use lines, etc
+- Able to make templates like line art

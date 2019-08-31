@@ -4,7 +4,6 @@ Developing systems that make choices based on assumptions
 
 Assessment: Group Points for marks based on outcome and challenges
 - Individual Points illustrated on a website, static (CS10)
-  Websites includes "Who Am I Portfolio", Portfolio Mentoring, & Interactive Essay
 - Output grading sheet using JavaScript (self assessment built in intermediate CS)
 
 General Projects review CS10
@@ -12,28 +11,25 @@ General Projects review CS10
   GUI Design and Other Features
   Using the time and date call to populate other variables
   Introduction to string manipulation
-- Interactive Tic Tac Toe (See Android Tablet)
+- Interactive Tic Tac Toe (See Android Tablet), Use a game to test algorithm and code
   Intuitive Instructions: just play it
-- Planter App
+  State complexity: 19683 becomes 5478 moves
+- Planter App (UNDER CONSTRUCTION)
 - Integration of each
 
 Understand how systems make decisions
-Use a game to test algorithm and code
-Tic Tac Toe
-State complexity: 19683 becomes 5478 moves
-Intuition to prune out search spaces
+- Weather App: depending on buttons pressed or information delivered, app will "expected" information
+- Tic Tak Toe: three ideas
+  - "if I choose this box, I cannot choose it again"
+  - "what is my next best choice given what I have picked"
+  - "what is my worst choice given what I have picked"
 
 Optional: Note Pad program between Web and App using File IO
-
-Introduced Concepts
-- Arrays
-- API
 
 Ideas to Consider in Weather
 - Processing Server-Client
   RPi Camera to Cell Phone ("Look out your window")
   Does weather match forecast, uses image recognition
-
 
 What these lead to
 
@@ -42,14 +38,6 @@ What these lead to
 - Use Processing-Java and port to Pure Java
 
 Extra Projects
-Easter Egg project
-Drag pieces or use lines, etc
-Able to make templates like line art
-
-
-Websites
-Gamification of grading Website
-Figure out own score
-Create decision trees to understand how a project is graded
-Teachable project
-Own project
+- Easter Egg project
+- Drag pieces or use lines, etc.
+- Able to make templates like line art

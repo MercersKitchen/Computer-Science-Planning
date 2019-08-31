@@ -75,6 +75,10 @@ Setting up a workstation: Laptop, Monitor, OS Settings & Configuration, Mouse, &
   - Save Passwords to Manager
   - Note: Chrome Update will eventually group TABS for us
 - Semester School Calendar, using Google Calendar: events and general flow (Remember to turn off other calendars being shown)
+- Linked In:
+  - Creating an Account
+  - Brainstorming & Researching Soft Skills others can comment on
+  - Starting to build a portfolio
 
 Note: Instruction Videos are in Construction
 
