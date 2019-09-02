@@ -4,7 +4,7 @@ Various Types of Projects through Computer Science Courses
 **Remember**: solutions will use computation thinking (math but the computer does it)
 - This course helps you understand math class so math class might get easier
 
-We prototype in coding for Physical Computing, <a herf="https://www.youtube.com/watch?v=gIz4x2J7i9w">
+We prototype in coding for Physical Computing, <a href="https://www.youtube.com/watch?v=gIz4x2J7i9w">
 Click Here for an Example Physical Computing Video</a>
 
 ### Materials for the final version, record as you program your software
