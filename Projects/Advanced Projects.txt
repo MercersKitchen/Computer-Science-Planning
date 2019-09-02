@@ -15,7 +15,7 @@ General Projects review CS10, CS20
 - PONG
 - Chatbot (and other labs)
 - Note Pad program between Web and App using File IO
-- Sentence, Paragraph, Essay Grader
+- Text Adventure Game (previously Sentence, Paragraph, Essay Grader)
 - Use Processing-Java and port to Pure Java
 
 Extra Projects
