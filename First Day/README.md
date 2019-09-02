@@ -8,6 +8,8 @@ Ensure all students are in the correct room for the course on their timetable.
 - Play this video as students enter, <a href="https://globalnews.ca/news/5824703/farm-future-agriculture-tech-canada/">
 The farm of the future is staffed by robots (2 minutes)</a>
 
+**Need a Workstation before reviewing the Course Outline.**
+
 *ALL Links accessed 20190830*
 
 **Table of Contents**
