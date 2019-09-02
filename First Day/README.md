@@ -56,7 +56,9 @@ Setting up a workstation: Laptop, Monitor, OS Settings & Configuration, Mouse, &
 
 ---
 ## Introduction to Online Tools used in Mercer's Kitchen for Language Agnostic Computer Science Instruction
-- GMail through Schoolzone (school-based email addresses), setting and forwarding mail
+- GMail through Schoolzone (school-based email addresses), settings and forwarding mail
+  - Something new in GMail, <a href"https://www.forbes.com/sites/tjmccue/2019/08/25/this-gmail-hack-lets-you-schedule-send-sms-text-messages-in-three-steps/">
+  a Hack to allow you to send SMS Messages through email app</a>
 - Password Manager (Last Pass, KeePass), introduction to cyber security
   - See <a href="https://www.tomsguide.com/us/8-character-password-dead,news-29429.html">This Article</a> for information on 12 or 16 character passwords
   - This means it might be time to use a Random Generator and a manager like LastPass or KeePass
