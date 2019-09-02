@@ -64,6 +64,8 @@ Setting up a workstation: Laptop, Monitor, OS Settings & Configuration, Mouse, &
   - This means it might be time to use a Random Generator and a manager like LastPass or KeePass
 - General EMail Security: pwned: see https://haveibeenpwned.com/
   - Enable notifications (confirm through email), free service
+  - An article for creating **strong** passwords, <a href="https://lifehacker.com/how-to-make-sure-your-passwords-havent-been-stolen-1837305758">
+  In Lifehacker</a>
   - An interesting read, <a href="https://lifehacker.com/when-a-company-asks-you-to-reset-your-password-should-1837516590">What if a company asks you to reset your password, should you be worried?</a>
 - Chrome Extension (main browser for EPSB), Password Check-up by google, free service
   - Note: without this extension that checks know and publically available password-email combinations, you might be using a password that is known to the entire world (or just malicious hackers)
