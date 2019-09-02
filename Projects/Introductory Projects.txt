@@ -13,9 +13,12 @@ Introductory CS teaches
 - how to own your own data
 
 "How to Develop and App"
-- Variables: predefined, calculated, sensor populated, API poplulated, file.txt IO
 - Graphical User Interface (GUI): communication with device before program executes
   Delivers geometry
+- Variables: predefined, calculated, sensor populated, API populated, file.txt IO
+- End-user Ideas
+
+Mathematics and Algorithms for End-user Ideas
 - Counting Patterns and Concepts (how does a Math 10C count?)
   - Forwards
   - Backwards
@@ -24,56 +27,50 @@ Introductory CS teaches
   - Squares
   - Combinations (slope, polynomials, etc.)
   - Using time from the Operating System or in Processing-Java (milli-seconds from crystal)
+- Summarizing counting into
+  - Ranges (max - min)
+  - Central Tendency: mean, median, mode
 - Start and stop counting (boundaries of variables)
   Evaluating type of number with modulus
   Console output to whether code makes it into IF
 - Separating the GUI Space intentionally for feedback
   Nested counting (nested FOR Loops)
-- Developing a calculator: bartering for a price
-  Understanding a profit-loss graph
-  Using formulae to guide responses
+  "Chess Board" or "Table for Tiles on a Tablet Screen"
 - Changing Visual Data based on calculations
+  - Hello World Type Programs for developing touch screens
+  - Clicking Game with timer, taking best times and giving feedback on times that seem in error
 - Creating a Drawing Program
 - Creating a Music Program
 - Creating a Final Project
 
-General Introductory Projects
-- Visual Data, Hello World
-- Visual Data, Clicking Game with timer
-- Algorithms to poplulate variables
 
-"How to code a robot": , planter (3 plants)
+
+
+UNDER CONSTRUCTION: "How to code a robot": , planter (3 plants)
 - incorporate
 - racing a line follower in a track (Sandwich)
   analogue to digital to camera
 - planter (with website?)
 - Goals or Purpose: map environment for possible choices based on hard coded assumptions
 
-"Device into Data Collection Tool"
-- UNDER CONSTRUCTION
+UNDER CONSTRUCTION: "Device into Data Collection Tool"
 
 
 
 Ideas to Incorporate
-
-Cell Phone Sensors
-Use Tablets
-Arduino Car Breadboards
-Planter
-VR Experience through camera
-Race cars
-Wireless RPi router to send information
-
-First course
-Bread boarded Arduino to learn sensors and code
-Build robots quickly and do code
-
-Sensors and computing with code
-
-Not databases or websites, etc.
-
-
-
-
-
-Augmented reality app your of QE
+- Cell Phone Sensors
+- Use Tablets
+- Arduino Car Breadboards
+- Planter
+- VR Experience through camera
+- Race cars
+- Wireless RPi router to send information
+- First course
+- Bread boarded Arduino to learn sensors and code
+- Build robots quickly and do code
+- Sensors and computing with code
+- Not databases or websites, etc.
+- Augmented reality app your of QE
+- Developing a calculator: bartering for a price
+  Understanding a profit-loss graph
+  Using formulae to guide responses
