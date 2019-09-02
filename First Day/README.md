@@ -6,7 +6,7 @@ Ensure all students are in the correct room for the course on their timetable.
 - Review "new to this year" school rules
 - Briefly invite students to clubs
 - Play this video as students enter, <a href="https://globalnews.ca/news/5824703/farm-future-agriculture-tech-canada/">
-The farm of the future is staffed by robots</a>
+The farm of the future is staffed by robots (2 minutes)</a>
 
 *ALL Links accessed 20190830*
 
