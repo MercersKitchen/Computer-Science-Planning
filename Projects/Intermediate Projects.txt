@@ -19,10 +19,14 @@ General Projects review CS10
 
 Understand how systems make decisions
 - Weather App: depending on buttons pressed or information delivered, app will "expected" information
+  - GUI Necessary Items: Temperature, ICON for Weather, Temperature & Weather in 3 hours, 6 hours & 9 hours (unless sleeping), Buttons for 3 Separate Cities, 3 additional features (developer chosen)
+  - Calculate Ratios of Basic GUI
 - Tic Tak Toe: three ideas
   - "if I choose this box, I cannot choose it again"
   - "what is my next best choice given what I have picked"
   - "what is my worst choice given what I have picked"
+  - GUI Necessary Items (Rect Divs): Playing Surface, Buttons (Start, Quit, Reset), Clickable X&O, Scoreboard, Option to Save Scoreboard and|or game
+  - Calculate Ratios of Basic GUI
 
 Optional: Note Pad program between Web and App using File IO
 
@@ -33,7 +37,7 @@ Ideas to Consider in Weather
 
 What these lead to
 
-- Sentence, Paragraph, Essay Grader (
+- Sentence, Paragraph, Essay Grader
 - Chatbot & other labs
 - Use Processing-Java and port to Pure Java
 
