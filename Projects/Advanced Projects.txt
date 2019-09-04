@@ -13,7 +13,13 @@ General Projects review CS10, CS20
 "What are the behaviors of each object?"
 "How does Object Design affect programming
 - PONG
+  - Features: Playing surface, moving ball & bounces, moving paddles, scoreboard, automatically spawning "guards" when score becomes too big
+  - Features to even play based on score: move the ball faster or slower, bounce the in weird ways
+  - Note: must calculate ratios for full screen
 - Chatbot (and other labs)
+  - Features: simple 2D Face, textbox for what is typed and what is said that turns into conversation
+  - Additional Features: 3 Buttons (start, stop, quit), 3 additional features
+  - Note: must calculate ratios for full screen
 - Note Pad program between Web and App using File IO
 - Text Adventure Game (previously Sentence, Paragraph, Essay Grader)
 - Use Processing-Java and port to Pure Java

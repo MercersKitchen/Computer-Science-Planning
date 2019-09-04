@@ -18,6 +18,12 @@ Introductory CS teaches
 - Variables: predefined, calculated, sensor populated, API populated, file.txt IO
 - End-user Ideas
 
+3 Case Studies for App Design
+- Note: for each one must calculate ratios for full screen
+- Creating a Drawing Program: Large drawing division, Left Hand & Right Hand Pickers (Background Images, 2D-Moveable Tiles, Changing Ink Colours)
+- Creating a Music Program: Minimalist Design of 2D Shapes, 4-buttons (Play, Pause, Stop, Next, Previous), 5 Other Features of a Music Player
+- Creating a Final Project
+
 Mathematics and Algorithms for End-user Ideas
 - Counting Patterns and Concepts (how does a Math 10C count?)
   - Forwards
@@ -39,9 +45,7 @@ Mathematics and Algorithms for End-user Ideas
 - Changing Visual Data based on calculations
   - Hello World Type Programs for developing touch screens
   - Clicking Game with timer, taking best times and giving feedback on times that seem in error
-- Creating a Drawing Program
-- Creating a Music Program
-- Creating a Final Project
+
 
 
 
