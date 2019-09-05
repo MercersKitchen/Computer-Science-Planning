@@ -89,7 +89,7 @@ Setting up a workstation: Laptop, Monitor, OS Settings & Configuration, Mouse, &
 - Semester School Calendar, using Google Calendar: events and general flow (Remember to turn off other calendars being shown)
 - Linked In, <a href="https://ca.linkedin.com/">click here</a>
   - Creating an Account
-  - Brainstorming & Researching Soft Skills others can comment on
+  - Brainstorming & Researching Soft Skills others can comment on (Google Search)
   - Starting to build a portfolio
 
 Note: Instruction Videos are in Construction
