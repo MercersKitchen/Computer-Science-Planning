@@ -22,7 +22,7 @@ Introductory CS teaches
 - Note: for each one must calculate ratios for full screen
 - Creating a Drawing Program: Large drawing division, Left Hand & Right Hand Pickers (Background Images, 2D-Moveable Tiles, Changing Ink Colours)
 - Creating a Music Program: Minimalist Design of 2D Shapes, 4-buttons (Play, Pause, Stop, Next, Previous), 5 Other Features of a Music Player
-- Creating a Final Project
+- Creating a Final Project ("What will yours be?"
 
 Mathematics and Algorithms for End-user Ideas
 - Counting Patterns and Concepts (how does a Math 10C count?)
