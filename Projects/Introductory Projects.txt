@@ -20,8 +20,8 @@ Introductory CS teaches
 
 3 Case Studies for App Design
 - Note: for each one must calculate ratios for full screen
-- Creating a Drawing Program: Large drawing division, Left Hand & Right Hand Pickers (Background Images, 2D-Moveable Tiles, Changing Ink Colours)
-- Creating a Music Program: Minimalist Design of 2D Shapes, 4-buttons (Play, Pause, Stop, Next, Previous), 5 Other Features of a Music Player
+- Creating a Drawing Program: Large drawing division, Left Hand & Right Hand Pickers (Background Images, 2D-Moveable Tiles, Changing Ink Colours), 2 Buttons (Canvas, Quit)
+- Creating a Music Program: Minimalist Design of 2D Shapes, 5-buttons (Play, Pause, Stop, Next, Previous, Quit), 5 Other Features of a Music Player
 - Creating a Final Project ("What will yours be?")
 
 Mathematics and Algorithms for End-user Ideas
