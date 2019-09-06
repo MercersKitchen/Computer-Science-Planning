@@ -90,7 +90,8 @@ Setting up a workstation: Laptop, Monitor, OS Settings & Configuration, Mouse, &
 - Linked In, <a href="https://ca.linkedin.com/">click here</a>
   - Creating an Account
   - Brainstorming & Researching Soft Skills others can comment on (Google Search)
-  - Starting to build a portfolio
+  - Starting to build a portfolio (focus on the Soft Skills, concepts not graded in school but necessary skills you do every day endorsed by your peers)
+  - <a href="https://www.mssqltips.com/sqlservertip/5903/resume-cookbook-for-technology-job-seekers/">Use this resume cookbook to build your linked in </a>
 
 Note: Instruction Videos are in Construction
 
