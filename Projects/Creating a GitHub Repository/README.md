@@ -2,8 +2,8 @@
 General Instructions for Repo and ReadMe File Contents and ideas
 
 Two Hyperlinks
-- Creating a GitHub Repository and ReadMe.md, <a href="">see below</a>
-- Creating a Presentation, <a href="">click here</a>
+- Creating a GitHub Repository and ReadMe.md, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects/Creating%20a%20GitHub%20Repository#general-introduction-to-creating-a-github-repository-and-readmemd-file">see below</a>
+- Creating a Presentation, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects/Introductory%20Presentation%20Guidance">click here</a>
 
 # General Introduction to Creating a GitHub Repository and ReadMe.md File
 
