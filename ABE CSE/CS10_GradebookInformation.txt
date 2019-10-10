@@ -58,6 +58,15 @@ CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
       - GIFs
     - Use style codes inline with HTML
     - Enrichment: java-script writing HTML
+- HTML Lessons Website (index to childPages, childPages above)
+  - childPage Template
+  - MetaData
+  - Headings & Paragraph Tags
+  - FooterBlockQuote
+  - DIVs with head-CSS
+  - Images
+  - Sub & Super Script Tags
+  - Note: other HTML Tags mixed into these child pages (see HTML Summary)
 - Who Am I Webpage Project (Presenting one's Digital Presence of "Global" Perspective or "UNESCO" Perspective)
 - Essay Webpage Project (Explore Meta-Literacy of essay (English and Social))
 - OPTIONAL: Coming Soon Page, "Under Construction", with Webpage Counter
