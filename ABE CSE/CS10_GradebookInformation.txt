@@ -41,6 +41,12 @@ CSE1010 - Computer Science 1
 
 CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
 - Exploring Internet Architecture
+- Developer Tools Integration
+  - Using multiple windows
+  - Atom
+  - Browser and Settings
+  - Rendering
+  - GitHub Interactions
 - Static Webpages: HTML and GitHub Markdown Lessons and Assignments
   - Document Design: hypertext using tags, attributes, and hyperlinks (including downloading documents)
     - Introduction to Navigation Emphasis: 2-clicks, Browser Navigation (In Tab, New Tab)
