@@ -76,7 +76,9 @@ CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
   - Note: other HTML Tags mixed into these child pages (see HTML Summary)
 - Who Am I Webpage Project
   (Presenting one's Digital Presence of "Global" Perspective or "UNESCO" Perspective)
+  - See Rubric
 - Essay Webpage Project (Explore Meta-Literacy of essay (English and Social))
+  - See Rubric
 - OPTIONAL: Coming Soon Page, "Under Construction", with Webpage Counter
 
 CSE1110 - Structured Programming 1
