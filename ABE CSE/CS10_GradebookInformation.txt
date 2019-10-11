@@ -40,14 +40,15 @@ CSE1010 - Computer Science 1
 - Using Control Structures: Sequential, Decision, Iterative
 
 CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
-- Exploring architecture of Internet
-- HTML and GitHub Markdown Lessons and Assignments: static webpages
+- Exploring Internet Architecture
+- Static Webpages: HTML and GitHub Markdown Lessons and Assignments
   - Document Design: hypertext using tags, attributes, and hyperlinks (including downloading documents)
     - Introduction to Navigation Emphasis: 2-clicks, Browser Navigation (In Tab, New Tab)
     - HTML Layout: mark off the various parts of the document
     - Text: display and emphasize in various ways
-    - Semantic Tags (bold and italics)
+    - Semantic Tags & HTML Boilerplate
       - Various Formats and Fonts, including sub and superscripts
+      - Bold and italics
       - Lists: ordered and unordered
       - Tables
     - Visual Data: variety of formats
@@ -67,7 +68,8 @@ CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
   - Images
   - Sub & Super Script Tags
   - Note: other HTML Tags mixed into these child pages (see HTML Summary)
-- Who Am I Webpage Project (Presenting one's Digital Presence of "Global" Perspective or "UNESCO" Perspective)
+- Who Am I Webpage Project
+  (Presenting one's Digital Presence of "Global" Perspective or "UNESCO" Perspective)
 - Essay Webpage Project (Explore Meta-Literacy of essay (English and Social))
 - OPTIONAL: Coming Soon Page, "Under Construction", with Webpage Counter
 
