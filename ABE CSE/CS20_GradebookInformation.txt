@@ -45,26 +45,64 @@ CSE2010 - Computer Science 2
 
 CSE1220 - Client-Side Scripting 2 (HTML5), No Pre-requisites
 - **Refer to Websites.txt**
+- JavaScript Algorithms (all contained in JavaScript Website below)
+  - Sequencing
+  - Selection
+  - Iteration
+  - Accumulation
+  - Determining maximum or minimum values
 - JavaScript Notes & Assignments
-- JavaScript IOP Assignments
-  - Outputting to the Console
-  - JavaScript as Structured Programming (SP1 & SP2)
-- Webpage Form: dynamic example
-  - Buttons and Interactions
-  - HTML Form
-  - Use JavaScript to store user data
-  - Explore how to solicit user input
-  - Displaying dynamic client-side information
-  - CSS is either a script within index.html or a linked file
-- Webpage Planning: Text and Visual Features (including images, etc.), Case Study
-- Webpage Project: JavaScript using HTML Forms
-  - Document Map, Structure of Website: index.html hyperlinked to childPages.html, all connected
-    to .js files
+  - What to Grade (Note: some ideas overlapping)
+    - Webpage Project: JavaScript using HTML Forms
+    - Document Map:
+      index.html hyperlinked childPages.html, all connected to .js files
+    - Webpage Planning:
+      Text and Visual Features (including images, etc.), Case Study
+    - HTML Forms & Data Flowchart Analysis
+  - Skills to Grade
     - Adding and/or Modifying childPages.html, working by rendering
     - Adding and/or Modifying associated .js files,
       demonstrated by debugging code "Made it to childTemplate.js"
     - Aware of referencing proper IDs from HTML to copied .js file
-  - Working
+  - Problem Solve with JavaScript
+    Conditional & Iterative Blocks
+    Processed data properly formatted and rendered to Browser
+  - JavaScript Website Assignments Names
+    (Listing of Assignments without including in final grade,
+     due to overlapping expectations)
+    - LandScape or Portrait
+    - Max of Two Numbers
+    - Ordering Grades
+    - Modulus
+    - Demerit Points
+    - FizzBuzz
+    - Greeting Someone
+- JavaScript IOP Assignments
+  - Outputting to the Console
+  - JavaScript as Structured Programming (SP1 & SP2)
+  - Primitive Data Structures in JavaScript
+    Variables and Constants
+    Assignment
+    Types: Arithmetical, relational, Boolean, concatenation, and string
+           construction operators
+- Webpage Form (dynamic)
+  - Buttons and Interactions
+  - HTML Form
+  - Use JavaScript to store user data
+  - Explore how to solicit user input
+  - Displaying dynamic client-side information (Determine content rendering)
+  - Determine input managing, subsequent interaction
+  - CSS is either a script within index.html or a linked file
+- CSS (styling)
+  - See Optional Assignment below for ideas
+
+Optional CSS2 Assignmenmt, maybe combined with CSS3
+- Using JS Fiddle
+- Use decomposition design and variable naming abstraction to CSS Files
+  Classes
+  IDs
+- Use CSS to add style to HTML
+  File Type: Embedded in HEAD or Separate Files
 
 CSE2210 - Client-Side Scripting 3 (HTML5)
 - **Refer to Websites.txt**
@@ -72,15 +110,31 @@ CSE2210 - Client-Side Scripting 3 (HTML5)
   Computer Science 1 & 2, Procedural Programming 1, Data Structures, and
   Structured Programming 1 & 2 (if at beginning of course, might be a review or
   introduction to these outcomes)
-- Writing Functions
-  - Goal: Reusable code designed to be efficient for maintainability and extendibility
+- CSS (for HTML5)
+  See Optional CSS2 Assignment Above
+  Combined with JS Fiddle Exploration Here
+- JavaScript Data Structure: Arrays and Rest Operator
+  "JS DS: Arrays and Rest Operator"
+  - CSS2 JS Ordering Grades Assign and other bonus pieces will satisify this 
+- JavaScript: Writing Functions
+  "JS: Writing Functions"
+  - Goal: Reusable code efficiently designed (maintainability & extendibility)
   - Goal: Site security by imported data hiding and information protection
   - VOID and Return Functions
   - Parameters and Arguments
   - Abstracting a Behavior: group block of code, generalize IOP
   - Reading and writing arrays, using arrays ("memories of a computer")
-- Website Planning: Behaviors, Link Maps
-- Website Project: Business-style Webpage
+  - Creating personal libraries of HTML5 Scripts for intended purposes
+    Internet Found and Evaluated
+    Personally written for website project
+  - Purposes for personal Libraries
+    Code reuse: procedural and objects
+    Security: data hiding and information protection
+    Readability
+    Promotion of collaboration
+    Reduction of unwanted side effects
+- Website Planning (Buisness Website): Behaviors, Link Maps
+- Website Project (Buisness Website): Business-style Webpage
   - Case Study
   - Project and GitHub Folder Structure
   - Case Study
@@ -92,6 +146,13 @@ CSE2210 - Client-Side Scripting 3 (HTML5)
   - Content matches Case Study
   - Able to browse website and various pages
   - **Rubric Under Construction**
+- Developer Tools & Hosting
+  GitHub Repo Hosting and Work
+  GitHub Hosted Websites or Raspberry Pi Hosted Websites
+  Other Options
+- ???
+  Paper and Pencil Fail Test (Case Study or Real Website) with "pre" and
+  "post" conditions, program control mechanisms, and data processing
 
 CSE2110 - Procedural Programming 1 (Needs CSE1120: Structured Programming 2)
 - Case Study
