@@ -47,7 +47,7 @@ Note: AP CSP & AP CSA is included in another section
 
 CSE3010 - Computer Science 3
 - Developer Tools
-- Algorithm (i.e. Groceries, Pong)
+- Algorithms (i.e. Groceries, Pong)
   - Case Study
   - General Behavioral Algorithms
 - Reviewing Pong
