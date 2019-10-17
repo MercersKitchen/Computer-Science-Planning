@@ -87,6 +87,7 @@ CSE3120 - Object-Orientated Programming 1
   - OOP Pong with Object-specific functions, like many pong balls
   - Access Modifiers: Public (default), private, static, final
   - Functions for Access Modifiers: Public Getters and Setters
+- Class Vocabulary
 - Lists Instantiate Objects 
   - GUI like display geometry ratios
 
