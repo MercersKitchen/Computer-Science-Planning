@@ -90,6 +90,7 @@ CSE3120 - Object-Orientated Programming 1
 - Class Vocabulary
 - Lists Instantiate Objects 
   - GUI like display geometry ratios
+- "Class" Assignments
 
 Additional Reminders about Object-Orientated Programming 1
   Object Oriented Programming Vocabulary & Evaluation (comparing and contrasting with Procedural, Structural)
@@ -133,9 +134,9 @@ Additional Reminders about Object-Orientated Programming 1
       - Create internal and external documentation
       - Analyze run time errors
 
-
 Searching
 Class Design and Structure
+
 
 CSE3130 - Object-Orientated Programming 2 (Needs CSE3120: Object-oriented Programming 1)
 - Pong Class Hierarchy
