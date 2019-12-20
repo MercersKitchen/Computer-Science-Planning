@@ -180,6 +180,7 @@ CSE2120 - Data Structures 1 (Needs CSE2110: Procedural Programming 1)
   - Copying the structure
   - Comparing two structures of the same type
 - Building Text Field: character to word to phrase using concatenation
+  (Alternate Assignment Name: Data Structure Applications)
   - Using memory structures to "remember"
   - Case Study and Diagram of what should happen
   - Using error trapping (i.e. NaN to ID when numbers are typed in error)
