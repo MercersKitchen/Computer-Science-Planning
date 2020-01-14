@@ -163,6 +163,11 @@ Record Result on GitHub Repo Main Project
 
 Edmonton Regional Science Fair, <a href="https://secure.youthscience.ca/sfiab/edmonton3/">Website</a>
 
+Social Media: update all accounts and know what you are using, delete what you are not using
+
 Impossible or I'm Possible: https://www.youtube.com/watch?v=67K9XmBInYk&feature=youtu.be
 
 ---
+
+Linked In Update
+- see https://drive.google.com/drive/folders/1QFrdT90PU_8sUMsG1d0U5lQljZBMGPX-
