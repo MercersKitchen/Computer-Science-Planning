@@ -171,3 +171,9 @@ Impossible or I'm Possible: https://www.youtube.com/watch?v=67K9XmBInYk&feature=
 
 Linked In Update
 - see https://drive.google.com/drive/folders/1QFrdT90PU_8sUMsG1d0U5lQljZBMGPX-
+
+---
+
+Do you trust this computer (what will be the cost of algorithms): https://www.youtube.com/watch?v=DVprGRt39yg
+
+---
