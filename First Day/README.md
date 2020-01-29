@@ -39,7 +39,22 @@ Final Exit Slip: "What do you want to accomplish this semester?"
 - Ensure this is in your Project Portfolio on GitHub
 
 Clubs and Teams: Which Club or Team are you interested in (see Mr. Mercer for more details)
-- Club Day is Tuesday for Semester 2 of 2018 - 2019
+- Club Day is ...
+
+Icebreaker Game: Pin the Tail on the "Geek"
+- Geeks are all different shapes and sizes, usually interested in some type of technology
+- Answer on a Sticky Note, or paper: I am geekie about ...
+- Answer on another Sticky Note, or paper: I want to be geekie about ...
+- Fold each piece of paper up so the writing cannot be seen
+- Put it in the basket
+- Later, when you have two pieces of paper, look around the room and given one piece of paper to one person who does not already have a piece of paper
+  - Preferably someone who does not know you or you know that person
+- Purpose: even if the person had a piece of paper, answer to yourself why you believe or feel they fit the description
+- Purpose: answer to yourself, is this piece of paper correct, does the person who gave me this paper know me
+- Purpose: what is my first impression of people
+- Reflection as large group: giver of piece of paper share reason paper was given (issue of first impressions) to verify if first impression was true
+  - CAUITION: acceptable "giving reason" can because there was no one else or other non-first-impression-reasons
+- Reflection: are first impressions valid; brainstorm main societal uses of first impressions
 
 ---
 
@@ -89,9 +104,19 @@ Setting up a workstation: Laptop, Monitor, OS Settings & Configuration, Mouse, &
 - Semester School Calendar, using Google Calendar: events and general flow (Remember to turn off other calendars being shown)
 - Linked In, <a href="https://ca.linkedin.com/">click here</a>
   - Creating an Account
+  - Add sections for:
+    - Endorsements (see below, soft skills)
+    - biographies
+    - summaries
+    - hobbies
+    - interests
+    - certificates (Cisco Academy will issue Networking Certificates and you might also reference your Computer Science Courses and projects completed)
   - Brainstorming & Researching Soft Skills others can comment on (Google Search)
   - Starting to build a portfolio (focus on the Soft Skills, concepts not graded in school but necessary skills you do every day endorsed by your peers)
+  - <a href="https://drive.google.com/drive/folders/17NJwIwM_HB113_pBTg-om9RMxhLdsczy?usp=sharing">Use this link to brainstorm your list of soft skills you would like endorsements for at the end of the semester</a>
   - <a href="https://www.mssqltips.com/sqlservertip/5903/resume-cookbook-for-technology-job-seekers/">Use this resume cookbook to build your Linked In </a>
+  - See Mr. Mercer for list of real employees who want to share their LinkedIn Profiles with you, illustrating examples of what works
+    - Note: they might look at yours too to see if they should meet you ... try to make a good first impression (see Ice Breaker Game above for more information)
 
 Note: Instruction Videos are in Construction
 
