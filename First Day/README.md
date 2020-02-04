@@ -105,12 +105,12 @@ Setting up a workstation: Laptop, Monitor, OS Settings & Configuration, Mouse, &
 - Linked In, <a href="https://ca.linkedin.com/">click here</a>
   - Creating an Account
   - Add sections for:
-    - Endorsements (see below, soft skills)
-    - biographies
-    - summaries
-    - hobbies
-    - interests
-    - certificates (Cisco Academy will issue Networking Certificates and you might also reference your Computer Science Courses and projects completed)
+    - About, Summary, Autobiography, Hobbies, Interests
+    - Skills & Endorsements (see below, soft skills)
+    - Accomplishments
+    - 
+    - Certificates (Cisco Academy will issue Networking Certificates and you might also reference your Computer Science Courses and projects completed)
+    - Optional (as applicable): Background  
   - Brainstorming & Researching Soft Skills others can comment on (Google Search)
   - Starting to build a portfolio (focus on the Soft Skills, concepts not graded in school but necessary skills you do every day endorsed by your peers)
   - <a href="https://drive.google.com/drive/folders/17NJwIwM_HB113_pBTg-om9RMxhLdsczy?usp=sharing">Use this link to brainstorm your list of soft skills you would like endorsements for at the end of the semester</a>
