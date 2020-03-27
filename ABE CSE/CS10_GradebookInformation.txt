@@ -33,7 +33,7 @@ CSE1010 - Computer Science 1
 - Algorithm Introduction: Case Studies and To Do Lists (ReadMe.md Markdown & Simple HTML)
 - Using Algorithms: Data Flowcharts, Pseudocode, Input-Output-Processing
 - Software Development: "Iterative and Incremental" (See AP CSP), "Waterfall"
-- Essential Algorithms:
+- Essential Algorithms (i.e. like a calculator in the console):
   - Accumulation (running total),
   - Determining a Mean (central tendency, not median, or mode without sorting),
   - Maximums and Minimums
@@ -86,7 +86,7 @@ CSE1110 - Structured Programming 1
   - Paper Folding
   - Happy Face Case Study with Diagram and coordinates
   - Quit Button Case Study Diagram with coordinates
-- HEAP Sheets: Reading and Following of HEAP Sheets, Variables, etc.on a flat level
+- HEAP Sheets: Reading and Following of HEAP Sheets, Variables, etc. on a flat level
   - Not included when in CS30
 - Documentation & Syntax
   - Internal: comments
