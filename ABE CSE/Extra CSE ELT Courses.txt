@@ -1,3 +1,10 @@
+
+General Assignment Titles for Individual Study Projects
+- Assignments
+- Anecdotal Records, Testing, and Debugging
+- Project Planning
+- Major Project
+
 CSE2140: SECOND LANGUAGE PROGRAMMING 1 (Prerequisites: CSE2110: Procedural Programming 1 or
 					CSE1120: Structured Programming 2)
 CSE3140: SECOND LANGUAGE PROGRAMMING 2 (Prerequisite: CSE2120: Data Structures 1)
