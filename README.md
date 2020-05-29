@@ -4,6 +4,8 @@ Text Documents and Supporting Documents to begin to imagine classroom experience
 Ideas:
 - Python through Coursea
 - Netacad: Python, C++
+- Course Video Sets: Python, JavaScript, React Native (See below)
+
 
 **Purpose**: jurisdictional & curriculum-level documents intended for project-based learning
 - Curriculum Level Documents called Courses in Computer Science Education of Alberta Education's Career and Technology Studies
@@ -64,6 +66,11 @@ What to expect in school-level courses & project-based beginnings:
 Link: Computer Curriculum Documents, <a href="https://drive.google.com/drive/folders/117id1RIavhyMzYVW7_HPSVZg1DrGxqRa">Click Here</a>
 
 Link: Course Outlines, <a href="https://drive.google.com/drive/folders/1pEr3PWr12lc5OEj-lAOXBSp5x6kT2ELK">Click Here</a>
+
+Website Development
+- Build Personal Home portfolio for our Adventures (Try to develop temmplates)
+- See: https://www.youtube.com/watch?v=0-S5a0eXPoc&feature=youtu.be
+- See: Mosh Reactr Native Course
 
 Reminder: Processing-JAVA syntax error
 - Sometimes Processing-JAVA's debugger will describe a syntax error that is not true
