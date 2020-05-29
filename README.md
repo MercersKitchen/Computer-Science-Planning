@@ -68,9 +68,19 @@ Link: Computer Curriculum Documents, <a href="https://drive.google.com/drive/fol
 Link: Course Outlines, <a href="https://drive.google.com/drive/folders/1pEr3PWr12lc5OEj-lAOXBSp5x6kT2ELK">Click Here</a>
 
 Website Development
-- Build Personal Home portfolio for our Adventures (Try to develop temmplates)
+- Build Personal Home portfolio for our Adventures (Try to develop templates)
+- Google's New Core Web Vitals: https://paper-leaf.us2.list-manage.com/track/click?u=ed9a96e3d5b0c7631056ad16c&id=4f752157c6&e=004b52e739
+- Include other ways of testing websites (see Becky's Videos)
 - See: https://www.youtube.com/watch?v=0-S5a0eXPoc&feature=youtu.be
-- See: Mosh Reactr Native Course
+- See: Mosh React Native Course
+- Other reading
+  - https://webmasters.googleblog.com/2020/05/evaluating-page-experience.html
+  - https://blog.chromium.org/2020/05/introducing-web-vitals-essential-metrics.html
+  - https://paper-leaf.com/blog/2016/06/user-centered-design-makes-everyone-happier/
+  - https://chrome.google.com/webstore/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma
+  - https://developers.google.com/speed/pagespeed/insights/
+  - https://paper-leaf.com/services/design-build/website-design-development/
+  - https://paper-leaf.com/services/strategy-consultation/website-audit/
 
 Reminder: Processing-JAVA syntax error
 - Sometimes Processing-JAVA's debugger will describe a syntax error that is not true
