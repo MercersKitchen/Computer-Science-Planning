@@ -86,6 +86,18 @@ CAUTION: all design stages have design time limits and some design stages are be
 
 ### Introductory Computer Science Case Studies, Information
 
+Websites: creating a single webpage
+- "Who Am I" OR "Essay Project"
+- Who am I: https://github.com/QEHS-Websites/Who-Am-I
+  - Create content about you
+- Essay Project: https://github.com/QEHS-Websites/Essay-Project
+  - Using an essay, create content to make the essay interactive (difficult to read and imagine an essay, so use the power of the Internet for reading comprehension)
+
+Measles Interactive Visual Data
+
+3x3 Home Screen
+- Application to Chess Board Enrichment
+
 Drawing Program: Large drawing division, Left Hand & Right Hand Pickers (Background Images, 2D-Moveable Tiles, Changing Ink Colors), 2 Buttons (Canvas, Quit)
 
 Music Program: Minimalist Design of 2D Shapes, 5-buttons (Play, Pause, Stop, Next, Previous, Quit), 5 Other Features of a Music Player
@@ -121,16 +133,6 @@ Enrichments
 - how to take sensor data & visual data and automate programs
 - how to own your own data
 
-
----
-
-
-- Who am I Website Project: Rubric ...
-<a href="https://github.com/QEHS-Websites/Intro-Who-Am-I-Project"
-   target="_blank"><p>Click Here</p></a>
-- Essay Website Project: Rubric ...
-<a href="https://github.com/QEHS-Websites/Intro-Essay-Project" target="_blank"><p>Click Here</p></a>
-- Music Player, Processing-JAVA
 
 ---
 
@@ -176,5 +178,14 @@ Ideas to Incorporate
 - Developing a calculator: bartering for a price
   Understanding a profit-loss graph
   Using formulae to guide responses
+
+---
+
+UNDER CONSTRUCTION: "How to code a robot": , planter (3 plants)
+- incorporate
+- racing a line follower in a track (Sandwich)
+  analogue to digital to camera
+- planter (with website?)
+- Goals or Purpose: map environment for possible choices based on hard coded assumptions
 
 ---
