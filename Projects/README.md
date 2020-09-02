@@ -136,15 +136,51 @@ Enrichments
 
 ---
 
-## Intermediate Projects - See .txt DOC
+### Intermediate Projects - See .txt DOC
 
 See .txt DOC for Additional Ideas and Downloaded Checklist to print
 
 ---
 
-## Advanced Projects - See .txt DOC
+### Advanced  Computer Science Case Studies, Information
 
-See .txt DOC for Additional Ideas and Downloaded Checklist to print
+PONG
+  - Features: Playing surface, moving ball & bounces, moving paddles, scoreboard, automatically spawning "guards" when score becomes too big
+  - Features to even play based on score: move the ball faster or slower, bounce the in weird ways
+  - Note: must calculate ratios for full screen
+
+Chatbot (and other labs)
+  - Features: simple 2D Face, textbox for what is typed and what is said that turns into conversation
+  - Additional Features: 3 Buttons (start, stop, quit), 3 additional features
+  - Note: must calculate ratios for full screen
+
+Note Pad program between Web and App using File IO
+
+Text Adventure Game
+
+### Advanced  Computer Science Case Studies, Algorithms
+- See Data Structures Videos (Mosh)
+
+Review Previous Algorithms in Pong
+
+Search Algorithms
+- Linear Search
+- Binary Search
+- Exchange sort: bubble sort, cocktail sort, gnome sort, comb sort
+- Selection sort: selection sort, strand sort
+- Insertion sort: insertion sort, library sort
+
+Additional Searches to Explore
+- Ternary Search
+- Jump Search
+- Exponential Search
+
+Additional Sorts to Explore
+- Merge Sort
+- Quick Sort
+- Partitioning Sort
+- Counting Sort
+- Bucket Sort
 
 ---
 
