@@ -1,6 +1,8 @@
 # First Day
 First Day or Few Days of Introduction Ideas
 
+**Redo this DOC**
+
 Ensure all students are in the correct room for the course on their timetable.
 - Time Table Changes will happen later but must in the course of your timetable
 - Review "new to this year" school rules
