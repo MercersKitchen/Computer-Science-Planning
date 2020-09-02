@@ -126,29 +126,6 @@ Summary of Presentation: forms the ending of your presentation
 
 ---
 
-# Appendix that helps with Above Sections
-
-## Flow Chart Symbols and Related Exam Questions
-- Oval: start or end of program
-  Include Language Specific Lines of Code (buttons, exit, quit, etc.)
-- Parallelogram: input or output of data, text
-- Rectangle: key logical steps, has one input and one output
-- Rhombus: key decision, one or more inputs, one Boolean Output (true-false)
-- Arrow: shows relationships between other shapes
-  Represents flow of information and/or logical path of code
-  Shows iterations (FOR or WHILE Loops, decision at beginning or end)
-- Best to use paper and pencil for this
-  Take images, add reasons why, etc.
-  ?Use a snipping tools to help with writing responses in digital portfolio?
-  Also create case studies
-- Online Tools
-  Raptor (raptor.martincarlisle.com)
-  Online Flowchart Maker (draw.io): share via GitHub, Drive, etc.
-  MindMeister (mindmeister.com)
-  Padlet (padlet.com)
-
----
-
 # To Include
 
 
