@@ -108,7 +108,7 @@ Setting up a workstation: Laptop, Monitor, OS Settings & Configuration, Mouse, &
     - About, Summary, Autobiography, Hobbies, Interests
     - Skills & Endorsements (see below, soft skills)
     - Accomplishments
-    - 
+    -
     - Certificates (Cisco Academy will issue Networking Certificates and you might also reference your Computer Science Courses and projects completed)
     - Optional (as applicable): Background  
   - Brainstorming & Researching Soft Skills others can comment on (Google Search)
@@ -202,3 +202,6 @@ Linked In Update
 Do you trust this computer (what will be the cost of algorithms): https://www.youtube.com/watch?v=DVprGRt39yg
 
 ---
+
+Removed for 2020 - 2021
+-
