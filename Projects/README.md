@@ -159,6 +159,7 @@ Text Adventure Game
 
 ### Advanced  Computer Science Case Studies, Algorithms
 - See Data Structures Videos (Mosh)
+- See https://drive.google.com/drive/folders/1msz74fZNe0sCOrKuUeq9taPLa4hlsE3U
 
 Review Previous Algorithms in Pong
 
@@ -183,7 +184,6 @@ Additional Sorts to Explore
 
 Ideas to Include for Searching and Sorting (Using Playing Cards)
 - Counting times to touch cards (data set), introduction to Big O
-- See https://drive.google.com/drive/folders/1msz74fZNe0sCOrKuUeq9taPLa4hlsE3U
 
 ---
 
