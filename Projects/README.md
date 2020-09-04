@@ -133,7 +133,6 @@ Enrichments
 - how to take sensor data & visual data and automate programs
 - how to own your own data
 
-
 ---
 
 ### Intermediate Projects - See .txt DOC
@@ -181,6 +180,10 @@ Additional Sorts to Explore
 - Partitioning Sort
 - Counting Sort
 - Bucket Sort
+
+Ideas to Include for Searching and Sorting (Using Playing Cards)
+- Counting times to touch cards (data set), introduction to Big O
+- See https://drive.google.com/drive/folders/1msz74fZNe0sCOrKuUeq9taPLa4hlsE3U
 
 ---
 
