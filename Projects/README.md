@@ -90,6 +90,7 @@ Websites: creating a single webpage
 - "Who Am I" OR "Essay Project"
 - Who am I: https://github.com/QEHS-Websites/Who-Am-I
   - Create content about you
+  - Create document map linking case study **rectangles**
 - Essay Project: https://github.com/QEHS-Websites/Essay-Project
   - Using an essay, create content to make the essay interactive (difficult to read and imagine an essay, so use the power of the Internet for reading comprehension)
 
