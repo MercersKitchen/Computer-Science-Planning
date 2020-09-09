@@ -145,8 +145,17 @@ See .txt DOC for Additional Ideas and Downloaded Checklist to print
 ### Advanced  Computer Science Case Studies, Information
 
 PONG
-  - Features: Playing surface, moving ball & bounces, moving paddles, scoreboard, automatically spawning "guards" when score becomes too big
+  - Features:
+    - Playing surface
+    - Moving ball
+    - Wall bounces (i.e. more than angle of incidence = angle of reflection)
+    - Moving paddles & size (i.e. stickiness, motion of paddle influences bounce)
+    - Scoreboard & how scoreboard controls play: ball speed, number of balls in play, guards, size of paddles
+    - automatically spawning "guards" when score becomes too big
+    - Additional variables to control play: number of volies, time of set until goal
   - Features to even play based on score: move the ball faster or slower, bounce the in weird ways
+  - Default features based on mode
+  - Single player vs. multiple player
   - Note: must calculate ratios for full screen
 
 Chatbot (and other labs)
