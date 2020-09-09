@@ -86,7 +86,7 @@ Setting up a workstation: Laptop, Monitor, OS Settings & Configuration, Mouse, &
   In Lifehacker</a>
   - An interesting read, <a href="https://lifehacker.com/when-a-company-asks-you-to-reset-your-password-should-1837516590">What if a company asks you to reset your password, should you be worried?</a>
 - Chrome Extension (main browser for EPSB), Password Check-up by google, free service
-  - Note: without this extension that checks know and publically available password-email combinations, you might be using a password that is known to the entire world (or just malicious hackers)
+  - Note: without this extension that checks know and publicly available password-email combinations, you might be using a password that is known to the entire world (or just malicious hackers)
   - How it works, <a href="https://chrome.google.com/webstore/detail/password-checkup-extensio/pncabnpcffmalkkjpajodfhijclecjno">
   Click Here</a>
   - Reminder: Google invests in companies safety due to Google's size and how other companies affect it's safety (due to smaller size thus cyber security investment)
