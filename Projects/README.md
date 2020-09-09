@@ -166,7 +166,7 @@ Chatbot (and other labs)
     - place to remember conversation
   - Additional Features:
     - 3 Buttons (start, stop, quit)
-    - 3 additional features, coder choice
+    - 3 additional features, coder choice (i.e. searching and responding to text with emotional focus, for example happy, sad, & angry)
   - Note: must calculate ratios for full screen
 
 Note Pad program between Web and App using File IO
