@@ -159,8 +159,14 @@ PONG
   - Note: must calculate ratios for full screen
 
 Chatbot (and other labs)
-  - Features: simple 2D Face, textbox for what is typed and what is said that turns into conversation
-  - Additional Features: 3 Buttons (start, stop, quit), 3 additional features
+  - GUI Features:
+    - simple 2D Face
+    - textbox for what said
+    - textbox for what is typed in response
+    - place to remember conversation
+  - Additional Features:
+    - 3 Buttons (start, stop, quit)
+    - 3 additional features, coder choice
   - Note: must calculate ratios for full screen
 
 Note Pad program between Web and App using File IO
