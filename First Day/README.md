@@ -188,6 +188,10 @@ Record Result on GitHub Repo Main Project
 
 # To Include
 
+YouTube Origonal Series: The Age of AI (December 2019)
+- https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc
+- Used to visualize projects done in class to connect with contemporary news
+
 Edmonton Regional Science Fair, <a href="https://secure.youthscience.ca/sfiab/edmonton3/">Website</a>
 
 Social Media: update all accounts and know what you are using, delete what you are not using
