@@ -88,8 +88,7 @@ CSE3120 - Object-Orientated Programming 1
   - Access Modifiers: Public (default), private, static, final
   - Functions for Access Modifiers: Public Getters and Setters
 - Class Vocabulary
-- Lists Instantiate Objects 
-  - GUI like display geometry ratios
+- Lists Instantiate Objects
 - "Class" Assignments
 
 Additional Reminders about Object-Orientated Programming 1
@@ -164,8 +163,10 @@ Additional Reminders about Object-Orientated Programming 2
 
 CSE3110 - Iterative Algorithm 1 (Needs CSE2120: Data Structures 1)
 - Introduction to Searches
-- Prototyping Searches
-- Essay Grader Searches
+- Prototyping Binary Searches (Including Linear)
+- Prototyping Sorts (exchange (bubble), insertion and selection, simple merge)
+- Text Searches (i.e. Essay Grader, Chatbot)
+- OPTION: Main Project Searches
 
 Additional Reminders about Iterative Algorithm 1
   Purpose (iterative versions of the following)
