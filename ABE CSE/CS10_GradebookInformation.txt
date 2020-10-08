@@ -108,7 +108,17 @@ CSE1110 - Structured Programming 1
   - Images
 - Music Player: Case Study & GUI (Including Free Use Music)
 
+- Note: 3 by 3 Home Screen summarizes prototyping, buttons, and interactions 
+  2D Shapes
+  Random Color
+  Text
+  Images
+  Buttons & Mouse Control
+
+
 CSE1120 - Structured Programming 2
+- CAUTION: 3 by 3 Screen could extend to this level if FOR & IF used a lot without copying my code
+
 - Algorithms: Use More than one IPO Module
   - User Input Data (sensor) vs. Computed Data vs. Hard-coded data
 	  - For example: input by keyboard, mouse, counters, collisions (visual data)
