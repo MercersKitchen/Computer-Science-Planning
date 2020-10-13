@@ -106,7 +106,7 @@ CSE1110 - Structured Programming 1
 		Display Geometry and formulae)
   - Text
   - Images
-- Music Player: Case Study & GUI (Including Free Use Music)
+- Drawing & Music Player App: Case Study & GUI (Including Free Use Music)
 
 - Note: 3 by 3 Home Screen summarizes prototyping, buttons, and interactions 
   2D Shapes
@@ -141,6 +141,8 @@ CSE1120 - Structured Programming 2
 		- Nested Iterative (similar to 2D Array, 2D Plane), see Chess Board Assignment
 - Algorithm Translation (coding): Music Player Project (working software)
 - Summary: Introductory Boilerplate or App Engine as Group of Procedures
+- Drawing App (working app)
+- Music Player App (working app)
 
 CSE1910 - CSE Project A
 - Purpose: workflow of project management, individually monitored and communicated prior to building
