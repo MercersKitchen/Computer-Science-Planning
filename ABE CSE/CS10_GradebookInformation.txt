@@ -164,7 +164,7 @@ CSE1910 - CSE Project A
 Assignment Titles for Gradebook
 - Project Planning
 - Anecdotal Grading, Testing & Debugging
-- Cumulative Grade
+- Final Project Experience & Code  
 
 Project Listings and Expectations Summary
 
