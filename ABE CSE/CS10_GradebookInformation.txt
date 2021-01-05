@@ -123,7 +123,7 @@ CSE1120 - Structured Programming 2
   - User Input Data (sensor) vs. Computed Data vs. Hard-coded data
 	  - For example: input by keyboard, mouse, counters, collisions (visual data)
 	- Enrichment: using libraries to simplify coding using prebuilt functions
-	- See Music Player (Android)
+	- See Music Player (Android) for auto-populating string variables
 - Data & Data Structures: see Console Calculator Assignment
   - Use following literals or operators
 	  - Assignment (=)
@@ -202,3 +202,8 @@ Other Projects
 - Drawing Program
 - Security App: combination locks
 - Games: Chop Sticks, Rock Paper Scissors, Snake, Tetrus
+
+Other Final Projects connected to drawing program and music program
+Promotion Website as Example Project
+Android Sideloading as Example Project
+Highly Developed Drawing Program or Music Program
