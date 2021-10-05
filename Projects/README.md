@@ -87,12 +87,10 @@ CAUTION: all design stages have design time limits and some design stages are be
 ### Introductory Computer Science Case Studies, Information
 
 Websites: creating a single webpage
-- "Who Am I" OR "Essay Project"
+- Learning HTML Website
 - Who am I: https://github.com/QEHS-Websites/Who-Am-I
   - Create content about you
   - Create document map linking case study **rectangles**
-- Essay Project: https://github.com/QEHS-Websites/Essay-Project
-  - Using an essay, create content to make the essay interactive (difficult to read and imagine an essay, so use the power of the Internet for reading comprehension)
 
 Measles Interactive Visual Data
 
