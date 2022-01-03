@@ -1,14 +1,9 @@
 # First Day
 First Day or Few Days of Introduction Ideas
 
-**Redo this DOC**
-
-Ensure all students are in the correct room for the course on their timetable.
-- Time Table Changes will happen later but must in the course of your timetable
-- Review "new to this year" school rules
-- Briefly invite students to clubs
-- Play this video as students enter, <a href="https://globalnews.ca/news/5824703/farm-future-agriculture-tech-canada/">
+Mr. Mercer's Most Recent Interesting Video, <a href="https://globalnews.ca/news/5824703/farm-future-agriculture-tech-canada/">
 The farm of the future is staffed by robots (2 minutes)</a>
+- What we try to do
 
 **Need a Workstation before reviewing the Course Outline.**
 
