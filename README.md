@@ -8,9 +8,8 @@ Intended for Teachers: Text Documents and Supporting Documents to begin imaginin
   - ELT: intended for "Physical Computing" (the coding side of robotics and physical interactions)
     - "Where the physical can make concrete the lines of code in a robotic app"
 - Curriculum Level Documents called Courses in Computer Science Education of Alberta Education's Career and Technology Studies
-- Curriculum Documents also from College Board's Advanced Placement:
-    - Computer Science Principles
-    - Computer Pathways
+- Curriculum Documents also from College Board's Advanced Placement: Computer Science Principles & Computer Pathways
+  - See Folder AP CSA CSP
 
 **Organization of Outcomes**: to facilitate industry-level project-based learning
 - "Thinking Like a Professional Developer": for example: web developer, production software developer for apps, etc.
