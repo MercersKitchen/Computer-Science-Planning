@@ -7,7 +7,7 @@ The farm of the future is staffed by robots (2 minutes)</a>
 
 **Need a Workstation before reviewing the Course Outline.**
 
-*ALL Links accessed 20190830*
+*ALL Links accessed 20220103*
 
 **Table of Contents**
 - Setting up Tables, Stools, & Workstations: Our first problem of the day
@@ -19,10 +19,9 @@ The farm of the future is staffed by robots (2 minutes)</a>
 Introduction to Online Tools</a>
 - Review BYOD Repository and Installation Instructions for all software this year (Answers Questions for "Who Brings their Own Computers")
   - Note: if you want Cyber Security, you have your own computer, and you are *comfortable bringing it to school*, you should :)
-- Reviewing Course Outline (See Course GitHub / Admin for Specific Course Outline, Introduction to Navigating GitHub)
-  - Note: Ensure time-tables are correct
+- Reviewing Course Outline (See Google Drive for PDF)
 - Overview of major projects (similar to goal setting, start with "what do you want to accomplish in this course")
-  - Main Project: Beginning a Portfolio in GitHub for Edmonton Regional Science Fair , CS Pitches, or QE Open House and other visitors
+  - Main Project: Beginning a Portfolio in GitHub for Edmonton Regional Science Fair, CS Pitches, or QE Open House and other venues
 
 Making a Culture of Creating and Problem Solving, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day#making-a-culture-of-creating-and-problem-solving">
 More Information</a>
@@ -57,17 +56,36 @@ Icebreaker Game: Pin the Tail on the "Geek"
 
 ## Problem-solving of a beginning workstation
 
-Setting up a workstation: Laptop, Monitor, OS Settings & Configuration, Mouse, & Keyboard
+Setting up a workstation: Laptop, Monitors, OS Settings & Configuration, Mouse, & Keyboard
 - Cooperating with others to set up seating plan
   - Sit close to others who will help you learn (and balance your distractions)
   - Movement problem of figuring out work flow in the classroom: Issue of tripping hazards
 - Benefit: no student ever has equipment that does not work without knowing what to fix
 - Mention issue of sticky hands on laptop keyboards and trackpads vs. spring-action keyboards and USB-mice
 - See YouTube Video: https://youtu.be/Bw1hj3s-8S0
-- Note: Private Google Drive Folder for Images and Original PowerPoint: https://drive.google.com/drive/folders/1L0ykkGBHxz-aRU1aw_sHHHaLfC8KZOgQ
+
+Setting up Multiple Monitors: see Display Settings (Right-click on desktop)
+
+Movies when Hardware Problems take over the classroom lesson
+- Machine Learning, Living in the Age of AI: https://www.youtube.com/watch?v=ZJixNvx9BAc
+- Do you trust this computer: https://www.youtube.com/watch?v=DVprGRt39yg
+
+Note: Private Google Drive Folder for Images and Original PowerPoint: https://drive.google.com/drive/folders/1L0ykkGBHxz-aRU1aw_sHHHaLfC8KZOgQ
 
 ---
+
 ## Introduction to Online Tools used in Mercer's Kitchen for Language Agnostic Computer Science Instruction
+
+### Downloads to Start (will take some time to complete)
+- Download to My Downloads (networked file, not computer specific)
+- Processing: https://processing.org/ (most current stable version only)
+  - Install to C-Drive Parent Folder, then arrange short cuts
+- Github Desktop: https://desktop.github.com/
+- Atom: https://atom.io/
+- See KeePass, https://keepass.info/
+  - See Additional Notes from Mr. Mercer, https://docs.google.com/document/d/1ViZ35ustozP5UmbkJN4TMAMGDstfx_VH2XXC0lSr_QA/edit?usp=sharing
+
+### Notes to Follow along with
 - GMail through Schoolzone (school-based email addresses), settings and forwarding mail
   - Something new in GMail, <a href="https://www.forbes.com/sites/tjmccue/2019/08/25/this-gmail-hack-lets-you-schedule-send-sms-text-messages-in-three-steps/">
   a Hack to allow you to send SMS Messages through email app</a>
@@ -92,20 +110,17 @@ Setting up a workstation: Laptop, Monitor, OS Settings & Configuration, Mouse, &
   - C-Drive (FDrive) / Documents / GitHub / Local Copy
   - Browser / GitHub / Rendering of Server Copy
   - GitHub Desktop (Opened First or, from GitHub, Open in GitHub Desktop)
-  - Trying everything out in GitHub Classroom, "A First Assignment Submitted"
 - Workona, Chrome Extension (use Chrome Store & Workona Website, only if you do not have a Workona Account Yet)
   - Create Account on website first, using Schoolzone EMail
   - Add Chrome Extension
   - Save Passwords to Manager
   - Note: Chrome Update will eventually group TABS for us
-- Semester School Calendar, using Google Calendar: events and general flow (Remember to turn off other calendars being shown)
-- Linked In, <a href="https://ca.linkedin.com/">click here</a>
+- Linked In, <a href="https://ca.linkedin.com/">click here</a>, CAUTION, Must be 16-years old
   - Creating an Account
   - Add sections for:
     - About, Summary, Autobiography, Hobbies, Interests
     - Skills & Endorsements (see below, soft skills)
     - Accomplishments
-    -
     - Certificates (Cisco Academy will issue Networking Certificates and you might also reference your Computer Science Courses and projects completed)
     - Optional (as applicable): Background  
   - Brainstorming & Researching Soft Skills others can comment on (Google Search)
@@ -114,8 +129,6 @@ Setting up a workstation: Laptop, Monitor, OS Settings & Configuration, Mouse, &
   - <a href="https://www.mssqltips.com/sqlservertip/5903/resume-cookbook-for-technology-job-seekers/">Use this resume cookbook to build your Linked In </a>
   - See Mr. Mercer for list of real employees who want to share their LinkedIn Profiles with you, illustrating examples of what works
     - Note: they might look at yours too to see if they should meet you ... try to make a good first impression (see Ice Breaker Game above for more information)
-
-Note: Instruction Videos are in Construction
 
 ---
 
@@ -134,75 +147,9 @@ Teaching answers or teaching with questions, Mr. Mercer prefers teaching with qu
 - An example algorithm: https://www.youtube.com/watch?v=il5oEPNASmg
 - Is this true?
 - A video of the full algorithm: https://www.youtube.com/watch?v=MMjnDdrujSU
-- What are the magic tricks or algorithms of the now: https://www.youtube.com/watch?v=hANXIPxN1ME
-   - (Robotic Domino's Ford Autonomous Pizza Delivery Vehicle)
-
-How do we get there from High School?
-- Skills Alberta Canada: <a href="https://www.youtube.com/watch?v=5If09ESV65k">2019 Promotional Video</a>
-- Iverson Exam, <a href="https://www.ualberta.ca/computing-science/explore/iverson-exam">Website</a>
-- HIP: High School Internship Program, <a href="https://www.ualberta.ca/computing-science/explore/hs-internships">Website</a>
-- CS Pitches & Hackathons
-- Mentoring other students through our coding and building, sometimes through sitting with them as they think
-
-What will help us get there?
-- Algorithms, research, and personal choice delivering information ... what does this mean?
-- One Person's opinion: https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en&utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare
-  - Now we need to email each other the full search URL for the stuff we want them to read
-- What does this mean for education? Remember, Eli Pariser is only asking you to be aware of the information you consume
-- Algorithms might be the next way of thinking ... "knowing what we need to do is what we need"
-- What are the ethics of algorithms?
-- What will be your next steps in school? What will be your next things you learn? What choices and items will you learn so the grades and courses you earn and complete will empower you to the next best steps?
-
-Machine Learning delivering information: Living in the Age of AI | A WIRED Film: https://www.youtube.com/watch?v=ZJixNvx9BAc
-- Time: 41.06 minutes
----
-
-## First Day Algorithms or Design of Main Project
-- Brainstorm ideas without recording
-- Later, the ones that are important will be remembered
-- Later, the ones that are *connected* will be written down to be changed
-
-Vertical Writing Surfaces: tables, walls, and Windows
-- nothing decided
-
-Then, paper and pencil (ideas are decided, but can be changed)
-- Design this "thing": general question without a lot of guidance ... students provided 11x17 paper and encouragement to answer design issues
-- Result: "Design is important", especially knowing about processing in design
-  - Goals, purposes, materials, resources
-  - Card board prototyping to understand shapes, sizes, hardware distances (wires, etc.)
-  - 3D Printing Prototyping
-  - Native Software Prototyping
-- CAUTION: students become unbalanced as first emotional experience to design and solving algorithms without clear answers
-
-Record Result on GitHub Repo Main Project
-- Record Highlights on Exit Slip
-- Take an Image of your paper, put it in your repository for your main project
-- Create a .txt and load it to GitHub
 
 ---
 
 # To Include
 
-YouTube Origonal Series: The Age of AI (December 2019)
-- https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc
-- Used to visualize projects done in class to connect with contemporary news
-
-Edmonton Regional Science Fair, <a href="https://secure.youthscience.ca/sfiab/edmonton3/">Website</a>
-
-Social Media: update all accounts and know what you are using, delete what you are not using
-
-Impossible or I'm Possible: https://www.youtube.com/watch?v=67K9XmBInYk&feature=youtu.be
-
 ---
-
-Linked In Update
-- see https://drive.google.com/drive/folders/1QFrdT90PU_8sUMsG1d0U5lQljZBMGPX-
-
----
-
-Do you trust this computer (what will be the cost of algorithms): https://www.youtube.com/watch?v=DVprGRt39yg
-
----
-
-Removed for 2020 - 2021
--

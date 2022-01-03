@@ -5,6 +5,9 @@ Various Types of Projects through Computer Science Courses
 
 Introduction to Rapid Prototyping (Google for Entrepreneurs : Rapid Prototyping 1 of 3: Sketching & Paper Prototyping): https://www.youtube.com/watch?v=JMjozqJS44M&feature=youtu.be
 
+**Paper Is Optional**: Vertical Writing Surfaces: tables, walls, and Windows
+- Use a camera to record what has been written
+
 ## Single Iteration: each iteration will communicate ...
 - My Question? <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects#what-is-my-question">Click Here</a>
 - Paper and Pencil Prototyping, <a herf="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects#paper-and-pencil-prototyping">Click Here</a>

@@ -1,7 +1,7 @@
 # Computer Science Planning
 Intended for Teachers: Text Documents and Supporting Documents to begin imagining classroom experiences and projects-based learning
 
-**First Few Days a Course**: See First Day, ReadMe.md
+**First Few Days a Course**: See First Day, `ReadMe.md`
 
 **Purpose**: jurisdictional & curriculum-level documents intended for project-based learning
 - See Folder ABE Curriculum
