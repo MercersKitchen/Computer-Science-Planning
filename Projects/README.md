@@ -39,8 +39,9 @@ CAUTION: all design stages have design time limits and some design stages are be
 
 # Introduction to Algorithms
 - Your Prototype should have a map of what happens when ...
-  - Button Press
   - Time elapses
+  - Computer Calculated Values do not "fit" (i.e. boundaries)
+  - Button Press
   - Keyboard Press
 
 - Planning these ideas will help with modular programming later
