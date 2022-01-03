@@ -1,5 +1,5 @@
 # Computer Science Planning
-Text Documents and Supporting Documents to begin to imagine classroom experiences and projects-based learning.
+Intended for Teachers: Text Documents and Supporting Documents to begin imagining classroom experiences and projects-based learning
 
 Ideas:
 - Python through Coursea
