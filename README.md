@@ -1,13 +1,12 @@
 # Computer Science Planning
 Intended for Teachers: Text Documents and Supporting Documents to begin imagining classroom experiences and projects-based learning
 
-Ideas:
-- Python through Coursea
-- Netacad: Python, C++
-- Course Video Sets: Python, JavaScript, React Native (See below)
-
-
 **Purpose**: jurisdictional & curriculum-level documents intended for project-based learning
+- See Folder ABE Curriculum
+  - CSE: intended for Computer Science Courses
+    - Note: Website Outcomes overlap with previous "Communication Technologies" Curriculum Documents for Writing Websites
+  - ELT: intended for "Physical Computing" (the coding side of robotics and physical interactions)
+    - "Where the physical can make concrete the lines of code in a robotic app"
 - Curriculum Level Documents called Courses in Computer Science Education of Alberta Education's Career and Technology Studies
 - Curriculum Documents also from College Board's Advanced Placement:
     - Computer Science Principles

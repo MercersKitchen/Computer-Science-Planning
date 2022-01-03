@@ -1,7 +1,13 @@
 # Advanced Placement Computer Science Curriculum
+Intended for Teachers: Planning and Documents
+---
+
+# Quick Links
+- <a href="">Credits for AP Specific Courses</a>
 
 ---
 
+# Credits for AP Specific Courses
 Courses Available, unique to AP
 - CSE2950: CSE Intermediate Practicum
 - CSE3950: CSE Advanced Practicum
