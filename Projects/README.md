@@ -6,8 +6,8 @@ Various Types of Projects through Computer Science Courses
 Introduction to Rapid Prototyping (Google for Entrepreneurs : Rapid Prototyping 1 of 3: Sketching & Paper Prototyping): https://www.youtube.com/watch?v=JMjozqJS44M&feature=youtu.be
 
 ## Single Iteration: each iteration will communicate ...
-- My Question? <a href="">Click Here</a>
-- Paper and Pencil Prototyping, <a herf="">Click Here</a>
+- My Question? <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects#what-is-my-question">Click Here</a>
+- Paper and Pencil Prototyping, <a herf="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects#paper-and-pencil-prototyping">Click Here</a>
   - Content: 2D Shapes, Images, Words, Actions
   - GUI: Graphical User Interface (*imaging one screen first*)
 - Using GitHub's README.md file structure and Markdown Language to create a *checklist*
@@ -15,12 +15,10 @@ Introduction to Rapid Prototyping (Google for Entrepreneurs : Rapid Prototyping 
 
 ### What is My Question?
 - Starting with the project theme ...
-
-**Imagine** the biggest, most *important* problem you can think about, right now ....
+**Imagine** the biggest, most *important* problem you can think about, right now ...
 - "What am I trying to solve?"
-
-**Describe** it to a friend ...
-**Write** a few notes about what you described.
+- **Describe** it to a friend ...
+- **Write** a few notes about what you described ... 
 *The more detailed the better.*
 
 **Summarize** this problem in a question ... *something you will figure the answer out for* ...
