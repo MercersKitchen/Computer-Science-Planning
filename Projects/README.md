@@ -18,7 +18,7 @@ Introduction to Rapid Prototyping (Google for Entrepreneurs : Rapid Prototyping 
 **Imagine** the biggest, most *important* problem you can think about, right now ...
 - "What am I trying to solve?"
 - **Describe** it to a friend ...
-- **Write** a few notes about what you described ... 
+- **Write** a few notes about what you described ...
 *The more detailed the better.*
 
 **Summarize** this problem in a question ... *something you will figure the answer out for* ...
@@ -37,7 +37,15 @@ CAUTION: all design stages have design time limits and some design stages are be
 
 ---
 
-# Introduction to Algorithms, Flow Chart Symbols
+# Introduction to Algorithms
+- Your Prototype should have a map of what happens when ...
+  - Button Press
+  - Time elapses
+  - Keyboard Press
+
+- Planning these ideas will help with modular programming later
+
+## Flow Chart Symbols
 - Oval: start or end of program
   Include Language Specific Lines of Code (buttons, exit, quit, etc.)
 - Parallelogram: input or output of data, text
@@ -46,14 +54,17 @@ CAUTION: all design stages have design time limits and some design stages are be
 - Arrow: shows relationships between other shapes
   Represents flow of information and/or logical path of code
   Shows iterations (FOR or WHILE Loops, decision at beginning or end)
+
+### Reminders
 - Best to use paper and pencil for this
-  Take images, add reasons why, etc.
-  ?Use a snipping tools to help with writing responses in digital portfolio?
-  Also create case studies
-- Online Tools
-  Raptor (raptor.martincarlisle.com)
-  Online Flowchart Maker (draw.io): share via GitHub, Drive, etc.
-  MindMeister (mindmeister.com)
-  Padlet (padlet.com)
+- Take images, add reasons why, etc.
+- Use a snipping tools to help with writing responses in digital portfolio?
+- Also create case studies
+- Online Tools examples ...
+  - Caution: paper and pencil is a lot faster, learning digital design tools will use limited classroom time
+  - Raptor (raptor.martincarlisle.com)
+  - Online Flowchart Maker (draw.io): share via GitHub, Drive, etc.
+  - MindMeister (mindmeister.com)
+  - Padlet (padlet.com)
 
 ---
