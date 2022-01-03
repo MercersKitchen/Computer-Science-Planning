@@ -1,14 +1,3 @@
-Introduction
-- GitHub & HTML
-- HTML and inline CSS
-Intermediate
-- CSS Files
-- JavaScript
-
-Modern Website Coding to Explore
-PWA
-Chrome Extensions
-
 CSE1210 Client-side Scripting 1 (CCS1)
 CSE1220 Client-side Scripting 2 (CCS2)
 CSE2210 Client-side Scripting 3 (CCS3)
