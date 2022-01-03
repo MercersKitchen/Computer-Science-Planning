@@ -30,9 +30,9 @@ More Information</a>
 - Teacher: answering questions, presenting some materials, scheduling time through time consuming projects
 
 Final Exit Slip: "What do you want to accomplish this semester?"
-- Brainstorming, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day#first-day-algorithms-or-design-of-main-project">See Notes Below</a>
 - Tell Mr. Mercer so I can see if it can be worked into the course
 - Ensure this is in your Project Portfolio on GitHub
+- Always space for you to work on your own project using lessons learned in the course
 
 Clubs and Teams: Which Club or Team are you interested in (see Mr. Mercer for more details)
 - Club Day is ...
