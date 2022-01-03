@@ -11,17 +11,11 @@ Intended for Teachers: Text Documents and Supporting Documents to begin imaginin
 - Curriculum Documents also from College Board's Advanced Placement: Computer Science Principles & Computer Pathways
   - See Folder AP CSA CSP
 
-**Organization of Outcomes**: to facilitate industry-level project-based learning
+**Organization of Outcomes**: to facilitate industry-level, project-based learning
+- See Folder ABE CSE
 - "Thinking Like a Professional Developer": for example: web developer, production software developer for apps, etc.
+  - Note: Develop Linked In Account for Part Time Jobs and Summer Internships
 - Sections: Theory & Concepts, Algorithm, Data & Data Structures, and Coding (Algorithm Translation)
-- Presumes an Order of Courses; and, which courses to include
-- Illustrates vocabulary, concepts, etc.
-- Guides vertical teaming of different courses
-- Note: review information given first, then level-appropriate information
-
-Note: Python is available through Cisco Academy at https://www.netacad.com/group/resources/programming-python/1.0
-- It is vendor neutral
-- Link from Gerald: https://docs.google.com/document/d/1g7jRLbdv7Hc6KblVsgllg6FfGhMAcfKlhYynjqreNm0/edit?ts=5d07dc42
 
 ## Repository Sections (Pathways)
 1. Curriculum-level courses from Alberta Education's Computer Science Education within Career and Technology Studies Program of Studies
