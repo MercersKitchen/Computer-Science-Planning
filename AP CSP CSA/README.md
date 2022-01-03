@@ -3,7 +3,10 @@ Intended for Teachers: Planning and Documents
 ---
 
 # Quick Links
-- <a href="">Credits for AP Specific Courses</a>
+- <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/AP%20CSP%20CSA#credits-for-ap-specific-courses">
+Credits for AP Specific Courses</a>
+- <a href="https://github.com/MercersKitchen/AP-CS">Click Here for AP Repository</a>
+- <a href="">Click Here when Available</a>
 
 ---
 
@@ -12,20 +15,9 @@ Courses Available, unique to AP
 - CSE2950: CSE Intermediate Practicum
 - CSE3950: CSE Advanced Practicum
 
+# Hyperlinks for AP CSP & CSA
 Starting with ABE Curriculum Map Documents, additional information is added specific to
 - CSP Curriculum
 - CSA Curriculum
 
-CSP Curriculum:
-- Digital Portfolio Section (CSP-D)
-- Exam Section (CSP-E)
-
-CSA Curriculum, Exam-based (CSA)
-
----
-
-Gradebook Example Categories
-
-Practicum Work
-- Algorithms
-- Translation to Code
+See: https://github.com/MercersKitchen/AP-CS
