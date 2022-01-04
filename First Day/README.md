@@ -132,6 +132,25 @@ Note: Private Google Drive Folder for Images and Original PowerPoint: https://dr
 
 ---
 
+Basic Information from Processing-IDE
+- *Ensure following is included in IDE*
+- File / Examples: Example Code organized by Basics, Topics, Demos, and from all installed libraries (minim or sound)
+- Sketch / Import Library / Add Library / Contribution Manager: Adding Examples like ...
+  - Click the UPDATE Button for most current versions
+  - Getting Started with Processing, 2nd Edition
+  - Learning Processing, 2nd Edition
+  - Processing for Android, 1st Edition
+  - Processing Handbook, 2nd Edition
+  - The Nature of Code
+
+- Configuring the IDE: go to https://github.com/MercersKitchen/Device-Sideloading-Android
+
+Final Projects will be hosted in GitHub using the Releases TAB
+- Executable as a WINDOWS | Mac | Linux File
+- Executable as an Android Side Load with associated driver specifics
+
+---
+
 ## Making a Culture of Creating and Problem Solving
 Creating a Community, Thoughts from a Video ... **UNESCO Style**
 - https://www.youtube.com/watch?reload=9&v=tyaEQEmt5ls

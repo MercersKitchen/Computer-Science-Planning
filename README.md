@@ -31,3 +31,22 @@ Link: Course Outlines, <a href="https://drive.google.com/drive/folders/1pEr3PWr1
 - Note: these are Mr. Mercer's Course Outlines
 
 ---
+
+# Bibliography
+
+*To Be Completed*
+
+From Programming with Mosh
+- The Complete Python Programming Course: http://bit.ly/35BLHHP
+- The Ultimate Java Series: http://bit.ly/2tKoy8C
+- The Ultimate Full-stack JavaScript Developer: http://bit.ly/2Ncpc5F
+- JavaScript Basics for Beginners: http://bit.ly/2KZea52
+- Python Tutorial for Beginners: https://youtu.be/_uQrJ0TkZlc
+- Java Tutorial for Beginners: https://youtu.be/eIrMbAQSU34
+- JavaScript Tutorial for Beginners: https://youtu.be/W6NZfCO5SIk
+- Java Tutorial for Beginners [2019]: https://www.youtube.com/watch?v=eIrMbAQSU34&feature=youtu.be
+
+https://www.educba.com/signup/
+
+New Course: Data Structures and Algorithms Course
+https://www.youtube.com/watch?v=XBoZPCgdnm8&feature=youtu.be&x=1
