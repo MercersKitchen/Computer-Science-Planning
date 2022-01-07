@@ -88,6 +88,7 @@ CSE1110 - Structured Programming 1
   - Quit Button Case Study Diagram with coordinates
 - HEAP Sheets: Reading and Following of HEAP Sheets, Variables, etc. on a flat level
   - Not included when in CS30
+  - Difference between local and global variable tracking (IF, FOR, WHILE, setup(), etc.)
 - Documentation & Syntax
   - Internal: comments
   - External: ReadMe.txt, ReadMe.md

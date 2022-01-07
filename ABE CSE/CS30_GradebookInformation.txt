@@ -251,6 +251,27 @@ See U:\Files\Courses\ComputerScienceStream\Websites_Main_Project
 
 Optional course for CSE3130: Object-orientated Programming 2
 CSE3910: CSE Project D
+- Purpose: workflow of project management, individually monitored and communicated prior to building
+  - Identify the project
+	- Prepare a plan
+	- Clarify Purposes
+	- Defining deliverables
+	- Specifying timelines
+	- Explaining terminology, tools, and processes
+	- Defining resources, materials, costs
+	- Identify assessment standards, attaining metrics
+	- Present proposal, obtain necessary approvals
+- Student Considerations
+  - Complete project and performance as outlined and planned
+	- Monitor project and performance, making and recording necessary adjustments
+	- Present project and performance, indicating outcomes attained and relationship of outcomes to goals originally set
+	- Evaluate project and performance indicating the processes and strategies used
+	- Make recommendations on how the project and performance could be improved
+Assignment Titles for Gradebook
+- Project Planning
+- Anecdotal Grading, Testing & Debugging
+- Final Project Experience & Code  
+
 
 CSE3020: Computer Science 4
 •	Needs CSE3010: Computer Science 3
