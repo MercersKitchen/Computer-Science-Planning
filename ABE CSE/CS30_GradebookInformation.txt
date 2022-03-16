@@ -47,13 +47,16 @@ Note: AP CSP & AP CSA is included in another section
 
 CSE3010 - Computer Science 3
 - Developer Tools
-- Algorithms (i.e. Groceries, Pong)
-  - Case Study
+  - Examples
+    - Processing.Java: Export (getting Jar Files)
+    - GitHub: creating a release (including Jar Files and Uploading to GitHub or Google Drive)
+- Algorithms (i.e. Pong)
+  - Case Study: ReadMe File Notes
   - General Behavioral Algorithms
 - Reviewing Pong
-  - Algorithms for Calculation
-  - Accumulation
-  - Oscillating Geometric Sequences
+  - Algorithms for Calculation (simple, mine)
+  - Accumulation (scoreboard)
+  - Oscillating Geometric Sequences (bounce or -1)
   - Linear Program
   - Procedural Program
 - ??
