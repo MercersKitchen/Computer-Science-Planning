@@ -143,6 +143,7 @@ Class Design and Structure
 CSE3130 - Object-Orientated Programming 2 (Needs CSE3120: Object-oriented Programming 1)
 - Pong Class Hierarchy
 - Pong Debug & Iteration
+- Major Project
 
 Additional Reminders about Object-Orientated Programming 2
   Purpose, adding to OOP1
@@ -199,7 +200,7 @@ Additional Reminders about Iterative Algorithm 1
 
 **UNDER CONSTRUCTION REMINDER**
 
-CSE3210 - Server-side Scripting 1
+•	CSE3210 - Server-side Scripting 1
 •	CSE2210: Client-side Scripting 3
 •	CSE2110: Procedural Programming 1
 •	CSE2120: Data Structures 1
@@ -270,10 +271,11 @@ CSE3910: CSE Project D
 	- Present project and performance, indicating outcomes attained and relationship of outcomes to goals originally set
 	- Evaluate project and performance indicating the processes and strategies used
 	- Make recommendations on how the project and performance could be improved
+
 Assignment Titles for Gradebook
 - Project Planning
 - Anecdotal Grading, Testing & Debugging
-- Final Project Experience & Code  
+- Final Project Experience & Code
 
 
 CSE3020: Computer Science 4
