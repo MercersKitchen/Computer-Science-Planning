@@ -1,16 +1,4 @@
-CS 10 Courses
-- Courses that continue are noted
-- Prerequisites are also notes
-- List Curriculum Reference abbreviations
-- Projects and Rubrics based on flowing (Email Mr. Mercer for more details)
-  "Once an outcome is listed, it's expected to continue as appropriate."
-
-Main Project and Boundaries (Processing-Java)
-**In-Construction**
-Quit Button Design, Template for Other GUI Features
-GUI Ratios - communication with device before rendering
-Chess Board - Basic GUI Design
-Music Player - Main Project, option to Android Side-load
+CS 10 Courses, Updated 20220500
 
 Theory, Concepts
 - (CP1) Computer Science vs. Computer Engineering (future vs. present)

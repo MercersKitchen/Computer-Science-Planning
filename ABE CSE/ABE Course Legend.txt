@@ -1,12 +1,12 @@
 Main Courses and Interpreted Order
 CSE1010 Computer Science 1 (CS1)
-CSE1110 Structured Programming 1 (CP1)
-CSE1120 Structured Programming 2 (CP2)
-CSE2010 Computer Science 2 (SC2)
+CSE1110 Structured Programming 1 (SP1)
+CSE1120 Structured Programming 2 (SP2)
+CSE2010 Computer Science 2 (CS2)
 CSE2110 Procedural Programming (PP1)
 CSE2120 Data Structures 1 (DS1)
 CSE2130 File and File Structures 1 (F&FS1)
-CSE3010 Computer Science 3 (CP3)
+CSE3010 Computer Science 3 (CS3)
 CSE3110 Iterative Algorithm 1 (IA1)
 CSE3120 Object Orientated Programming 1 (OOP1)
 CSE3130 Object Orientated Programming 2 (OOP2)
@@ -17,9 +17,9 @@ CSE3330 Dynamic Data Structures 2 (DDS2)
 CSE3340 Dynamic Data Structures 3 (DDS3)
 
 Websites Order
-CSE1210 Client-side Scripting 1 (CCS1)
-CSE1220 Client-side Scripting 2 (CCS2)
-CSE2210 Client-side Scripting 3 (CCS3)
+CSE1210 Client-side Scripting 1 (CSS1)
+CSE1220 Client-side Scripting 2 (CSS2)
+CSE2210 Client-side Scripting 3 (CSS3)
 CSE3210 Server-side Scripting 1 (SSS1)
 
 Project Courses - Same outcomes for different levels
@@ -50,5 +50,5 @@ Notes:
 - Practicum courses and other work experience courses require fit into main
   courses
 
-Caution: Websites, Robotic Programming, and Second Language need to fit within 
+Caution: Websites, Robotic Programming, and Second Language need to fit within
 Main Courses Order

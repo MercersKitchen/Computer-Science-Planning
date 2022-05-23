@@ -1,4 +1,6 @@
-﻿Information is Unique to Alberta Education and Schools in Alberta
+﻿Information unique to Alberta Education and Schools in Alberta
+
+Updated 20220500
 
 CSE1010 - Computer Science 1
   - Algorithms, Block Diagrams
@@ -18,10 +20,6 @@ Purposes: all end in Presentation to Industry and/or Post Secondary
 - Build simple Android Apps with Java through the Processing IDE
 - Option: Using a Raspberry Pi to explore hardware of a computer, Physical Computing
 
-2018-2019 School Year
-
-Main Assignment Titles Per Course, for gradebook listings (Unique to ABE)
-
 General Assignment Titles for Individual Study Projects
 - Assignments
 - Anecdotal Records, Testing, and Debugging
@@ -33,6 +31,7 @@ CSE1010 - Computer Science 1
 - Algorithm Introduction: Case Studies and To Do Lists (ReadMe.md Markdown & Simple HTML)
 - Using Algorithms: Data Flowcharts, Pseudocode, Input-Output-Processing
 - Software Development: "Iterative and Incremental" (See AP CSP), "Waterfall"
+  - Demonstrated in Website Promotion Project for updated prototyping
 - Essential Algorithms (i.e. like a calculator in the console):
   - Accumulation (running total),
   - Determining a Mean (central tendency, not median, or mode without sorting),
@@ -103,13 +102,13 @@ CSE1110 - Structured Programming 1
   - Run-time Errors: in console or Rendering errors
 - GUI Introductions: 2D Shapes, Layering & Measles
   - Quit Button & Color
-  - Happy Face (standard, size(), excellence, fullScreen(), assessment using 
+  - Happy Face (standard, size(), excellence, fullScreen(), assessment using
 		Display Geometry and formulae)
   - Text
   - Images
 - Drawing & Music Player App: Case Study & GUI (Including Free Use Music)
 
-- Note: 3 by 3 Home Screen summarizes prototyping, buttons, and interactions 
+- Note: 3 by 3 Home Screen summarizes prototyping, buttons, and interactions
   2D Shapes
   Random Color
   Text
@@ -165,7 +164,7 @@ CSE1910 - CSE Project A
 Assignment Titles for Gradebook
 - Project Planning
 - Anecdotal Grading, Testing & Debugging
-- Final Project Experience & Code  
+- Final Project Experience & Code
 
 Project Listings and Expectations Summary
 
