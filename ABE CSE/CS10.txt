@@ -1,31 +1,31 @@
 CS 10 Courses, Updated 20220500
 
 Theory, Concepts
-- (CP1) Computer Science vs. Computer Engineering (future vs. present)
-- (CP1) Software development: iterative and incremental
-- (CP1) Software Development: waterfall
-- (CP1) Tools for Systems Development Life Cycle Model
+- (CS1) Computer Science vs. Computer Engineering (future vs. present)
+- (CS1) Software development: iterative and incremental
+- (CD1) Software Development: waterfall
+- (CS1) Tools for Systems Development Life Cycle Model
   Data Flowcharts
   Pseudocode
   Input-Output-Processing
-- (CP1) Control Structures
+- (CS1) Control Structures
   Sequential
   Decision
   Iterative
-- (CP1) Data Representation
+- (CS1) Data Representation
   Binary
   Hexadecimal
   Standard or Primitive
   Data Storage models (address, value | shelf, item)
-- (CP1) Architecture of Von Neumann Machine
+- (CS1) Architecture of Von Neumann Machine
   Block Diagram of flow
   Typical devices associated with each part
   Flow of Data
 - (SP1) Introduction to development environments
   IDE: editor, interpreter & syntax, command line or console, execution
 
-Algorithm
-- (CP1) Essential
+Algorithm (as an interest in Computer Science, CS1)
+- (CS1) Essential
   Accumulation (running total)
   Determining a Mean (central tendency, not median, or mode without sorting)
   Maximums and Minimums

@@ -1,6 +1,6 @@
-CSE1210 Client-side Scripting 1 (CCS1)
-CSE1220 Client-side Scripting 2 (CCS2)
-CSE2210 Client-side Scripting 3 (CCS3)
+CSE1210 Client-side Scripting 1 (CSS1)
+CSE1220 Client-side Scripting 2 (CSS2)
+CSE2210 Client-side Scripting 3 (CSS3)
 CSE3210 Server-side Scripting 1 (SSS1) - needs reviewing
 
 Theory, Concepts
@@ -30,7 +30,7 @@ Theory, Concepts
 	(note: https://www.cloudns.net/blog/10-most-used-nslookup-commands/)
   Web Documents Design: hypertext (HTTP & HTTPS)
 - (CSS2) Locally Hosted Websites
-- (CCS2) Explore static and dynamic webpages, introduce version control GitHub
+- (CSS2) Explore static and dynamic webpages, introduce version control GitHub
   Use Internal (beginning, end, & inline) and External Documentation (.md & .txt)
   Use Case Study Analysis with Single Page Websites illustrating User Experience
   Use Case Study Analysis with hypertext to create abstract understanding of
@@ -38,14 +38,14 @@ Theory, Concepts
     - Child Pages (CSS-based)
   Introduce Concept of Information-based parent-child pages with
     abstract CSS groupings
-- (CCS2) Use decomposition design and variable naming abstraction to CSS Files
+- (CSS2) Use decomposition design and variable naming abstraction to CSS Files
   Classes
   IDs
 - (CSS3) GitHub Hosted Websites, Raspberry Pi Hosted Websites
-- (CCS3) Creating personal libraries of HTML5 Scripts for intended purposes
+- (CSS3) Creating personal libraries of HTML5 Scripts for intended purposes
   Internet Found and Evaluated, note about incorporating into website project
   Personally written for website project
-- (CCS3) Purposes for personal Libraries
+- (CSS3) Purposes for personal Libraries
   Code reuse: procedural and objects
   Security: data hiding and information protection
   Readability
@@ -55,7 +55,8 @@ Theory, Concepts
   Data-bases
 
 Algorithm
-- (CCS2) Introduce Core JavaScript Algorithms, outputting to Browser Console
+- (CSS1) Compare and contrast markup with scripting
+- (CSS2) Introduce Core JavaScript Algorithms, outputting to Browser Console
   Sequencing
   Selection
   Iteration
@@ -66,35 +67,35 @@ Algorithm
 - (***) Introduce CSS Variables and algorithmic structure for styling websites
 
 Data and Data Structures
-- (CCS2) HTML Forms & Data Flowchart Analysis
-- (CCS2) Primitive Data Structures in JavaScript
+- (CSS2) HTML Forms & Data Flowchart Analysis
+- (CSS2) Primitive Data Structures in JavaScript
   Variables and Constants
   Assignment, arithmetical, relational, Boolean, concatenation, and string
     construction operators
-- (CCS3) Arrays and Rest Operator
+- (CSS3) Arrays and Rest Operator
 - (***) Introduce CSS Variables and other structures for advanced styling effects
 
 Coding (Algorithm Translation)
-- (CCS1) Use Markup Languages
+- (CSS1) Use Markup Languages
   GitHub ReadMe.md Markup with HTML
   HTML within Browser (version control by GitHub)
-- (CCS1) Organization of Markup
+- (CSS1) Organization of Markup
   determine and outline the intent of the document
   organize the document into appropriate subsections or pages
   describe the content to be carried on each page
   illustrate how the content is to be displayed
   identify the locations of the required anchors and links
-- (CCS1) Document Design to hypertext using tags, attributes, and hyperlinks
+- (CSS1) Document Design to hypertext using tags, attributes, and hyperlinks
   mark off the various parts of the document
   display text and visual data in a variety of formats
   create specialized formats such as lists, tables and frames
   create both textual and image-based hyperlinks (single images & mapped images)
-- (CCS1) Use style codes inline with HTML
-- (CCS1) Enrichment: java-script writing HTML
-- (CCS2) Use CSS to add style to HTML
+- (CSS1) Use style codes inline with HTML
+- (CSS1) Enrichment: java-script writing HTML
+- (CSS2) Use CSS to add style to HTML
   Embedded
   Separate Files
-- (CCS2) Use HTML Forms
+- (CSS2) Use HTML Forms
   Explore soliciting information
   Determine content rendering
   Determine input managing, subsequent interaction

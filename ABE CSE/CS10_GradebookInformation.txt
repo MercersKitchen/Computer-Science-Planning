@@ -39,7 +39,7 @@ CSE1010 - Computer Science 1
 - Using Control Structures: Sequential, Decision, Iterative
 
 CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
-- Exploring Internet Architecture
+- Exploring Internet Architecture (Classroom Lesson)
 - Developer Tools Integration
   - Using multiple windows
   - Atom
