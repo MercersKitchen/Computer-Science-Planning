@@ -27,7 +27,7 @@ General Assignment Titles for Individual Study Projects
 - Major Project
 
 CSE1010 - Computer Science 1
-- Developer Tools: Using Email, Using GitHub, Using Educational Tools like Google Classroom
+- Developer Tools: Using Email, Using GitHub, Using Educational Tools like Google Classroom (Computer Environment Setup)
 - Algorithm Introduction: Case Studies and To Do Lists (ReadMe.md Markdown & Simple HTML)
 - Using Algorithms: Data Flowcharts, Pseudocode, Input-Output-Processing
 - Software Development: "Iterative and Incremental" (See AP CSP), "Waterfall"
@@ -39,13 +39,8 @@ CSE1010 - Computer Science 1
 - Using Control Structures: Sequential, Decision, Iterative
 
 CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
-- Exploring Internet Architecture (Classroom Lesson)
-- Developer Tools Integration
-  - Using multiple windows
-  - Atom
-  - Browser and Settings
-  - Rendering
-  - GitHub Interactions
+- Developer Tools Integration & Exploring Internet Architecture (Classroom Lesson, see notes)
+  - See: Internet-Architecture-Development-Tools
 - Static Webpages: HTML and GitHub Markdown Lessons and Assignments
   - Document Design: hypertext using tags, attributes, and hyperlinks (including downloading documents)
     - Introduction to Navigation Emphasis: 2-clicks, Browser Navigation (In Tab, New Tab)
@@ -73,12 +68,7 @@ CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
   - Images
   - Sub & Super Script Tags
   - Note: other HTML Tags mixed into these child pages (see HTML Summary)
-- Who Am I Webpage Project
-  (Presenting one's Digital Presence of "Global" Perspective or "UNESCO" Perspective)
-  - See Rubric
-- Essay Webpage Project (Explore Meta-Literacy of essay (English and Social))
-  - See Rubric
-- OPTIONAL: Coming Soon Page, "Under Construction", with Webpage Counter
+- Promotions Website: Drawing Program, Music App,
 
 CSE1110 - Structured Programming 1
 - Algorithms for GUI (Ratios for Geometry Feedback)
