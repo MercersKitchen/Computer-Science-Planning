@@ -59,7 +59,7 @@ CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
       - GIFs
     - Use style codes inline with HTML
     - Enrichment: java-script writing HTML
-- HTML Lessons Website (index to childPages, childPages above)
+- HTML Lessons Website (index to childPages/template.html)
   - childPage Template
   - MetaData
   - Headings & Paragraph Tags
@@ -68,7 +68,8 @@ CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
   - Images
   - Sub & Super Script Tags
   - Note: other HTML Tags mixed into these child pages (see HTML Summary)
-- Promotions Website: Drawing Program, Music App,
+  - Flexbox for dividing up content 
+- Promotions Website: Drawing Program, Music App
 
 CSE1110 - Structured Programming 1
 - Algorithms for GUI (Ratios for Geometry Feedback)
