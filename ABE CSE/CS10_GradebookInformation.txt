@@ -74,8 +74,9 @@ CSE1110 - Structured Programming 1
 - Algorithms for GUI (Ratios for Geometry Feedback)
   - Paper Folding
   - Happy Face Case Study with Diagram and coordinates
-  - Quit Button Case Study Diagram with coordinates
+  - Display Geometry Code (that can become repeated)
 - HEAP Sheets: Reading and Following of HEAP Sheets, Variables, etc. on a flat level
+  - Summaries in population()
   - Not included when in CS30
   - Difference between local and global variable tracking (IF, FOR, WHILE, setup(), etc.)
 - Documentation & Syntax
@@ -91,7 +92,8 @@ CSE1110 - Structured Programming 1
   - Logic Errors: in various places like debugger, console, or canvas
   - Run-time Errors: in console or Rendering errors
 - GUI Introductions: 2D Shapes, Layering & Measles
-  - Quit Button & Color
+  - Example Buttons (including QUIT Button)
+  Quit Button & Color
   - Happy Face (standard, size(), excellence, fullScreen(), assessment using
 		Display Geometry and formulae)
   - Text
