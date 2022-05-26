@@ -92,12 +92,10 @@ CSE1110 - Structured Programming 1
   - Logic Errors: in various places like debugger, console, or canvas
   - Run-time Errors: in console or Rendering errors
 - GUI Introductions: 2D Shapes, Layering & Measles
+  - Display Geometry Code (that can be copied)
   - Example Buttons (including QUIT Button)
-  Quit Button & Color
-  - Happy Face (standard, size(), excellence, fullScreen(), assessment using
-		Display Geometry and formulae)
-  - Text
-  - Images
+  - Measles Completed Program
+  - Including text, images, and additional 2D shapes
 - Drawing & Music Player App: Case Study & GUI (Including Free Use Music)
 
 - Note: 3 by 3 Home Screen summarizes prototyping, buttons, and interactions
