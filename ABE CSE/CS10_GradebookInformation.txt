@@ -33,6 +33,7 @@ CSE1010 - Computer Science 1
 - Software Development: "Iterative and Incremental" (See AP CSP), "Waterfall"
   - Demonstrated in Website Promotion Project for updated prototyping
 - Essential Algorithms (i.e. like a calculator in the console):
+  - Basic operators and assignment operators, ratios in CANVAS for display independant coding
   - Accumulation (running total),
   - Determining a Mean (central tendency, not median, or mode without sorting),
   - Maximums and Minimums
