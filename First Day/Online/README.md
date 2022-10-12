@@ -45,6 +45,7 @@ Google Classroom Question: "What do you want to accomplish this semester?"
 - Google Classroom for Daily Learning Objectives, links and daily reminders
 - Using the same TABs everyday in Chrome: "Where I left off" Setting
 - GitHub: Following Mr. Mercer through Mercer's Kitchen, Personal Account, Introduction to Submitting Assignments to GitHub Classroom (Submit Hello Repository on the First Day)
+  - CAUTION: if you are unsure about using your name, use a psudonum and a single-use email address. See Mr. Mercer about answering any other questions in GitHub to access an account.
   - "Introduction to Where do Files Live"
   - C-Drive (FDrive) / Documents / GitHub / Local Copy
   - Browser / GitHub / Rendering of Server Copy
