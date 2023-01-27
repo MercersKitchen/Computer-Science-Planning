@@ -15,6 +15,9 @@ The farm of the future is staffed by robots (2 minutes)</a>
 Mr. Mercer's Most Recent "Computers" Video, why computers are important, <a href="https://www.youtube.com/watch?v=UgUG0w4TgnY">
 Being in a connected world</a>
 
+Mr. Mercer's Most Thought Provoking Movie, while we are getting workstations, <a href="https://www.youtube.com/watch?v=aV_IZye14vs">
+Do you trust this computer</a>
+
 ---
 
 **Need a Workstation before reviewing the Course Outline.**
