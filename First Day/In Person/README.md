@@ -1,13 +1,25 @@
 # First Day
 First Day or Few Days of Introduction Ideas
 
-**Needs to be Updated, after 20220210**
+---
 
-Mr. Mercer's Most Recent Interesting Video, <a href="https://globalnews.ca/news/5824703/farm-future-agriculture-tech-canada/">
+**Needs to be Updated, after 20230630**
+
+---
+
+## Introductions: when getting a work station
+
+Mr. Mercer's Most Recent Interesting Video Short Video, <a href="https://globalnews.ca/news/5824703/farm-future-agriculture-tech-canada/">
 The farm of the future is staffed by robots (2 minutes)</a>
-- What we try to do
+
+Mr. Mercer's Most Recent "Computers" Video, why computers are important, <a href="https://www.youtube.com/watch?v=UgUG0w4TgnY">
+Being in a connected world</a>
+
+---
 
 **Need a Workstation before reviewing the Course Outline.**
+
+---
 
 *ALL Links accessed 20220103*
 
