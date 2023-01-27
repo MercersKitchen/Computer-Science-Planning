@@ -53,7 +53,7 @@ Clubs and Teams: Which Club or Team are you interested in (see Mr. Mercer for mo
 - Club Day is ...
 
 Icebreaker Game: Pin the Tail on the "Geek"
-- Geeks are all different shapes and sizes, usually interested in some type of technology
+- Geeks are all different shapes and sizes, usually interested in something, doesn't have to be technology
 - Answer on a Sticky Note, or paper: I am geekie about ...
 - Answer on another Sticky Note, or paper: I want to be geekie about ...
 - Fold each piece of paper up so the writing cannot be seen
@@ -64,7 +64,7 @@ Icebreaker Game: Pin the Tail on the "Geek"
 - Purpose: answer to yourself, is this piece of paper correct, does the person who gave me this paper know me
 - Purpose: what is my first impression of people
 - Reflection as large group: giver of piece of paper share reason paper was given (issue of first impressions) to verify if first impression was true
-  - CAUITION: acceptable "giving reason" can because there was no one else or other non-first-impression-reasons
+  - CAUTION: acceptable "giving reason" can because there was no one else or other non-first-impression-reasons
 - Reflection: are first impressions valid; brainstorm main societal uses of first impressions
 
 ---
