@@ -95,10 +95,11 @@ Note: Private Google Drive Folder for Images and Original PowerPoint: https://dr
 
 ### Downloads to Start (will take some time to complete)
 - Download to My Downloads (networked file, not computer specific)
+- Download and install Chrome
 - Processing: https://processing.org/ (most current stable version only)
   - Install to C-Drive Parent Folder, then arrange short cuts
 - Github Desktop: https://desktop.github.com/
-- Atom: https://atom.io/
+- Visual Studio Code: https://code.visualstudio.com/download
 - See KeePass, https://keepass.info/
   - See Additional Notes from Mr. Mercer, https://docs.google.com/document/d/1ViZ35ustozP5UmbkJN4TMAMGDstfx_VH2XXC0lSr_QA/edit?usp=sharing
 
