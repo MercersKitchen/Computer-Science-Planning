@@ -79,7 +79,7 @@ Setting up a workstation: Laptop, Monitors, OS Settings & Configuration, Mouse, 
   - Movement problem of figuring out work flow in the classroom: Issue of tripping hazards
 - Benefit: no student ever has equipment that does not work without knowing what to fix
 - Mention issue of sticky hands on laptop keyboards and trackpads vs. spring-action keyboards and USB-mice
-- See YouTube Video: https://youtu.be/Bw1hj3s-8S0
+- See YouTube Video, an old classroom space but still appropriate: https://youtu.be/Bw1hj3s-8S0
 
 Setting up Multiple Monitors: see Display Settings (Right-click on desktop)
 
