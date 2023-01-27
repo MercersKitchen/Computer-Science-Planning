@@ -32,7 +32,7 @@ Do you trust this computer</a>
 - Getting a Computer Number, must find it, must report any issues, might be given a backup computer if yours becomes broken
   - Responsible for a computer, report all issues
   - Multiple ways of getting information about who was using which computer
-- Turning on the Computer with Multiple Monitors: <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day#introduction-to-online-tools-used-in-mercers-kitchen-for-language-agnostic-computer-science-instruction">
+- Turning on the Computer with Multiple Monitors: <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day/In%20Person#introduction-to-online-tools-used-in-mercers-kitchen-for-language-agnostic-computer-science-instruction">
 Introduction to Online Tools</a>
 - Review BYOD Repository and Installation Instructions for all software this year (Answers Questions for "Who Brings their Own Computers")
   - Note: if you want Cyber Security, you have your own computer, and you are *comfortable bringing it to school*, you should :)
