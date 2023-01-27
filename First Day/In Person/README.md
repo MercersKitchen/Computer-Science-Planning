@@ -38,7 +38,7 @@ Introduction to Online Tools</a>
   - Note: if you want Cyber Security, you have your own computer, and you are *comfortable bringing it to school*, you should :)
 - Reviewing Course Outline (See Google Drive for PDF)
 
-Making a Culture of Creating and Problem Solving, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day#making-a-culture-of-creating-and-problem-solving">
+Making a Culture of Creating and Problem Solving, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day/In%20Person#making-a-culture-of-creating-and-problem-solving">
 More Information</a>
 - If you knew how to create it, it would not be a problem ... and you have multiple guides
 - Computer and Online Materials
