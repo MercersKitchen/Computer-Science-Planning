@@ -37,8 +37,6 @@ Introduction to Online Tools</a>
 - Review BYOD Repository and Installation Instructions for all software this year (Answers Questions for "Who Brings their Own Computers")
   - Note: if you want Cyber Security, you have your own computer, and you are *comfortable bringing it to school*, you should :)
 - Reviewing Course Outline (See Google Drive for PDF)
-- Overview of major projects (similar to goal setting, start with "what do you want to accomplish in this course")
-  - Main Project: Beginning a Portfolio in GitHub for Edmonton Regional Science Fair, CS Pitches, or QE Open House and other venues
 
 Making a Culture of Creating and Problem Solving, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day#making-a-culture-of-creating-and-problem-solving">
 More Information</a>
