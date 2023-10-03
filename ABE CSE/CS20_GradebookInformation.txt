@@ -155,6 +155,7 @@ CSE2210 - Client-Side Scripting 3 (HTML5)
   "post" conditions, program control mechanisms, and data processing
 
 CSE2110 - Procedural Programming 1 (Needs CSE1120: Structured Programming 2)
+- Review of CS10, Timer App
 - Case Study
 - Prototyping Procedures (no return)
 - Prototyping Functions (return)
