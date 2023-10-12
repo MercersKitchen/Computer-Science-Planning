@@ -162,9 +162,10 @@ CSE2110 - Procedural Programming 1 (Needs CSE1120: Structured Programming 2)
   - Calculators
 - App Engine Development
   - Incorporating Procedures and Functions
+  - Library Introduction
 
 CSE2120 - Data Structures 1 (Needs CSE2110: Procedural Programming 1)
-- Introduction to Arrays
+- Array Introduction
   - If in CS30, using Arrays in Pong
   - Single Arrays
   - Double Arrays (tables, esp. in File IO)
