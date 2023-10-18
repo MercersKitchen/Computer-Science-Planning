@@ -82,6 +82,7 @@ CSE1110 - Structured Programming 1
   - Not included when in CS30
   - Difference between local and global variable tracking (IF, FOR, WHILE, setup(), etc.)
 - Documentation & Syntax
+  - Variable Names making functions readable
   - Internal: comments
   - External: ReadMe.txt, ReadMe.md
 	- Enrichment, Promotional: index.html
@@ -101,6 +102,7 @@ CSE1110 - Structured Programming 1
 - Drawing & Music Player App: Case Study & GUI (Including Free Use Music)
 
 - Note: 3 by 3 Home Screen summarizes prototyping, buttons, and interactions
+  "Telling a Story"
   2D Shapes
   Random Color
   Text

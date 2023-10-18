@@ -158,8 +158,12 @@ CSE2110 - Procedural Programming 1 (Needs CSE1120: Structured Programming 2)
 - Review of CS10, Timer App
 - Case Study
 - Prototyping Procedures (no return)
+  - Timer App
+  - Weather App
+  - Library 
 - Prototyping Functions (return)
-  - Calculators
+  - Calculators: text, images
+  - Weather App: API Calls and functions dependant of API Calls
 - App Engine Development
   - Incorporating Procedures and Functions
   - Library Introduction
