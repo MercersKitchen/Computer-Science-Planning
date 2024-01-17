@@ -11,7 +11,7 @@ CSE2210 - Client-Side Scripting 3 (HTML5)
   - Needs CSE1120: Structured Programming 2
 CSE2110 - Procedural Programming 1 (Needs CSE1120: Structured Programming 2)
 CSE2120 - Data Structures 1 (Needs CSE2110: Procedural Programming 1)
-CSE2910: CSE Project B
+CSE2910 - CSE Project B
 CSE2130 - Files and File Structures 1 (Needs CSE2120: Data Structures 1)
 
 Purposes: all end in Presentation to Industry and/or Post Secondary
