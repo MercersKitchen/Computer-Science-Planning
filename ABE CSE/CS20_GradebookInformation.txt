@@ -204,7 +204,7 @@ CSE2130 - Files and File Structures 1 (Needs CSE2120: Data Structures 1)
 - Prototyping File IO
   - End of Program
   - During Program
-- Example of Using File IO in project
+- Project: Example of Using File IO in project
   - ex. Weather App
 
 CSE2910: CSE Project B
