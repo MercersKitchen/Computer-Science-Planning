@@ -3,22 +3,63 @@ Intended for Teachers: Text Documents and Supporting Documents to begin imaginin
 
 **First Few Days a Course**: See First Day, `ReadMe.md`
 
-**Purpose**: jurisdictional & curriculum-level documents intended for project-based learning
-- See Folder ABE Curriculum
-  - CSE: intended for Computer Science Courses
-    - Note: Website Outcomes overlap with previous "Communication Technologies" Curriculum Documents for Writing Websites
-  - ELT: intended for "Physical Computing" (the coding side of robotics and physical interactions)
-    - "Where the physical can make concrete the lines of code in a robotic app"
-    - What does Physical Computing Mean: https://www.youtube.com/watch?v=gIz4x2J7i9w
-- Curriculum Level Documents called Courses in Computer Science Education of Alberta Education's Career and Technology Studies
-- Curriculum Documents also from College Board's Advanced Placement: Computer Science Principles & Computer Pathways
-  - See Folder AP CSA CSP
+**Page Flipper**: Courses & Grading 
+- INtroductory COmputer Sceince: 
+- Intermediate COmputer Sciencde: 
+- Advanced Computer Science: 
+- Advanced Placement COmputer Science: 
 
-**Organization of Outcomes**: to facilitate industry-level, project-based learning
-- See Folder ABE CSE
-- "Thinking Like a Professional Developer": for example: web developer, production software developer for apps, etc.
-  - Note: Develop Linked In Account for Part Time Jobs and Summer Internships
-- Sections: Theory & Concepts, Algorithm, Data & Data Structures, and Coding (Algorithm Translation)
+Note: Purpose is to Set Google Classroom, Google FORMs, and GitHub Integrations
+
+---
+
+# Introductory Computer Science
+
+## Porject List and Expected grading levels
+- Hosted Website for Marketplace, HTML and inline CSS taught
+  - core app
+  - customer choice of  music, sound effects, images, texts
+  - value-extra shapes, themes
+- [] (100%) Final Project (Celebration Card) for Marketplace, student's own coding through course
+- [] (100%) Drawing App, alternate final project
+  - NOTE: intro drawing code introduced only
+- [] (80-90%) Music Player, alternate final project
+  - NOTE: advanced introductory coding techniques taught
+  - developer declared functions for: "copy and paste"
+- [] (65-80%)Button Assignment - Practice Assignment with coaching
+  - What is new algorithms with visual completion
+  - Introduce Minim Library and effects ( ```.loop()``` )
+  - Introduce developer declared functions: "ease of reading and review in IDE"
+- [] (60%) Measles - Practice Assignment with teaching
+  - How ```draw()``` interacts with ```setup()```
+- [] (50%) Images, Text, Shapes: various ways ot write code
+  - What are the beginning algorithms
+  - How are variables manipulated, then used
+  - What is the list of algorithms
+    - Display checking & algorithms: size will not run, 80% max, ```fullscreen()``` will run on any display, android
+    - resizable screen is bonus - research needed
+
+NOTE: reminder about how assignments are graded and how final course grades are marked
+
+---
+
+# Intermediate Computer Science
+
+
+---
+
+# Advanced Computer Science
+
+
+---
+
+# Advanced Placement Computer Science
+
+
+
+### Ideas
+- Searching Algorithms with Cards
+
 
 ---
 
