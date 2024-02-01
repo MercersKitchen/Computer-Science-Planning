@@ -4,10 +4,10 @@ Intended for Teachers: Text Documents and Supporting Documents to begin imaginin
 **First Few Days a Course**: See First Day, `ReadMe.md`
 
 **Page Flipper**: Courses & Grading 
-- INtroductory COmputer Sceince: 
-- Intermediate COmputer Sciencde: 
-- Advanced Computer Science: 
-- Advanced Placement COmputer Science: 
+- Introductory Computer Sceince: https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Course%20Structure#introductory-computer-science
+- Intermediate Computer Sciencde: 
+- Advanced Computer Science: https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Course%20Structure#advanced-computer-science
+- Advanced Placement Computer Science: 
 
 Note: Purpose is to Set Google Classroom, Google FORMs, and GitHub Integrations
 
