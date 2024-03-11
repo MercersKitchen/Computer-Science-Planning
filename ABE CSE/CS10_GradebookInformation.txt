@@ -40,10 +40,18 @@ CSE1010 - Computer Science 1
 - Using Control Structures: Sequential, Decision, Iterative
 
 CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
-- Developer Tools Integration & Exploring Internet Architecture (Classroom Lesson, see notes)
-  - See: Internet-Architecture-Development-Tools
-- Static Webpages: HTML and GitHub Markdown Lessons and Assignments
-  - Document Design: hypertext using tags, attributes, and hyperlinks (including downloading documents)
+- Demonstration through Assignments below
+  - Developer Tools Integration & Exploring Internet Architecture
+    (Classroom Lesson, see notes)
+    - Local vs Hosting: works on not
+    - See: Internet-Architecture-Development-Tools
+    - Version Control
+    - Public Facing Webpages
+- WtLH Local Developing (Website to Learn HTML): website and pages works locally (student computer or ZIP Download)
+- WtLH Hosted (Website to Learn HTML): website and pages works
+- Static Webpages, Pblic Facing: HTML and GitHub Markdown Lessons and Assignments
+  - Document Design: hypertext using tags, attributes, and hyperlinks
+      (including downloading documents)
     - Introduction to Navigation Emphasis: 2-clicks, Browser Navigation (In Tab, New Tab)
     - HTML Layout: mark off the various parts of the document
     - Text: display and emphasize in various ways
@@ -60,17 +68,12 @@ CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
       - GIFs
     - Use style codes inline with HTML
     - Enrichment: java-script writing HTML
-- HTML Lessons Website (index to childPages/template.html)
-  - childPage Template
-  - MetaData
-  - Headings & Paragraph Tags
-  - FooterBlockQuote
-  - DIVs with head-CSS
-  - Images
-  - Sub & Super Script Tags
-  - Note: other HTML Tags mixed into these child pages (see HTML Summary)
-  - Flexbox for dividing up content 
-- Promotions Website: Drawing Program, Music App
+  - HTML Lessons Website (index to childPages/template.html)
+    - childPage Template: Semantic, H, P, A, sub & sup, DIV, strong, em, blockquote, symbols
+    - Flexbox with VW Ratios
+    - MetaData
+    - Images
+- Project: Promotions Website (Drawing Program, Music App, etc)
 
 CSE1110 - Structured Programming 1
 - Algorithms for GUI (Ratios for Geometry Feedback)
