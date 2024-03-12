@@ -92,7 +92,7 @@ CSE3120 - Object-Orientated Programming 1
   - Functions for Access Modifiers: Public Getters and Setters
 - Class Vocabulary
 - Lists Instantiate Objects
-- "Class" Assignments
+- Class Hackathons
 
 Additional Reminders about Object-Orientated Programming 1
   Object Oriented Programming Vocabulary & Evaluation (comparing and contrasting with Procedural, Structural)
