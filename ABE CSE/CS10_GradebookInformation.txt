@@ -40,18 +40,23 @@ CSE1010 - Computer Science 1
 - Using Control Structures: Sequential, Decision, Iterative
 
 CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
-- Demonstration through Assignments below
+- NOTE: see Updated GitHub "To Do List" for Changes
+- Demonstration through Assignments below, could be hackathons or 100% assignments
   - Developer Tools Integration & Exploring Internet Architecture
     (Classroom Lesson, see notes)
+    (See Computer 1 for Developer Tools)
     - Local vs Hosting: works on not
     - See: Internet-Architecture-Development-Tools
     - Version Control
     - Public Facing Webpages
-- WtLH Local Developing (Website to Learn HTML): website and pages works locally (student computer or ZIP Download)
+- WtLH Local Developing (Website to Learn HTML): website and pages works locally
+						 (student computer or ZIP Download)
 - WtLH Hosted (Website to Learn HTML): website and pages works
-- Static Webpages, Pblic Facing: HTML and GitHub Markdown Lessons and Assignments
+				     : if this works, marks for previous
+- Static Webpages, Public Facing: HTML and GitHub Markdown Lessons and Assignments
   - Document Design: hypertext using tags, attributes, and hyperlinks
       (including downloading documents)
+    - ReadMe.md Markdown List making
     - Introduction to Navigation Emphasis: 2-clicks, Browser Navigation (In Tab, New Tab)
     - HTML Layout: mark off the various parts of the document
     - Text: display and emphasize in various ways
