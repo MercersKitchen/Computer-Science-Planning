@@ -1,0 +1,10 @@
+
+Courses for Data Science - Course does recursion (See Udemy Folder in Google DOCs)
+
+CSE3120 - Object-Orientated Programming 1 (Needs CSE2110: Procedural Programming 1)
+CSE3110 - Iterative Algorithm 1 (Needs CSE2120: Data Structures 1)
+CSE3310: Recursive Algorithms 1 (Needs CSE3110: Iterative Algorithm 1, CSE3120: Object-oriented Programming 1)
+CSE3320: Dynamic Data Structures 1 (Needs CSE3310: Recursive Algorithms 1)
+CSE3330: Dynamic Data Structures 2 (Needs CSE3320: Dynamic Data Structures 1)
+
+OPTIONAL: CSE3340: Dynamic Data Structures 3 (Needs CSE3330: Dynamic Data Structures 2)
