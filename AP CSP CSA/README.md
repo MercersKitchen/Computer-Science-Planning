@@ -20,3 +20,9 @@ Starting with ABE Curriculum Map Documents, additional information is added spec
 - CSA Curriculum
 
 See: https://github.com/MercersKitchen/AP-CS
+
+---
+
+https://apcentral.collegeboard.org/courses/ap-computer-science-principles/course
+
+---
