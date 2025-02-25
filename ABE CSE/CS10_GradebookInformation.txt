@@ -41,6 +41,9 @@ CSE1010 - Computer Science 1
 
 CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
 - NOTE: see Updated GitHub "To Do List" for Changes
+  - Developer Tools
+  - Hosted Website (HTML)
+  - Music Player Content
 - Demonstration through Assignments below, could be hackathons or 100% assignments
   - Developer Tools Integration & Exploring Internet Architecture
     (Classroom Lesson, see notes)
