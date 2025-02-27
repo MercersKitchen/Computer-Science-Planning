@@ -200,7 +200,11 @@ Additional Reminders about Iterative Algorithm 1
 
 **UNDER CONSTRUCTION REMINDER**
 
-•	CSE3210 - Server-side Scripting 1
+CSE3210 - Server-side Scripting 1
+- Review HTML5
+  - Responsive Design
+  - DOM
+
 •	CSE2210: Client-side Scripting 3
 •	CSE2110: Procedural Programming 1
 •	CSE2120: Data Structures 1
