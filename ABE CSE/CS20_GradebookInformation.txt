@@ -45,6 +45,8 @@ CSE2010 - Computer Science 2
 
 CSE1220 - Client-Side Scripting 2 (HTML5), No Pre-requisites
 - **Refer to Websites.txt**
+  - Overall effect
+  - Text & Images
 - JavaScript Algorithms (all contained in JavaScript Website below)
   - Sequencing
   - Selection
