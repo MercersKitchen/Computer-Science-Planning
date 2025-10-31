@@ -10,6 +10,7 @@ CSE1110 - Structured Programming 1
   - No Pre-requisites
 CSE1120 - Structured Programming 2
   - Intro to modularity, specifically selection and iteration
+  - Intro to Arrays as Alpha-numeric naming
   - Needs CSE1110: Structured Programming 1
 CSE1210 - Client-Side Scripting 1 (Mark-up Languages)
   - No Pre-requisites
@@ -25,6 +26,85 @@ General Assignment Titles for Individual Study Projects
 - Anecdotal Records, Testing, and Debugging
 - Project Planning
 - Major Project
+
+--- Music Player Specific
+- Focus on Name of Project and main concepts
+
+CSE1010 - Computer Science 1
+- Developer Tools: Email, GitHub, Google Classroom (Computer Environment Setup)
+- Algorithm Introduction: Case Studies and To Do Lists (ReadMe.md Markdown & Simple HTML)
+- Using Algorithms: Data Flowcharts, Pseudocode, Input-Output-Processing
+  DIVs: rect() for developers, variables for computer
+  Music Buttons: drawing 2-D Shapes in a library format (from DIV-variables)
+- Essential Algorithms (i.e. like a calculator in the console):
+  - Ratios in GUI
+  - Basic Images, Text: comparisons of numbers
+
+  ???
+  - Basic operators and assignment operators, ratios in CANVAS for display independent coding
+  - Accumulation (running total),
+  - Determining a Mean (central tendency, not median, or mode without sorting),
+  - Maximums and Minimums
+
+- Software Development: "Iterative and Incremental" (See AP CSP), "Waterfall"
+  ??? Demonstrated in Website Promotion Project for updated prototyping
+  - "Stitching" Code together in Boilerplate
+
+- Control Structures: Sequential, Decision, Iterative (including void-draw() )
+
+CSE1110 - Structured Programming 1 (Static Programming
+**2-D Shapes with parameters and supporting functions
+- Rectangle DIVs: Case Study, Static Program
+- Symbols, Music Buttons Library: Case Study, Static Program, Commenting & Grouping Different Buttons
+- Image: loading and aspect ratio, tinting
+- Text: sequencing code, auto-sizing
+**Strongly Formatted Variables, inspection with character escapes & system-output, debugger, and casting
+**Declaration & Initiation
+**Variables: Cascading, Formulaic Building (foreshadowing procedures)
+**Internal and External Documentation (ReadMe.md List)
+
+Project Names
+- Hello World
+- DIVs
+- Music Buttons with one DIV (2-D Images)
+- Image
+- Text
+
+
+- HEAP Sheets: Reading and Following of HEAP Sheets, Variables, etc. on a flat level
+  - Summaries in population()
+  - Not included when in CS30
+  - Difference between local and global variable tracking (IF, FOR, WHILE, setup(), etc.)
+- Documentation & Syntax
+  - Variable Names making functions readable
+  - Internal: comments
+  - External: ReadMe.txt, ReadMe.md
+	- Enrichment, Promotional: index.html
+- Algorithm Translations
+  - Primitive Data and Boundaries (Integers, Real Numbers: floats & doubles, Characters, & Strings)
+	- Variables and Constants (for Security)
+	- Literals & Input Command (methods or operators)
+- Debugging & Interpretation (& Change)
+  - Syntax Errors: recognize and change
+  - Logic Errors: in various places like debugger, console, or canvas
+  - Run-time Errors: in console or Rendering errors
+- GUI Introductions: 2D Shapes, Layering & Measles
+  - Display Geometry Code (that can be copied)
+  - Example Buttons (including QUIT Button)
+  - Measles Completed Program
+  - Including text, images, and additional 2D shapes
+- Drawing & Music Player App: Case Study & GUI (Including Free Use Music)
+
+- Note: 3 by 3 Home Screen summarizes prototyping, buttons, and interactions
+  "Telling a Story"
+  2D Shapes
+  Random Color
+  Text
+  Images
+  Buttons & Mouse Control
+
+
+---
 
 CSE1010 - Computer Science 1
 - Developer Tools: Using Email, Using GitHub, Using Educational Tools like Google Classroom (Computer Environment Setup)
