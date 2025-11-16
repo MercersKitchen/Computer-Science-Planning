@@ -32,6 +32,7 @@ General Assignment Titles for Individual Study Projects
 
 CSE1010 - Computer Science 1
 - Developer Tools: Email, GitHub, Google Classroom (Computer Environment Setup)
+  All dependencies: 3 music songs, 1 sound effect, images
 - Algorithm Introduction: Case Studies and To Do Lists (ReadMe.md Markdown & Simple HTML)
 - Using Algorithms: Data Flowcharts, Pseudocode, Input-Output-Processing
   DIVs: rect() for developers, variables for computer
