@@ -1,6 +1,6 @@
 ﻿Information unique to Alberta Education and Schools in Alberta
 
-Updated 20220500
+Updated 20251215
 
 CSE1010 - Computer Science 1
   - Algorithms, Block Diagrams
