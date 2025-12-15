@@ -55,7 +55,7 @@ CSE1010 - Computer Science 1
 
 - Software Development: "Iterative and Incremental" (See AP CSP), "Waterfall"
   ??? Demonstrated in Website Promotion Project for updated prototyping
-  - "Stitching" Code together in Boilerplate
+  - "Stitching" Code together in Boilerplate, Requires SP2
 
 - Control Structures: Sequential, Decision, Iterative (including void-draw() )
 
