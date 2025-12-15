@@ -6,12 +6,14 @@ CSE1010 - Computer Science 1
   - Algorithms, Block Diagrams
   - No Pre-requisites
 CSE1110 - Structured Programming 1
+  ** Structured Programs Only, introduction to WHILE Loop and FOR-Array Reading & Writing
   - IOP, basic operators & data types, sequential flow
   - 2D Shapes as rect() and Music Button Symbols
   - Images (basic algorithm, instroduction to Error Checking)
   - Text (basic algorithm, instroduction to Error Checking)
   - No Pre-requisites
 CSE1120 - Structured Programming 2
+  ** Dynamic Programs, introduction only, unique to Proessing.org (draw() as a developed WHILE Loop)
   - Intro to modularity, specifically selection and iteration
   - Intro to Arrays as Alpha-numeric naming
   - Needs CSE1110: Structured Programming 1
