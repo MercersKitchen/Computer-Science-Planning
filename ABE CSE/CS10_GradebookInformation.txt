@@ -1,6 +1,26 @@
 ﻿Information unique to Alberta Education and Schools in Alberta
 
+---
 Updated 20251215
+
+Case Study
+- Complete Music Player
+- Music Symbol Node-based Diagrams
+- DIVs Abstraction
+
+Music Player as DIVs
+
+Music Player Symbols as Composite Shapes
+- In Single DIV
+- [Optional] In Music Player Button DIVs from Case Study
+
+Single Image in One DIV
+- [Optional, bonus points] Algorithms exist for multiple images in multiple DIVs
+
+Single Text in One DIV
+- [Optional, bonus points] Algorithms exist for multiple strings in multiple DIVs in multiple fonts, indices is 1:1 counting from DIVs
+
+---
 
 CSE1010 - Computer Science 1
   - Algorithms, Block Diagrams
@@ -9,8 +29,8 @@ CSE1110 - Structured Programming 1
   ** Structured Programs Only, introduction to WHILE Loop and FOR-Array Reading & Writing
   - IOP, basic operators & data types, sequential flow
   - 2D Shapes as rect() and Music Button Symbols
-  - Images (basic algorithm, instroduction to Error Checking)
-  - Text (basic algorithm, instroduction to Error Checking)
+  - Images (basic algorithm, introduction to Error Checking)
+  - Text (basic algorithm, introduction to Error Checking)
   - No Pre-requisites
 CSE1120 - Structured Programming 2
   ** Dynamic Programs, introduction only, unique to Proessing.org (draw() as a developed WHILE Loop)
