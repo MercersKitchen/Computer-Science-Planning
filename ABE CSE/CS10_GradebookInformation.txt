@@ -22,11 +22,12 @@ Music Player Symbols as Composite Shapes
 - [Optional] In Music Player Button DIVs from Case Study
 
 Single Image in One DIV
-- Single Text in single DIV
-- [Optional, bonus points] Algorithms exist for multiple fonts, images in multiple DIVs
+- Single Image in DIV, with aspect ratio
+- [Optional, bonus points] Algorithms exist for multiple images in the same DIV, index manually controlled
 - Especially Error Checking
 
 Single Text in One DIV
+- Single Text in single DIV
 - [Optional, bonus points] Algorithms exist for multiple strings in multiple DIVs in multiple fonts, indices is 1:1 counting from DIVs
 
 ---
