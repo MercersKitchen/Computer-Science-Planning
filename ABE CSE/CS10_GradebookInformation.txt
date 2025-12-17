@@ -9,13 +9,20 @@ Case Study
 - DIVs Abstraction
 
 Music Player as DIVs
+- Measured Ratios according to Case Study
+- Named rect() through variables, not my names demonstrated you didn't copy and paste
 
 Music Player Symbols as Composite Shapes
-- In Single DIV
+- In Single DIV, like a library
+- Ratios like paperfolding (½, ¼, 1/8, 1/16 ... also 1/3, 1/5, etc.)
+- All composite shapes used from Case Study
 - [Optional] In Music Player Button DIVs from Case Study
 
+
 Single Image in One DIV
+- 
 - [Optional, bonus points] Algorithms exist for multiple images in multiple DIVs
+- Especially Error Checking
 
 Single Text in One DIV
 - [Optional, bonus points] Algorithms exist for multiple strings in multiple DIVs in multiple fonts, indices is 1:1 counting from DIVs
