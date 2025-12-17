@@ -3,6 +3,9 @@
 ---
 Updated 20251215
 
+** Purpose of Static Programs: develop algorithms for dynamic programs
+- List these algorithms for CS20
+
 Case Study
 - Complete Music Player
 - Music Symbol Node-based Diagrams
@@ -18,10 +21,9 @@ Music Player Symbols as Composite Shapes
 - All composite shapes used from Case Study
 - [Optional] In Music Player Button DIVs from Case Study
 
-
 Single Image in One DIV
-- 
-- [Optional, bonus points] Algorithms exist for multiple images in multiple DIVs
+- Single Text in single DIV
+- [Optional, bonus points] Algorithms exist for multiple fonts, images in multiple DIVs
 - Especially Error Checking
 
 Single Text in One DIV
