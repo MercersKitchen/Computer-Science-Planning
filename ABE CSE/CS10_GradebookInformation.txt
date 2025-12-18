@@ -30,6 +30,9 @@ Single Text in One DIV
 - Single Text in single DIV
 - [Optional, bonus points] Algorithms exist for multiple strings in multiple DIVs in multiple fonts, indices is 1:1 counting from DIVs
 
+SP2
+- Boilerplate with keyPressed() music control (getting there through setup() v. draw() testing
+
 ---
 
 CSE1010 - Computer Science 1
