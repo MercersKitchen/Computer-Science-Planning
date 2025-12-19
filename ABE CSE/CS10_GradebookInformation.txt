@@ -30,7 +30,9 @@ Single Text in One DIV
 - Single Text in single DIV
 - [Optional, bonus points] Algorithms exist for multiple strings in multiple DIVs in multiple fonts, indices is 1:1 counting from DIVs
 
-In CS1 Enssential Algorithms are generally understanding Static Programs
+In CS1 Essential Algorithms are generally understanding Static Programs
+**Redo Images Lessons
+**Explore Word Wrap in images
 
 SP2
 - Boilerplate with keyPressed() music control (getting there through setup() v. draw() testing
