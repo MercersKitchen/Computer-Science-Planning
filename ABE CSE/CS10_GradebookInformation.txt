@@ -34,8 +34,14 @@ In CS1 Essential Algorithms are generally understanding Static Programs
 **Redo Images Lessons
 **Explore Word Wrap in images
 
+Explore Word Wrap in Lyrics
+My Music, Lyrics Available
+How do you add lyrics to an MP3
+
+
 SP2
 - Boilerplate with keyPressed() music control (getting there through setup() v. draw() testing
+
 
 ---
 
