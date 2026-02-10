@@ -250,8 +250,18 @@ CSE1110 - Structured Programming 1
   Images
   Buttons & Mouse Control
 
+---
 
 CSE1120 - Structured Programming 2
+
+New Assignments
+- Pahtways
+- Music and Sound Prototyping
+- User Interactions ( keyPressed() & mousePressed() )
+- Porting of Static to Dynamic
+
+Old Assignemnts
+
 - CAUTION: 3 by 3 Screen could extend to this level if FOR & IF used a lot without copying my code
 
 - Algorithms: Use More than one IPO Module
@@ -279,6 +289,8 @@ CSE1120 - Structured Programming 2
 - Drawing App (working app)
 - Music Player App (working app)
 
+---
+
 CSE1910 - CSE Project A
 - Purpose: workflow of project management, individually monitored and communicated prior to building
   - Identify the project
@@ -296,7 +308,20 @@ CSE1910 - CSE Project A
 	- Present project and performance, indicating outcomes attained and relationship of outcomes to goals originally set
 	- Evaluate project and performance indicating the processes and strategies used
 	- Make recommendations on how the project and performance could be improved
+
 Assignment Titles for Gradebook
+New: Summary Experience
+- matches Case Study, features
+- buttons & keypresses work
+- PREV Test: ArrayOutOfBounds
+- QUIT Sound Effect Test
+
+- Use of static prototyping
+
+- Use of arrays
+
+---
+
 - Project Planning
 - Anecdotal Grading, Testing & Debugging
 - Final Project Experience & Code
