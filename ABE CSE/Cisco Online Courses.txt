@@ -1,5 +1,5 @@
 Beginning Thoughts
-- JS1, CS10: 1 (C-Science1), 2 (SP1), 3 (SP1), 4 (DA1 & F&FS1) 
+- JS1, CS10: 1 (C-Science1), 2 (SP1), 3 (SP1 & SP2), 4 (DS1 & F&FS1) 
 - JS1, CS20: : 5 (PP1), 6 (C-Science2)
 - JS1 Final Exam: 1000-level Project Course
 - JS1, Project: 1000-level Project Course, 2000-level Project Course
@@ -7,3 +7,8 @@ Beginning Thoughts
 - JS2, CS30: 1 (C-Science3), 2 (OOP1), 3 (OOP2), 4 (IA1)
 - JS2 Final Exam (Project Course, adjusting other courses)
 - JS2 Project: Project Course at 3000-level
+
+- Python 1, CS10, CS20: 1, (C-Science1), 2 (SP1), 3 (SP2), 4 (DA1 & F&FS1)
+- Python 2, CS20: 1, (C-Science2), 2 (PP1), 3 (PP!), 4 (DS1 & F&FS1)
+- Python Project: Project Course at 1000 or 2000 Level
+- Python Final: to adjust individual courses
