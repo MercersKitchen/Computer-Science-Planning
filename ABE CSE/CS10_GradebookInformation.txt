@@ -1,34 +1,70 @@
 ﻿Information unique to Alberta Education and Schools in Alberta
 
 ---
-Updated 20251215
+Summary of Graded Assignments Updated 20260311
 
 ** Purpose of Static Programs: develop algorithms for dynamic programs
 - List these algorithms for CS20
 
-Case Study
-- Complete Music Player
-- Music Symbol Node-based Diagrams
-- DIVs Abstraction
+HelloWorld.pde: CS1, Developer Tools
+- Must have GitHub.io
+- Must have Processing
+- Must be using Google FORMs to GitHub.io
 
-Music Player as DIVs
+Case Study: CS1, Algorithm Introduction
+- Complete Music Player
+- DIVs Abstraction from ruler-based measurements or paper folds
+- Music Symbol Node-based Diagrams
+** Must have URL to Images uploaded to GitHub.io
+
+Next Two Assignments Graded together
+
+Music Player as DIVs: CS1, Using Algorithms
 - Measured Ratios according to Case Study
 - Named rect() through variables, not my names demonstrated you didn't copy and paste
 
-Music Player Symbols as Composite Shapes
+Music Player Symbols as Composite Shapes: CS1, Using Algorithms (also 50% in CS1, Essential Algorithms)
 - In Single DIV, like a library
 - Ratios like paperfolding (½, ¼, 1/8, 1/16 ... also 1/3, 1/5, etc.)
 - All composite shapes used from Case Study
 - [Optional] In Music Player Button DIVs from Case Study
 
+Program intended for CS20-30 too
+Library of Music Symbols focusing on Organization
 Single Image in One DIV
 - Single Image in DIV, with aspect ratio
 - [Optional, bonus points] Algorithms exist for multiple images in the same DIV, index manually controlled
 - Especially Error Checking
 
-Single Text in One DIV
+Next Two Assignments Graded together
+
+Single Image in One DIV: CS1, Essential Algorithms
+- Single Image in DIV
+- In Aspect Ratio
+- [Optional, bonus points] Algorithms exist for multiple strings in multiple DIVs in multiple fonts, indices is 1:1 counting from DIVs
+
+Single Text in One DIV: CS1, Essential Algorithms
 - Single Text in single DIV
 - [Optional, bonus points] Algorithms exist for multiple strings in multiple DIVs in multiple fonts, indices is 1:1 counting from DIVs
+
+TBA
+- CS1, Software Development, See Below
+- SP1, DIVs 
+- SP1, 2D Symbols
+- SP1, Images
+- SP1, Text
+
+- SP2, Pathways
+- SP2, Music & Sound
+- SP2, User Interactions
+- SP2, Porting of Static Algorithms
+
+- Project, Summary Experience
+
+- Client Side, HTML & Markdown (Repo List)
+
+
+
 
 In CS1 Essential Algorithms are generally understanding Static Programs
 **Redo Images Lessons
@@ -38,9 +74,14 @@ Explore Word Wrap in Lyrics
 My Music, Lyrics Available
 How do you add lyrics to an MP3
 
+TBA
 
 SP2
 - Boilerplate with keyPressed() music control (getting there through setup() v. draw() testing
+
+
+
+
 
 
 ---
@@ -93,6 +134,9 @@ CSE1010 - Computer Science 1
 - Essential Algorithms (i.e. like a calculator in the console):
   - Ratios in GUI
   - Basic Images, Text: comparisons of numbers
+- Software Development
+  - Integrating SP1 Algorithms to SP2
+  - Including SP1 & SP2 in Final Project
 
   ???
   - Basic operators and assignment operators, ratios in CANVAS for display independent coding
