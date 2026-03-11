@@ -2,6 +2,27 @@
 
 **UNDER CONSTRUCTION**
 
+Assignment Summary
+
+DIVs: 
+** CS3, Developer Tools (or any program through Google FORMs)
+** OOP, Intro Class-Object
+- Introduction of Class-object
+- Multiple Constructor
+- Encapsulation of Class leading to Single Anonymous Class
+
+Music Symbols & Engagement
+
+Consider
+Music Symbols Design
+Music Symbol Procedural Choice for Drawing & Hoverover
+Music Symbols Flowchart & Smart Buttons (Can be based on .isPlaying() ... or something else)
+Music Button engagement simple-return as ErrorCheck(statement)
+- Must include Boolean Mouse Return in For Loop based on %4=0 to execute additional procedures
+- Should Verify all Music Button Functioning
+
+---
+
 Courses Available - Depending on Student Experience
 
 CSE3010 - Computer Science 3 (Needs CSE2010: Computer Science 2)

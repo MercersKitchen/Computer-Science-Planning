@@ -2,6 +2,60 @@ Information is Unique to Alberta Education and Schools in Alberta
 
 **UNDER CONSTRUCTION**
 
+---
+
+Assignments Summary for CS20-30
+
+DIVs: CS2, Developer Tools (or any program through Google FORMs)
+- Introduction of ARRAY for rect(parameters) being accessed through %4 & int(i/4)
+- Introduction of Referent Grid ErrorCatch on non-calculated dimension
+- Introduction of Procedural "ErrorCatch" Design
+- Introduction of Polynomial Calculations, as abstraction of formulae
+- Introduction of Mouse Interaction Boolean Return 
+
+DIVs: P1, Algorithm Review
+- User Interaction (from SP2)
+
+TBA
+- Music and Sound (using Library)
+- Pathways (using Library)
+
+CS2
+- Developer Tools
+- Algorithm Introduction
+  DIVs
+  Music Symbols
+  Multiple Images 
+  Multiple Texts & Fonts
+- OS Library (For Reading Music and Images Loading) in Music Player
+- API Usage (in Weather App)
+
+P1
+- Review of CS10, Timer App
+- Case Study
+- Prototyping Procedures (no return)
+  - Timer App
+  - Weather App
+  - Library 
+- Prototyping Functions (return)
+  - Calculators: text, images
+  - Weather App: API Calls and functions dependant of API Calls
+- App Engine Development
+  - Incorporating Procedures and Functions
+  - Library Introduction
+
+- Timing Evaluation
+- Method Algorithms Efficiency
+- Image & Music Loading
+
+DS1: Arrays
+
+F&FS1
+- Preferences
+
+
+---
+
 Courses Available - Depending on Student Experience
 CSE2010 - Computer Science 2
   - Needs CSE1010 - Computer Science 1, CSE1120: Structured Programming 2
